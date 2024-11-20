@@ -1,0 +1,3368 @@
+[
+    {
+        "name": "The Legend of Zelda: The Wind Waker",
+        "rating": 9.2,
+        "reviews": 1100,
+        "final_score": 9.060869565217391
+    },
+    {
+        "name": "Resident Evil 4 [2005]",
+        "rating": 9.1,
+        "reviews": 1900,
+        "final_score": 9.02051282051282
+    },
+    {
+        "name": "Metroid Prime",
+        "rating": 9.2,
+        "reviews": 570,
+        "final_score": 8.941935483870967
+    },
+    {
+        "name": "Super Smash Bros. Melee",
+        "rating": 9.1,
+        "reviews": 704,
+        "final_score": 8.89442970822281
+    },
+    {
+        "name": "Paper Mario: The Thousand-Year Door",
+        "rating": 9.3,
+        "reviews": 350,
+        "final_score": 8.887500000000001
+    },
+    {
+        "name": "The Legend of Zelda: Twilight Princess",
+        "rating": 8.9,
+        "reviews": 1100,
+        "final_score": 8.773913043478261
+    },
+    {
+        "name": "Need for Speed Most Wanted",
+        "rating": 8.8,
+        "reviews": 522,
+        "final_score": 8.555244755244756
+    },
+    {
+        "name": "Resident Evil",
+        "rating": 8.9,
+        "reviews": 312,
+        "final_score": 8.499447513812155
+    },
+    {
+        "name": "Need for Speed Underground 2",
+        "rating": 8.6,
+        "reviews": 426,
+        "final_score": 8.326890756302522
+    },
+    {
+        "name": "Mario Kart: Double Dash!!",
+        "rating": 8.5,
+        "reviews": 533,
+        "final_score": 8.285591766723842
+    },
+    {
+        "name": "Tom Clancy's Splinter Cell Chaos Theory",
+        "rating": 8.6,
+        "reviews": 267,
+        "final_score": 8.189905362776024
+    },
+    {
+        "name": "Super Mario Sunshine",
+        "rating": 8.3,
+        "reviews": 819,
+        "final_score": 8.167663981588033
+    },
+    {
+        "name": "Sonic Adventure 2",
+        "rating": 8.4,
+        "reviews": 430,
+        "final_score": 8.15
+    },
+    {
+        "name": "Animal Crossing",
+        "rating": 8.7,
+        "reviews": 175,
+        "final_score": 8.1
+    },
+    {
+        "name": "Metroid Prime 2: Echoes",
+        "rating": 8.6,
+        "reviews": 187,
+        "final_score": 8.051476793248945
+    },
+    {
+        "name": "Fire Emblem: Path of Radiance",
+        "rating": 9.0,
+        "reviews": 105,
+        "final_score": 8.03225806451613
+    },
+    {
+        "name": "Spider-Man 2 [2004]",
+        "rating": 8.3,
+        "reviews": 361,
+        "final_score": 8.020194647201947
+    },
+    {
+        "name": "Metal Gear Solid: The Twin Snakes",
+        "rating": 8.5,
+        "reviews": 209,
+        "final_score": 8.017374517374517
+    },
+    {
+        "name": "Prince of Persia: The Sands of Time",
+        "rating": 8.2,
+        "reviews": 542,
+        "final_score": 8.014189189189189
+    },
+    {
+        "name": "Luigi's Mansion",
+        "rating": 8.2,
+        "reviews": 534,
+        "final_score": 8.011643835616438
+    },
+    {
+        "name": "The Sims 2",
+        "rating": 8.3,
+        "reviews": 325,
+        "final_score": 7.993333333333335
+    },
+    {
+        "name": "Need for Speed Underground",
+        "rating": 8.3,
+        "reviews": 286,
+        "final_score": 7.957738095238096
+    },
+    {
+        "name": "Soulcalibur II",
+        "rating": 8.4,
+        "reviews": 219,
+        "final_score": 7.953903345724909
+    },
+    {
+        "name": "The Simpsons: Hit & Run",
+        "rating": 8.2,
+        "reviews": 325,
+        "final_score": 7.906666666666665
+    },
+    {
+        "name": "Tales of Symphonia",
+        "rating": 8.7,
+        "reviews": 120,
+        "final_score": 7.905882352941177
+    },
+    {
+        "name": "Def Jam: Fight for NY",
+        "rating": 8.6,
+        "reviews": 133,
+        "final_score": 7.889617486338798
+    },
+    {
+        "name": "Tony Hawk's Pro Skater 3",
+        "rating": 8.5,
+        "reviews": 154,
+        "final_score": 7.887254901960785
+    },
+    {
+        "name": "Prince of Persia: Warrior Within",
+        "rating": 8.2,
+        "reviews": 290,
+        "final_score": 7.876470588235295
+    },
+    {
+        "name": "The Lord of the Rings: The Return of the King",
+        "rating": 8.3,
+        "reviews": 216,
+        "final_score": 7.867669172932332
+    },
+    {
+        "name": "The Legend of Zelda: Ocarina of Time / Master Quest",
+        "rating": 9.4,
+        "reviews": 59,
+        "final_score": 7.840366972477065
+    },
+    {
+        "name": "Super Paper Mario",
+        "rating": 8.2,
+        "reviews": 253,
+        "final_score": 7.8369636963696365
+    },
+    {
+        "name": "Pikmin 2",
+        "rating": 8.4,
+        "reviews": 160,
+        "final_score": 7.828571428571428
+    },
+    {
+        "name": "The Legend of Zelda: Collector's Edition",
+        "rating": 9.4,
+        "reviews": 58,
+        "final_score": 7.825925925925926
+    },
+    {
+        "name": "Pikmin",
+        "rating": 8.2,
+        "reviews": 241,
+        "final_score": 7.821993127147766
+    },
+    {
+        "name": "Tony Hawk's Underground",
+        "rating": 8.3,
+        "reviews": 187,
+        "final_score": 7.814767932489452
+    },
+    {
+        "name": "Tom Clancy's Splinter Cell",
+        "rating": 8.2,
+        "reviews": 235,
+        "final_score": 7.814035087719298
+    },
+    {
+        "name": "Beyond Good & Evil",
+        "rating": 8.2,
+        "reviews": 222,
+        "final_score": 7.795588235294116
+    },
+    {
+        "name": "NBA Street Vol. 2",
+        "rating": 8.8,
+        "reviews": 88,
+        "final_score": 7.785507246376812
+    },
+    {
+        "name": "Prince of Persia: The Two Thrones",
+        "rating": 8.1,
+        "reviews": 263,
+        "final_score": 7.764536741214057
+    },
+    {
+        "name": "Ultimate Spider-Man",
+        "rating": 8.1,
+        "reviews": 260,
+        "final_score": 7.7612903225806456
+    },
+    {
+        "name": "LEGO Star Wars: The Video Game",
+        "rating": 8.0,
+        "reviews": 356,
+        "final_score": 7.753694581280788
+    },
+    {
+        "name": "Tony Hawk's Pro Skater 4",
+        "rating": 8.5,
+        "reviews": 115,
+        "final_score": 7.742424242424242
+    },
+    {
+        "name": "LEGO Star Wars II: The Original Trilogy",
+        "rating": 8.0,
+        "reviews": 338,
+        "final_score": 7.742268041237113
+    },
+    {
+        "name": "Tony Hawk's Underground 2",
+        "rating": 8.2,
+        "reviews": 169,
+        "final_score": 7.697716894977169
+    },
+    {
+        "name": "Eternal Darkness: Sanity's Requiem",
+        "rating": 8.5,
+        "reviews": 104,
+        "final_score": 7.688311688311688
+    },
+    {
+        "name": "TimeSplitters 2",
+        "rating": 8.4,
+        "reviews": 113,
+        "final_score": 7.663803680981595
+    },
+    {
+        "name": "Star Wars Rogue Squadron II: Rogue Leader",
+        "rating": 8.5,
+        "reviews": 99,
+        "final_score": 7.6610738255033555
+    },
+    {
+        "name": "SSX 3",
+        "rating": 8.6,
+        "reviews": 83,
+        "final_score": 7.622556390977444
+    },
+    {
+        "name": "SSX Tricky",
+        "rating": 8.3,
+        "reviews": 115,
+        "final_score": 7.6030303030303035
+    },
+    {
+        "name": "Super Mario Strikers",
+        "rating": 8.1,
+        "reviews": 158,
+        "final_score": 7.595192307692307
+    },
+    {
+        "name": "Tom Clancy's Splinter Cell Pandora Tomorrow",
+        "rating": 8.2,
+        "reviews": 125,
+        "final_score": 7.571428571428571
+    },
+    {
+        "name": "F-Zero GX",
+        "rating": 8.5,
+        "reviews": 81,
+        "final_score": 7.5458015267175576
+    },
+    {
+        "name": "Hitman 2: Silent Assassin",
+        "rating": 8.1,
+        "reviews": 137,
+        "final_score": 7.538502673796792
+    },
+    {
+        "name": "SpongeBob SquarePants: Battle For Bikini Bottom",
+        "rating": 8.2,
+        "reviews": 111,
+        "final_score": 7.516770186335402
+    },
+    {
+        "name": "Pokemon XD: Gale of Darkness",
+        "rating": 8.1,
+        "reviews": 128,
+        "final_score": 7.510112359550561
+    },
+    {
+        "name": "Star Wars Jedi Knight II: Jedi Outcast",
+        "rating": 8.0,
+        "reviews": 151,
+        "final_score": 7.502487562189055
+    },
+    {
+        "name": "Resident Evil Code: Veronica X",
+        "rating": 7.8,
+        "reviews": 230,
+        "final_score": 7.478571428571429
+    },
+    {
+        "name": "Need for Speed Carbon",
+        "rating": 7.7,
+        "reviews": 313,
+        "final_score": 7.465840220385675
+    },
+    {
+        "name": "Tomb Raider: Legend",
+        "rating": 7.8,
+        "reviews": 214,
+        "final_score": 7.459090909090909
+    },
+    {
+        "name": "Pokemon Colosseum",
+        "rating": 7.9,
+        "reviews": 161,
+        "final_score": 7.449763033175356
+    },
+    {
+        "name": "The Lord of the Rings: The Two Towers",
+        "rating": 7.8,
+        "reviews": 172,
+        "final_score": 7.394594594594595
+    },
+    {
+        "name": "Need for Speed: Hot Pursuit 2",
+        "rating": 8.0,
+        "reviews": 104,
+        "final_score": 7.35064935064935
+    },
+    {
+        "name": "X-Men Legends II: Rise of Apocalypse",
+        "rating": 8.3,
+        "reviews": 70,
+        "final_score": 7.341666666666667
+    },
+    {
+        "name": "Gun",
+        "rating": 7.9,
+        "reviews": 106,
+        "final_score": 7.291025641025642
+    },
+    {
+        "name": "TimeSplitters: Future Perfect",
+        "rating": 8.4,
+        "reviews": 58,
+        "final_score": 7.28888888888889
+    },
+    {
+        "name": "Mario Power Tennis",
+        "rating": 7.9,
+        "reviews": 95,
+        "final_score": 7.244827586206896
+    },
+    {
+        "name": "Tony Hawk's American Wasteland",
+        "rating": 7.9,
+        "reviews": 93,
+        "final_score": 7.235664335664336
+    },
+    {
+        "name": "Viewtiful Joe",
+        "rating": 8.1,
+        "reviews": 71,
+        "final_score": 7.232231404958678
+    },
+    {
+        "name": "NBA Street",
+        "rating": 8.4,
+        "reviews": 48,
+        "final_score": 7.175510204081633
+    },
+    {
+        "name": "Star Fox Adventures",
+        "rating": 7.7,
+        "reviews": 111,
+        "final_score": 7.172049689440994
+    },
+    {
+        "name": "Kirby Air Ride",
+        "rating": 7.8,
+        "reviews": 93,
+        "final_score": 7.170629370629372
+    },
+    {
+        "name": "Mario Superstar Baseball",
+        "rating": 8.0,
+        "reviews": 68,
+        "final_score": 7.1525423728813555
+    },
+    {
+        "name": "Rayman 3: Hoodlum Havoc",
+        "rating": 7.9,
+        "reviews": 77,
+        "final_score": 7.151968503937009
+    },
+    {
+        "name": "Mario Party 4",
+        "rating": 7.7,
+        "reviews": 101,
+        "final_score": 7.137086092715232
+    },
+    {
+        "name": "Freedom Fighters",
+        "rating": 8.1,
+        "reviews": 59,
+        "final_score": 7.136697247706421
+    },
+    {
+        "name": "Harry Potter and the Chamber of Secrets",
+        "rating": 7.5,
+        "reviews": 143,
+        "final_score": 7.11139896373057
+    },
+    {
+        "name": "Mario Party 7",
+        "rating": 7.7,
+        "reviews": 93,
+        "final_score": 7.105594405594406
+    },
+    {
+        "name": "Peter Jackson's King Kong",
+        "rating": 7.6,
+        "reviews": 109,
+        "final_score": 7.09685534591195
+    },
+    {
+        "name": "James Bond 007: NightFire",
+        "rating": 7.6,
+        "reviews": 103,
+        "final_score": 7.077124183006536
+    },
+    {
+        "name": "Baldur's Gate: Dark Alliance",
+        "rating": 8.0,
+        "reviews": 58,
+        "final_score": 7.074074074074074
+    },
+    {
+        "name": "The Legend of Zelda: Four Swords Adventures",
+        "rating": 7.5,
+        "reviews": 126,
+        "final_score": 7.073863636363637
+    },
+    {
+        "name": "Super Monkey Ball 2",
+        "rating": 8.2,
+        "reviews": 47,
+        "final_score": 7.065979381443299
+    },
+    {
+        "name": "The Lord of the Rings: The Third Age",
+        "rating": 7.7,
+        "reviews": 84,
+        "final_score": 7.065671641791045
+    },
+    {
+        "name": "Sonic Mega Collection",
+        "rating": 8.3,
+        "reviews": 43,
+        "final_score": 7.063440860215055
+    },
+    {
+        "name": "FIFA Soccer 07",
+        "rating": 8.1,
+        "reviews": 51,
+        "final_score": 7.060396039603959
+    },
+    {
+        "name": "The Incredible Hulk: Ultimate Destruction",
+        "rating": 8.0,
+        "reviews": 55,
+        "final_score": 7.0476190476190474
+    },
+    {
+        "name": "X-Men Legends",
+        "rating": 7.8,
+        "reviews": 68,
+        "final_score": 7.03728813559322
+    },
+    {
+        "name": "Medal of Honor: Frontline",
+        "rating": 7.6,
+        "reviews": 92,
+        "final_score": 7.036619718309859
+    },
+    {
+        "name": "NFL Street",
+        "rating": 8.4,
+        "reviews": 38,
+        "final_score": 7.036363636363637
+    },
+    {
+        "name": "Baten Kaitos: Eternal Wings and the Lost Ocean",
+        "rating": 8.5,
+        "reviews": 35,
+        "final_score": 7.029411764705882
+    },
+    {
+        "name": "Call of Duty 2: Big Red One",
+        "rating": 7.6,
+        "reviews": 90,
+        "final_score": 7.0285714285714285
+    },
+    {
+        "name": "Sonic Heroes",
+        "rating": 7.2,
+        "reviews": 276,
+        "final_score": 7.015950920245398
+    },
+    {
+        "name": "NFL Street 2",
+        "rating": 8.6,
+        "reviews": 32,
+        "final_score": 7.014634146341464
+    },
+    {
+        "name": "Crash Nitro Kart",
+        "rating": 7.5,
+        "reviews": 103,
+        "final_score": 7.009803921568627
+    },
+    {
+        "name": "Tom Clancy's Splinter Cell Double Agent",
+        "rating": 7.4,
+        "reviews": 127,
+        "final_score": 7.0045197740113005
+    },
+    {
+        "name": "Resident Evil Zero [2002]",
+        "rating": 7.5,
+        "reviews": 101,
+        "final_score": 7.003311258278146
+    },
+    {
+        "name": "FIFA Street 2",
+        "rating": 7.6,
+        "reviews": 83,
+        "final_score": 6.998496240601503
+    },
+    {
+        "name": "Mario Golf: Toadstool Tour",
+        "rating": 7.8,
+        "reviews": 62,
+        "final_score": 6.996428571428571
+    },
+    {
+        "name": "Super Monkey Ball",
+        "rating": 7.7,
+        "reviews": 70,
+        "final_score": 6.991666666666666
+    },
+    {
+        "name": "Mario Party 6",
+        "rating": 7.7,
+        "reviews": 69,
+        "final_score": 6.985714285714287
+    },
+    {
+        "name": "Dragon Ball Z Budokai 2",
+        "rating": 7.4,
+        "reviews": 117,
+        "final_score": 6.980838323353295
+    },
+    {
+        "name": "James Bond 007: Everything or Nothing",
+        "rating": 7.8,
+        "reviews": 59,
+        "final_score": 6.974311926605505
+    },
+    {
+        "name": "Mario Party 5",
+        "rating": 7.5,
+        "reviews": 90,
+        "final_score": 6.964285714285714
+    },
+    {
+        "name": "Harry Potter and the Prisoner of Azkaban",
+        "rating": 7.4,
+        "reviews": 101,
+        "final_score": 6.936423841059603
+    },
+    {
+        "name": "Digimon Rumble Arena 2",
+        "rating": 7.8,
+        "reviews": 53,
+        "final_score": 6.92621359223301
+    },
+    {
+        "name": "Madden NFL 2005",
+        "rating": 8.2,
+        "reviews": 36,
+        "final_score": 6.92093023255814
+    },
+    {
+        "name": "XIII [2003]",
+        "rating": 7.7,
+        "reviews": 59,
+        "final_score": 6.920183486238532
+    },
+    {
+        "name": "Crash Bandicoot: The Wrath of Cortex",
+        "rating": 7.2,
+        "reviews": 153,
+        "final_score": 6.904433497536947
+    },
+    {
+        "name": "The SpongeBob SquarePants Movie: The Game",
+        "rating": 7.6,
+        "reviews": 65,
+        "final_score": 6.904347826086957
+    },
+    {
+        "name": "Sonic Riders",
+        "rating": 7.3,
+        "reviews": 109,
+        "final_score": 6.891194968553458
+    },
+    {
+        "name": "Madden NFL 2004",
+        "rating": 8.4,
+        "reviews": 29,
+        "final_score": 6.881012658227848
+    },
+    {
+        "name": "Donkey Kong Jungle Beat",
+        "rating": 7.8,
+        "reviews": 46,
+        "final_score": 6.8625
+    },
+    {
+        "name": "Ikaruga",
+        "rating": 8.2,
+        "reviews": 32,
+        "final_score": 6.8585365853658535
+    },
+    {
+        "name": "Medal of Honor: European Assault",
+        "rating": 7.7,
+        "reviews": 51,
+        "final_score": 6.858415841584159
+    },
+    {
+        "name": "Star Wars Rogue Squadron III: Rebel Strike",
+        "rating": 7.9,
+        "reviews": 40,
+        "final_score": 6.844444444444444
+    },
+    {
+        "name": "Chibi-Robo",
+        "rating": 8.6,
+        "reviews": 24,
+        "final_score": 6.843243243243243
+    },
+    {
+        "name": "Crash Tag Team Racing",
+        "rating": 7.3,
+        "reviews": 87,
+        "final_score": 6.8255474452554745
+    },
+    {
+        "name": "Neighbors from Hell",
+        "rating": 8.1,
+        "reviews": 32,
+        "final_score": 6.819512195121952
+    },
+    {
+        "name": "Mortal Kombat: Deadly Alliance",
+        "rating": 7.3,
+        "reviews": 79,
+        "final_score": 6.796124031007752
+    },
+    {
+        "name": "Burnout 2: Point of Impact",
+        "rating": 7.7,
+        "reviews": 44,
+        "final_score": 6.7957446808510635
+    },
+    {
+        "name": "Killer 7",
+        "rating": 7.8,
+        "reviews": 39,
+        "final_score": 6.788764044943821
+    },
+    {
+        "name": "WarioWare Inc. Mega Party Game$",
+        "rating": 7.8,
+        "reviews": 39,
+        "final_score": 6.788764044943821
+    },
+    {
+        "name": "From Russia With Love",
+        "rating": 7.8,
+        "reviews": 38,
+        "final_score": 6.777272727272727
+    },
+    {
+        "name": "Ratatouille",
+        "rating": 7.3,
+        "reviews": 74,
+        "final_score": 6.775806451612903
+    },
+    {
+        "name": "Spider-Man [The Movie Game]",
+        "rating": 7.0,
+        "reviews": 167,
+        "final_score": 6.7695852534562215
+    },
+    {
+        "name": "Viewtiful Joe 2",
+        "rating": 8.3,
+        "reviews": 25,
+        "final_score": 6.766666666666667
+    },
+    {
+        "name": "Donkey Konga",
+        "rating": 7.6,
+        "reviews": 46,
+        "final_score": 6.766666666666666
+    },
+    {
+        "name": "Wave Race: Blue Storm",
+        "rating": 7.9,
+        "reviews": 33,
+        "final_score": 6.755421686746988
+    },
+    {
+        "name": "Harvest Moon: A Wonderful Life",
+        "rating": 8.1,
+        "reviews": 28,
+        "final_score": 6.753846153846153
+    },
+    {
+        "name": "Dragon Ball Z Budokai",
+        "rating": 7.0,
+        "reviews": 137,
+        "final_score": 6.732620320855615
+    },
+    {
+        "name": "Batman Begins",
+        "rating": 7.1,
+        "reviews": 96,
+        "final_score": 6.723287671232876
+    },
+    {
+        "name": "Def Jam Vendetta",
+        "rating": 8.0,
+        "reviews": 28,
+        "final_score": 6.717948717948718
+    },
+    {
+        "name": "Scooby-Doo! Night of 100 Frights",
+        "rating": 7.9,
+        "reviews": 30,
+        "final_score": 6.7125
+    },
+    {
+        "name": "Star Wars: Bounty Hunter",
+        "rating": 7.2,
+        "reviews": 73,
+        "final_score": 6.712195121951219
+    },
+    {
+        "name": "SSX On Tour",
+        "rating": 7.7,
+        "reviews": 36,
+        "final_score": 6.711627906976744
+    },
+    {
+        "name": "Medal of Honor: Rising Sun",
+        "rating": 7.4,
+        "reviews": 51,
+        "final_score": 6.706930693069308
+    },
+    {
+        "name": "Star Fox Assault",
+        "rating": 7.2,
+        "reviews": 71,
+        "final_score": 6.704132231404959
+    },
+    {
+        "name": "The Suffering",
+        "rating": 7.8,
+        "reviews": 32,
+        "final_score": 6.7024390243902445
+    },
+    {
+        "name": "Spartan: Total Warrior",
+        "rating": 8.0,
+        "reviews": 27,
+        "final_score": 6.701298701298701
+    },
+    {
+        "name": "Spyro: A Hero's Tail",
+        "rating": 7.5,
+        "reviews": 43,
+        "final_score": 6.693548387096774
+    },
+    {
+        "name": "Harry Potter and the Sorcerer's Stone",
+        "rating": 7.0,
+        "reviews": 112,
+        "final_score": 6.691358024691358
+    },
+    {
+        "name": "NBA Street V3",
+        "rating": 7.7,
+        "reviews": 34,
+        "final_score": 6.688095238095237
+    },
+    {
+        "name": "Madden NFL 08",
+        "rating": 7.5,
+        "reviews": 42,
+        "final_score": 6.684782608695652
+    },
+    {
+        "name": "Madden NFL 07",
+        "rating": 7.6,
+        "reviews": 35,
+        "final_score": 6.658823529411765
+    },
+    {
+        "name": "Harry Potter: Quidditch World Cup",
+        "rating": 7.0,
+        "reviews": 87,
+        "final_score": 6.635036496350365
+    },
+    {
+        "name": "Psi-Ops: The Mindgate Conspiracy",
+        "rating": 8.0,
+        "reviews": 23,
+        "final_score": 6.63013698630137
+    },
+    {
+        "name": "Mega Man X Collection",
+        "rating": 8.7,
+        "reviews": 15,
+        "final_score": 6.623076923076923
+    },
+    {
+        "name": "Ty the Tasmanian Tiger",
+        "rating": 7.8,
+        "reviews": 26,
+        "final_score": 6.6157894736842096
+    },
+    {
+        "name": "Enter the Matrix",
+        "rating": 6.9,
+        "reviews": 104,
+        "final_score": 6.607792207792208
+    },
+    {
+        "name": "Naruto: Clash of Ninja 2",
+        "rating": 7.5,
+        "reviews": 34,
+        "final_score": 6.607142857142857
+    },
+    {
+        "name": "Custom Robo Battle Revolution",
+        "rating": 8.2,
+        "reviews": 19,
+        "final_score": 6.605797101449275
+    },
+    {
+        "name": "The Simpsons Road Rage",
+        "rating": 7.1,
+        "reviews": 61,
+        "final_score": 6.604504504504503
+    },
+    {
+        "name": "NHL Hitz 20-02",
+        "rating": 8.9,
+        "reviews": 13,
+        "final_score": 6.598412698412698
+    },
+    {
+        "name": "Alien Hominid",
+        "rating": 7.5,
+        "reviews": 33,
+        "final_score": 6.596385542168675
+    },
+    {
+        "name": "Wario World",
+        "rating": 7.4,
+        "reviews": 37,
+        "final_score": 6.5954022988505745
+    },
+    {
+        "name": "Barnyard",
+        "rating": 7.8,
+        "reviews": 24,
+        "final_score": 6.583783783783784
+    },
+    {
+        "name": "Worms 3D",
+        "rating": 7.5,
+        "reviews": 30,
+        "final_score": 6.5625
+    },
+    {
+        "name": "MVP Baseball 2005",
+        "rating": 8.9,
+        "reviews": 12,
+        "final_score": 6.561290322580645
+    },
+    {
+        "name": "Madden NFL 06",
+        "rating": 7.6,
+        "reviews": 27,
+        "final_score": 6.561038961038961
+    },
+    {
+        "name": "The Sims: Bustin' Out",
+        "rating": 7.5,
+        "reviews": 29,
+        "final_score": 6.550632911392405
+    },
+    {
+        "name": "The Urbz: Sims in the City",
+        "rating": 7.1,
+        "reviews": 50,
+        "final_score": 6.55
+    },
+    {
+        "name": "True Crime: Streets of L.A.",
+        "rating": 7.1,
+        "reviews": 50,
+        "final_score": 6.55
+    },
+    {
+        "name": "SpongeBob SquarePants: Lights, Camera, PANTS!",
+        "rating": 7.3,
+        "reviews": 36,
+        "final_score": 6.544186046511627
+    },
+    {
+        "name": "Sonic Gems Collection",
+        "rating": 7.9,
+        "reviews": 20,
+        "final_score": 6.542857142857143
+    },
+    {
+        "name": "Marvel Nemesis: Rise of the Imperfects",
+        "rating": 7.0,
+        "reviews": 57,
+        "final_score": 6.5327102803738315
+    },
+    {
+        "name": "Shrek 2",
+        "rating": 6.9,
+        "reviews": 72,
+        "final_score": 6.531147540983606
+    },
+    {
+        "name": "1080 Avalanche",
+        "rating": 8.0,
+        "reviews": 18,
+        "final_score": 6.529411764705882
+    },
+    {
+        "name": "Final Fantasy Crystal Chronicles",
+        "rating": 7.2,
+        "reviews": 39,
+        "final_score": 6.525842696629213
+    },
+    {
+        "name": "Baten Kaitos Origins",
+        "rating": 8.7,
+        "reviews": 12,
+        "final_score": 6.52258064516129
+    },
+    {
+        "name": "Mega Man Anniversary Collection",
+        "rating": 8.7,
+        "reviews": 12,
+        "final_score": 6.52258064516129
+    },
+    {
+        "name": "Godzilla: Destroy All Monsters Melee",
+        "rating": 7.3,
+        "reviews": 32,
+        "final_score": 6.507317073170732
+    },
+    {
+        "name": "Tom Clancy's Ghost Recon 2",
+        "rating": 7.4,
+        "reviews": 28,
+        "final_score": 6.502564102564103
+    },
+    {
+        "name": "Madagascar",
+        "rating": 6.8,
+        "reviews": 81,
+        "final_score": 6.494656488549618
+    },
+    {
+        "name": "James Bond 007: Agent Under Fire",
+        "rating": 6.9,
+        "reviews": 61,
+        "final_score": 6.494594594594595
+    },
+    {
+        "name": "Far Cry Instincts",
+        "rating": 7.4,
+        "reviews": 27,
+        "final_score": 6.490909090909091
+    },
+    {
+        "name": "Cars",
+        "rating": 6.8,
+        "reviews": 77,
+        "final_score": 6.4850393700787405
+    },
+    {
+        "name": "I-Ninja",
+        "rating": 7.9,
+        "reviews": 17,
+        "final_score": 6.482089552238806
+    },
+    {
+        "name": "NBA Live 2005",
+        "rating": 8.3,
+        "reviews": 13,
+        "final_score": 6.474603174603174
+    },
+    {
+        "name": "Phantasy Star Online Episode I & II",
+        "rating": 8.3,
+        "reviews": 13,
+        "final_score": 6.474603174603174
+    },
+    {
+        "name": "FIFA Soccer 2005",
+        "rating": 7.6,
+        "reviews": 21,
+        "final_score": 6.473239436619719
+    },
+    {
+        "name": "The Sims 2: Pets",
+        "rating": 7.1,
+        "reviews": 37,
+        "final_score": 6.467816091954023
+    },
+    {
+        "name": "Red Faction II",
+        "rating": 7.1,
+        "reviews": 37,
+        "final_score": 6.467816091954023
+    },
+    {
+        "name": "Blood Omen 2: Legacy of Kain",
+        "rating": 7.4,
+        "reviews": 25,
+        "final_score": 6.466666666666667
+    },
+    {
+        "name": "Teenage Mutant Ninja Turtles [2003]",
+        "rating": 7.1,
+        "reviews": 36,
+        "final_score": 6.46046511627907
+    },
+    {
+        "name": "BloodRayne",
+        "rating": 7.1,
+        "reviews": 36,
+        "final_score": 6.46046511627907
+    },
+    {
+        "name": "Second Sight",
+        "rating": 7.6,
+        "reviews": 20,
+        "final_score": 6.457142857142857
+    },
+    {
+        "name": "FIFA Soccer 06",
+        "rating": 7.3,
+        "reviews": 27,
+        "final_score": 6.455844155844156
+    },
+    {
+        "name": "Gauntlet: Dark Legacy",
+        "rating": 7.4,
+        "reviews": 24,
+        "final_score": 6.454054054054055
+    },
+    {
+        "name": "Sonic Adventure DX: Director's Cut",
+        "rating": 8.2,
+        "reviews": 13,
+        "final_score": 6.453968253968254
+    },
+    {
+        "name": "Pac-Man World 2",
+        "rating": 7.2,
+        "reviews": 30,
+        "final_score": 6.45
+    },
+    {
+        "name": "Madden NFL 2003",
+        "rating": 7.9,
+        "reviews": 15,
+        "final_score": 6.438461538461539
+    },
+    {
+        "name": "Scooby-Doo! Unmasked",
+        "rating": 7.5,
+        "reviews": 20,
+        "final_score": 6.428571428571429
+    },
+    {
+        "name": "Naruto: Gekitou Ninja Taisen! 4",
+        "rating": 8.2,
+        "reviews": 12,
+        "final_score": 6.425806451612903
+    },
+    {
+        "name": "The Chronicles of Narnia: The Lion, The Witch and The Wardrobe",
+        "rating": 7.3,
+        "reviews": 24,
+        "final_score": 6.421621621621622
+    },
+    {
+        "name": "The Legend of Spyro: A New Beginning",
+        "rating": 6.9,
+        "reviews": 43,
+        "final_score": 6.416129032258065
+    },
+    {
+        "name": "NHL 06",
+        "rating": 8.3,
+        "reviews": 11,
+        "final_score": 6.414754098360656
+    },
+    {
+        "name": "SEGA Soccer Slam",
+        "rating": 8.7,
+        "reviews": 9,
+        "final_score": 6.411864406779661
+    },
+    {
+        "name": "Batman Vengeance",
+        "rating": 6.9,
+        "reviews": 42,
+        "final_score": 6.410869565217391
+    },
+    {
+        "name": "Call of Duty: Finest Hour",
+        "rating": 6.7,
+        "reviews": 71,
+        "final_score": 6.410743801652893
+    },
+    {
+        "name": "Tiger Woods PGA Tour 2004",
+        "rating": 8.4,
+        "reviews": 10,
+        "final_score": 6.4
+    },
+    {
+        "name": "Magical Mirror Starring Mickey Mouse",
+        "rating": 8.0,
+        "reviews": 12,
+        "final_score": 6.387096774193548
+    },
+    {
+        "name": "Nicktoons: Battle For Volcano Island",
+        "rating": 7.4,
+        "reviews": 19,
+        "final_score": 6.385507246376812
+    },
+    {
+        "name": "Kao the Kangaroo Round 2",
+        "rating": 7.4,
+        "reviews": 19,
+        "final_score": 6.385507246376812
+    },
+    {
+        "name": "Star Wars: The Clone Wars",
+        "rating": 6.7,
+        "reviews": 60,
+        "final_score": 6.381818181818182
+    },
+    {
+        "name": "Dead to Rights",
+        "rating": 7.5,
+        "reviews": 17,
+        "final_score": 6.380597014925373
+    },
+    {
+        "name": "One Piece: Grand Adventure",
+        "rating": 8.1,
+        "reviews": 11,
+        "final_score": 6.3786885245901646
+    },
+    {
+        "name": "Pokemon Colosseum -- Bonus Disc",
+        "rating": 8.1,
+        "reviews": 11,
+        "final_score": 6.3786885245901646
+    },
+    {
+        "name": "Ty the Tasmanian Tiger 2: Bush Rescue",
+        "rating": 7.7,
+        "reviews": 14,
+        "final_score": 6.371875
+    },
+    {
+        "name": "Teenage Mutant Ninja Turtles 2: Battle Nexus",
+        "rating": 7.3,
+        "reviews": 20,
+        "final_score": 6.371428571428571
+    },
+    {
+        "name": "Dance Dance Revolution: Mario Mix",
+        "rating": 7.4,
+        "reviews": 17,
+        "final_score": 6.355223880597015
+    },
+    {
+        "name": "NBA Live 06",
+        "rating": 8.3,
+        "reviews": 9,
+        "final_score": 6.350847457627118
+    },
+    {
+        "name": "Harvest Moon: Another Wonderful Life",
+        "rating": 8.3,
+        "reviews": 9,
+        "final_score": 6.350847457627118
+    },
+    {
+        "name": "Yu-Gi-Oh! The Falsebound Kingdom",
+        "rating": 7.7,
+        "reviews": 13,
+        "final_score": 6.350793650793651
+    },
+    {
+        "name": "Mega Man X: Command Mission",
+        "rating": 7.8,
+        "reviews": 12,
+        "final_score": 6.348387096774194
+    },
+    {
+        "name": "X2: Wolverine's Revenge",
+        "rating": 7.0,
+        "reviews": 26,
+        "final_score": 6.342105263157895
+    },
+    {
+        "name": "Disney's Extreme Skate Adventure",
+        "rating": 7.4,
+        "reviews": 16,
+        "final_score": 6.339393939393939
+    },
+    {
+        "name": "Over the Hedge",
+        "rating": 6.9,
+        "reviews": 30,
+        "final_score": 6.3375
+    },
+    {
+        "name": "Teen Titans",
+        "rating": 7.1,
+        "reviews": 22,
+        "final_score": 6.336111111111111
+    },
+    {
+        "name": "NBA 2K2",
+        "rating": 8.2,
+        "reviews": 9,
+        "final_score": 6.335593220338983
+    },
+    {
+        "name": "One Piece Grand Battle!",
+        "rating": 7.3,
+        "reviews": 17,
+        "final_score": 6.329850746268657
+    },
+    {
+        "name": "Tak 2: The Staff of Dreams",
+        "rating": 7.5,
+        "reviews": 14,
+        "final_score": 6.328125
+    },
+    {
+        "name": "SpongeBob SquarePants: Creature from the Krusty Krab",
+        "rating": 7.0,
+        "reviews": 24,
+        "final_score": 6.324324324324325
+    },
+    {
+        "name": "Ice Age 2: The Meltdown",
+        "rating": 7.0,
+        "reviews": 24,
+        "final_score": 6.324324324324325
+    },
+    {
+        "name": "NHL Hitz 20-03",
+        "rating": 9.0,
+        "reviews": 6,
+        "final_score": 6.321428571428571
+    },
+    {
+        "name": "SpyHunter 2",
+        "rating": 8.3,
+        "reviews": 8,
+        "final_score": 6.317241379310344
+    },
+    {
+        "name": "NBA Live 2004",
+        "rating": 7.9,
+        "reviews": 10,
+        "final_score": 6.316666666666666
+    },
+    {
+        "name": "Donkey Konga 2",
+        "rating": 7.3,
+        "reviews": 16,
+        "final_score": 6.315151515151515
+    },
+    {
+        "name": "2002 FIFA World Cup",
+        "rating": 7.6,
+        "reviews": 12,
+        "final_score": 6.309677419354839
+    },
+    {
+        "name": "Sphinx and the Cursed Mummy",
+        "rating": 7.7,
+        "reviews": 11,
+        "final_score": 6.30655737704918
+    },
+    {
+        "name": "Auto Modellista",
+        "rating": 7.8,
+        "reviews": 10,
+        "final_score": 6.3
+    },
+    {
+        "name": "Burnout",
+        "rating": 6.8,
+        "reviews": 30,
+        "final_score": 6.3
+    },
+    {
+        "name": "Battle Stadium D.O.N.",
+        "rating": 7.0,
+        "reviews": 21,
+        "final_score": 6.295774647887324
+    },
+    {
+        "name": "Chicken Little",
+        "rating": 7.0,
+        "reviews": 21,
+        "final_score": 6.295774647887324
+    },
+    {
+        "name": "Bratz Rock Angelz",
+        "rating": 8.4,
+        "reviews": 7,
+        "final_score": 6.294736842105263
+    },
+    {
+        "name": "Shrek SuperSlam",
+        "rating": 6.9,
+        "reviews": 24,
+        "final_score": 6.2918918918918925
+    },
+    {
+        "name": "NCAA Football 2005",
+        "rating": 8.1,
+        "reviews": 8,
+        "final_score": 6.289655172413793
+    },
+    {
+        "name": "Namco Museum [2001]",
+        "rating": 8.7,
+        "reviews": 6,
+        "final_score": 6.289285714285714
+    },
+    {
+        "name": "Street Racing Syndicate",
+        "rating": 7.4,
+        "reviews": 13,
+        "final_score": 6.288888888888889
+    },
+    {
+        "name": "WWE Day of Reckoning",
+        "rating": 7.1,
+        "reviews": 17,
+        "final_score": 6.2791044776119405
+    },
+    {
+        "name": "Taz: Wanted",
+        "rating": 7.1,
+        "reviews": 17,
+        "final_score": 6.2791044776119405
+    },
+    {
+        "name": "Harvest Moon: Magical Melody",
+        "rating": 8.0,
+        "reviews": 8,
+        "final_score": 6.275862068965517
+    },
+    {
+        "name": "Naruto: Gekitou Ninja Taisen 3",
+        "rating": 8.0,
+        "reviews": 8,
+        "final_score": 6.275862068965517
+    },
+    {
+        "name": "Colin McRae Rally 3",
+        "rating": 7.8,
+        "reviews": 9,
+        "final_score": 6.27457627118644
+    },
+    {
+        "name": "MVP Baseball 2004",
+        "rating": 9.0,
+        "reviews": 5,
+        "final_score": 6.2727272727272725
+    },
+    {
+        "name": "FIFA Soccer 2003",
+        "rating": 7.4,
+        "reviews": 12,
+        "final_score": 6.270967741935484
+    },
+    {
+        "name": "Driver 3",
+        "rating": 6.5,
+        "reviews": 59,
+        "final_score": 6.270642201834862
+    },
+    {
+        "name": "MX Unleashed",
+        "rating": 7.5,
+        "reviews": 11,
+        "final_score": 6.270491803278689
+    },
+    {
+        "name": "2006 FIFA World Cup",
+        "rating": 7.1,
+        "reviews": 16,
+        "final_score": 6.266666666666667
+    },
+    {
+        "name": "NBA 2K3",
+        "rating": 7.9,
+        "reviews": 8,
+        "final_score": 6.2620689655172415
+    },
+    {
+        "name": "Tiger Woods PGA Tour 06",
+        "rating": 8.1,
+        "reviews": 7,
+        "final_score": 6.257894736842105
+    },
+    {
+        "name": "NASCAR: Dirt to Daytona",
+        "rating": 8.8,
+        "reviews": 5,
+        "final_score": 6.254545454545455
+    },
+    {
+        "name": "Mission: Impossible Operation Surma",
+        "rating": 7.1,
+        "reviews": 15,
+        "final_score": 6.253846153846154
+    },
+    {
+        "name": "Ed, Edd 'n Eddy: The Mis-Edventures",
+        "rating": 7.0,
+        "reviews": 17,
+        "final_score": 6.253731343283582
+    },
+    {
+        "name": "Teenage Mutant Ninja Turtles 3: Mutant Nightmare",
+        "rating": 7.3,
+        "reviews": 12,
+        "final_score": 6.251612903225807
+    },
+    {
+        "name": "Battalion Wars",
+        "rating": 7.3,
+        "reviews": 12,
+        "final_score": 6.251612903225807
+    },
+    {
+        "name": "Tak: The Great Juju Challenge",
+        "rating": 7.8,
+        "reviews": 8,
+        "final_score": 6.248275862068965
+    },
+    {
+        "name": "Pitfall: The Lost Expedition",
+        "rating": 7.8,
+        "reviews": 8,
+        "final_score": 6.248275862068965
+    },
+    {
+        "name": "Spawn: Armageddon",
+        "rating": 7.8,
+        "reviews": 8,
+        "final_score": 6.248275862068965
+    },
+    {
+        "name": "The Incredibles",
+        "rating": 6.4,
+        "reviews": 77,
+        "final_score": 6.24251968503937
+    },
+    {
+        "name": "Batman: Rise of Sin Tzu",
+        "rating": 6.8,
+        "reviews": 21,
+        "final_score": 6.236619718309859
+    },
+    {
+        "name": "Hunter: The Reckoning",
+        "rating": 7.3,
+        "reviews": 11,
+        "final_score": 6.2344262295081965
+    },
+    {
+        "name": "Judge Dredd: Dredd vs. Death",
+        "rating": 7.9,
+        "reviews": 7,
+        "final_score": 6.233333333333333
+    },
+    {
+        "name": "Vexx",
+        "rating": 7.9,
+        "reviews": 7,
+        "final_score": 6.233333333333333
+    },
+    {
+        "name": "SpyHunter",
+        "rating": 7.2,
+        "reviews": 12,
+        "final_score": 6.232258064516128
+    },
+    {
+        "name": "Conflict: Desert Storm",
+        "rating": 6.9,
+        "reviews": 17,
+        "final_score": 6.228358208955224
+    },
+    {
+        "name": "Naruto: Clash of Ninja",
+        "rating": 6.7,
+        "reviews": 24,
+        "final_score": 6.227027027027027
+    },
+    {
+        "name": "WWE Day of Reckoning 2",
+        "rating": 7.1,
+        "reviews": 13,
+        "final_score": 6.226984126984127
+    },
+    {
+        "name": "The Hobbit",
+        "rating": 6.6,
+        "reviews": 30,
+        "final_score": 6.225
+    },
+    {
+        "name": "Geist",
+        "rating": 7.6,
+        "reviews": 8,
+        "final_score": 6.220689655172414
+    },
+    {
+        "name": "Gladius",
+        "rating": 7.6,
+        "reviews": 8,
+        "final_score": 6.220689655172414
+    },
+    {
+        "name": "Hot Wheels: Velocity X",
+        "rating": 7.6,
+        "reviews": 8,
+        "final_score": 6.220689655172414
+    },
+    {
+        "name": "Aggressive Inline",
+        "rating": 7.6,
+        "reviews": 8,
+        "final_score": 6.220689655172414
+    },
+    {
+        "name": "Open Season",
+        "rating": 6.7,
+        "reviews": 23,
+        "final_score": 6.22054794520548
+    },
+    {
+        "name": "Tak and the Power of Juju",
+        "rating": 6.9,
+        "reviews": 16,
+        "final_score": 6.218181818181818
+    },
+    {
+        "name": "Resident Evil 4 -- Bonus Disc",
+        "rating": 9.7,
+        "reviews": 3,
+        "final_score": 6.209433962264152
+    },
+    {
+        "name": "NHL 2004",
+        "rating": 7.7,
+        "reviews": 7,
+        "final_score": 6.208771929824561
+    },
+    {
+        "name": "NBA Live 2003",
+        "rating": 7.7,
+        "reviews": 7,
+        "final_score": 6.208771929824561
+    },
+    {
+        "name": "Hulk",
+        "rating": 6.4,
+        "reviews": 54,
+        "final_score": 6.207692307692308
+    },
+    {
+        "name": "Summoner 2",
+        "rating": 8.8,
+        "reviews": 4,
+        "final_score": 6.207407407407407
+    },
+    {
+        "name": "J.League Winning Eleven 6",
+        "rating": 8.8,
+        "reviews": 4,
+        "final_score": 6.207407407407407
+    },
+    {
+        "name": "Bionicle Heroes",
+        "rating": 6.7,
+        "reviews": 21,
+        "final_score": 6.207042253521127
+    },
+    {
+        "name": "Freekstyle",
+        "rating": 7.5,
+        "reviews": 8,
+        "final_score": 6.206896551724138
+    },
+    {
+        "name": "WWE WrestleMania XIX",
+        "rating": 7.2,
+        "reviews": 10,
+        "final_score": 6.2
+    },
+    {
+        "name": "Pokemon Box: Ruby and Sapphire",
+        "rating": 8.2,
+        "reviews": 5,
+        "final_score": 6.2
+    },
+    {
+        "name": "Army Men: RTS",
+        "rating": 8.2,
+        "reviews": 5,
+        "final_score": 6.2
+    },
+    {
+        "name": "All-Star Baseball 2003",
+        "rating": 8.2,
+        "reviews": 5,
+        "final_score": 6.2
+    },
+    {
+        "name": "Buffy the Vampire Slayer: Chaos Bleeds",
+        "rating": 7.1,
+        "reviews": 11,
+        "final_score": 6.198360655737705
+    },
+    {
+        "name": "Bomberman Generation",
+        "rating": 7.1,
+        "reviews": 11,
+        "final_score": 6.198360655737705
+    },
+    {
+        "name": "PK: Out of the Shadows",
+        "rating": 7.3,
+        "reviews": 9,
+        "final_score": 6.198305084745763
+    },
+    {
+        "name": "Tom and Jerry in War of the Whiskers",
+        "rating": 6.9,
+        "reviews": 14,
+        "final_score": 6.196875
+    },
+    {
+        "name": "Zatch Bell!: Mamodo Battles",
+        "rating": 7.6,
+        "reviews": 7,
+        "final_score": 6.196491228070175
+    },
+    {
+        "name": "Metal Arms: Glitch in the System",
+        "rating": 7.6,
+        "reviews": 7,
+        "final_score": 6.196491228070175
+    },
+    {
+        "name": "Viewtiful Joe: Red Hot Rumble",
+        "rating": 7.4,
+        "reviews": 8,
+        "final_score": 6.193103448275862
+    },
+    {
+        "name": "Madden NFL 2002",
+        "rating": 7.4,
+        "reviews": 8,
+        "final_score": 6.193103448275862
+    },
+    {
+        "name": "Fight Night Round 2",
+        "rating": 7.8,
+        "reviews": 6,
+        "final_score": 6.192857142857143
+    },
+    {
+        "name": "TMNT",
+        "rating": 6.4,
+        "reviews": 46,
+        "final_score": 6.191666666666667
+    },
+    {
+        "name": "Turok: Evolution",
+        "rating": 6.6,
+        "reviews": 23,
+        "final_score": 6.189041095890411
+    },
+    {
+        "name": "Rayman Arena",
+        "rating": 6.6,
+        "reviews": 23,
+        "final_score": 6.189041095890411
+    },
+    {
+        "name": "Tiger Woods PGA Tour 2005",
+        "rating": 9.3,
+        "reviews": 3,
+        "final_score": 6.186792452830188
+    },
+    {
+        "name": "Bratz: Forever Diamondz",
+        "rating": 8.5,
+        "reviews": 4,
+        "final_score": 6.185185185185185
+    },
+    {
+        "name": "Backyard Baseball",
+        "rating": 8.5,
+        "reviews": 4,
+        "final_score": 6.185185185185185
+    },
+    {
+        "name": "Rampage: Total Destruction",
+        "rating": 6.6,
+        "reviews": 22,
+        "final_score": 6.183333333333334
+    },
+    {
+        "name": "NASCAR Thunder 2003",
+        "rating": 8.0,
+        "reviews": 5,
+        "final_score": 6.181818181818182
+    },
+    {
+        "name": "Rocky",
+        "rating": 7.0,
+        "reviews": 11,
+        "final_score": 6.180327868852459
+    },
+    {
+        "name": "Surf's Up",
+        "rating": 6.9,
+        "reviews": 12,
+        "final_score": 6.174193548387097
+    },
+    {
+        "name": "NFL Blitz: Pro",
+        "rating": 8.3,
+        "reviews": 4,
+        "final_score": 6.17037037037037
+    },
+    {
+        "name": "Game Boy Player Start-Up Disc",
+        "rating": 9.0,
+        "reviews": 3,
+        "final_score": 6.169811320754717
+    },
+    {
+        "name": "MLB SlugFest 20-04",
+        "rating": 9.0,
+        "reviews": 3,
+        "final_score": 6.169811320754717
+    },
+    {
+        "name": "Nicktoons Unite!",
+        "rating": 6.7,
+        "reviews": 16,
+        "final_score": 6.16969696969697
+    },
+    {
+        "name": "Scooby-Doo! Mystery Mayhem",
+        "rating": 6.7,
+        "reviews": 16,
+        "final_score": 6.16969696969697
+    },
+    {
+        "name": "Tom Clancy's Rainbow Six: Lockdown [Console]",
+        "rating": 7.1,
+        "reviews": 9,
+        "final_score": 6.167796610169491
+    },
+    {
+        "name": "GoldenEye: Rogue Agent",
+        "rating": 6.5,
+        "reviews": 25,
+        "final_score": 6.166666666666667
+    },
+    {
+        "name": "Eragon",
+        "rating": 6.6,
+        "reviews": 19,
+        "final_score": 6.165217391304347
+    },
+    {
+        "name": "Major League Baseball 2K6",
+        "rating": 7.8,
+        "reviews": 5,
+        "final_score": 6.163636363636364
+    },
+    {
+        "name": "Lost Kingdoms II",
+        "rating": 7.8,
+        "reviews": 5,
+        "final_score": 6.163636363636364
+    },
+    {
+        "name": "Power Rangers: Super Legends",
+        "rating": 7.5,
+        "reviews": 6,
+        "final_score": 6.160714285714286
+    },
+    {
+        "name": "Hot Wheels: World Race",
+        "rating": 7.3,
+        "reviews": 7,
+        "final_score": 6.159649122807018
+    },
+    {
+        "name": "Wallace & Gromit in Project Zoo",
+        "rating": 7.3,
+        "reviews": 7,
+        "final_score": 6.159649122807018
+    },
+    {
+        "name": "X-Men: Next Dimension",
+        "rating": 6.8,
+        "reviews": 12,
+        "final_score": 6.15483870967742
+    },
+    {
+        "name": "Resident Evil 4 Preview Disc",
+        "rating": 10.0,
+        "reviews": 2,
+        "final_score": 6.153846153846154
+    },
+    {
+        "name": "King Arthur",
+        "rating": 7.0,
+        "reviews": 9,
+        "final_score": 6.1525423728813555
+    },
+    {
+        "name": "Mega Man Network Transmission",
+        "rating": 7.1,
+        "reviews": 8,
+        "final_score": 6.151724137931034
+    },
+    {
+        "name": "Digimon World 4",
+        "rating": 6.4,
+        "reviews": 30,
+        "final_score": 6.15
+    },
+    {
+        "name": "Midway Arcade Treasures 3",
+        "rating": 8.0,
+        "reviews": 4,
+        "final_score": 6.148148148148148
+    },
+    {
+        "name": "Ast\u00e9rix & Ob\u00e9lix XXL",
+        "rating": 8.0,
+        "reviews": 4,
+        "final_score": 6.148148148148148
+    },
+    {
+        "name": "NFL 2K3",
+        "rating": 8.0,
+        "reviews": 4,
+        "final_score": 6.148148148148148
+    },
+    {
+        "name": "Beach Spikers: Virtua Beach Volleyball",
+        "rating": 8.0,
+        "reviews": 4,
+        "final_score": 6.148148148148148
+    },
+    {
+        "name": "The Incredibles: Rise of the Underminer",
+        "rating": 6.4,
+        "reviews": 29,
+        "final_score": 6.146835443037975
+    },
+    {
+        "name": "Amazing Island",
+        "rating": 7.3,
+        "reviews": 6,
+        "final_score": 6.139285714285714
+    },
+    {
+        "name": "Big Mutha Truckers",
+        "rating": 7.3,
+        "reviews": 6,
+        "final_score": 6.139285714285714
+    },
+    {
+        "name": "NHL 2003",
+        "rating": 7.3,
+        "reviews": 6,
+        "final_score": 6.139285714285714
+    },
+    {
+        "name": "Kelly Slater's Pro Surfer",
+        "rating": 7.3,
+        "reviews": 6,
+        "final_score": 6.139285714285714
+    },
+    {
+        "name": "XG3 Extreme-G Racing",
+        "rating": 7.3,
+        "reviews": 6,
+        "final_score": 6.139285714285714
+    },
+    {
+        "name": "Donkey Kong Barrel Blast",
+        "rating": 7.0,
+        "reviews": 8,
+        "final_score": 6.137931034482759
+    },
+    {
+        "name": "WWE Crush Hour",
+        "rating": 6.7,
+        "reviews": 12,
+        "final_score": 6.135483870967741
+    },
+    {
+        "name": "Conflict: Desert Storm II: Back to Baghdad",
+        "rating": 7.1,
+        "reviews": 7,
+        "final_score": 6.135087719298245
+    },
+    {
+        "name": "187 Ride or Die",
+        "rating": 7.8,
+        "reviews": 4,
+        "final_score": 6.133333333333333
+    },
+    {
+        "name": "NCAA Football 2004",
+        "rating": 7.8,
+        "reviews": 4,
+        "final_score": 6.133333333333333
+    },
+    {
+        "name": "The Sims",
+        "rating": 7.8,
+        "reviews": 4,
+        "final_score": 6.133333333333333
+    },
+    {
+        "name": "Midway Arcade Treasures 2",
+        "rating": 8.3,
+        "reviews": 3,
+        "final_score": 6.130188679245283
+    },
+    {
+        "name": "NFL Blitz 20-02",
+        "rating": 8.3,
+        "reviews": 3,
+        "final_score": 6.130188679245283
+    },
+    {
+        "name": "The Adventures of Jimmy Neutron, Boy Genius: Attack of the Twonkies",
+        "rating": 7.2,
+        "reviews": 6,
+        "final_score": 6.128571428571428
+    },
+    {
+        "name": "Ty the Tasmanian Tiger: Night of the Quinkan",
+        "rating": 7.4,
+        "reviews": 5,
+        "final_score": 6.127272727272727
+    },
+    {
+        "name": "NHL 2005",
+        "rating": 7.4,
+        "reviews": 5,
+        "final_score": 6.127272727272727
+    },
+    {
+        "name": "Puyo Pop Fever",
+        "rating": 7.4,
+        "reviews": 5,
+        "final_score": 6.127272727272727
+    },
+    {
+        "name": "Cel Damage",
+        "rating": 7.4,
+        "reviews": 5,
+        "final_score": 6.127272727272727
+    },
+    {
+        "name": "Pac-Man World Rally",
+        "rating": 6.7,
+        "reviews": 11,
+        "final_score": 6.1262295081967215
+    },
+    {
+        "name": "Pokemon Channel",
+        "rating": 6.4,
+        "reviews": 23,
+        "final_score": 6.126027397260275
+    },
+    {
+        "name": "F1 2002",
+        "rating": 6.8,
+        "reviews": 9,
+        "final_score": 6.122033898305085
+    },
+    {
+        "name": "Pac-Man World 3",
+        "rating": 6.5,
+        "reviews": 16,
+        "final_score": 6.121212121212121
+    },
+    {
+        "name": "TMNT Mutant Melee",
+        "rating": 6.7,
+        "reviews": 10,
+        "final_score": 6.116666666666666
+    },
+    {
+        "name": "The Haunted Mansion",
+        "rating": 6.7,
+        "reviews": 10,
+        "final_score": 6.116666666666666
+    },
+    {
+        "name": "American Chopper 2: Full Throttle",
+        "rating": 9.0,
+        "reviews": 2,
+        "final_score": 6.115384615384615
+    },
+    {
+        "name": "Rayman: 10th Anniversary Collection",
+        "rating": 9.0,
+        "reviews": 2,
+        "final_score": 6.115384615384615
+    },
+    {
+        "name": "Muppets: Party Cruise",
+        "rating": 9.0,
+        "reviews": 2,
+        "final_score": 6.115384615384615
+    },
+    {
+        "name": "Micro Machines [2002]",
+        "rating": 9.0,
+        "reviews": 2,
+        "final_score": 6.115384615384615
+    },
+    {
+        "name": "Super Robot Taisen GC",
+        "rating": 8.0,
+        "reviews": 3,
+        "final_score": 6.113207547169812
+    },
+    {
+        "name": "Mobile Suit Gundam: Gundam vs. Zeta Gundam",
+        "rating": 8.0,
+        "reviews": 3,
+        "final_score": 6.113207547169812
+    },
+    {
+        "name": "NCAA March Madness 2005",
+        "rating": 8.0,
+        "reviews": 3,
+        "final_score": 6.113207547169812
+    },
+    {
+        "name": "XGRA: Extreme-G Racing Association",
+        "rating": 8.0,
+        "reviews": 3,
+        "final_score": 6.113207547169812
+    },
+    {
+        "name": "Disney Sports Basketball",
+        "rating": 8.0,
+        "reviews": 3,
+        "final_score": 6.113207547169812
+    },
+    {
+        "name": "Kero Kero King",
+        "rating": 8.0,
+        "reviews": 3,
+        "final_score": 6.113207547169812
+    },
+    {
+        "name": "Namco Museum: 50th Anniversary",
+        "rating": 7.5,
+        "reviews": 4,
+        "final_score": 6.111111111111111
+    },
+    {
+        "name": "Hello Kitty Roller Rescue",
+        "rating": 7.5,
+        "reviews": 4,
+        "final_score": 6.111111111111111
+    },
+    {
+        "name": "Zoids: Battle Legends",
+        "rating": 7.5,
+        "reviews": 4,
+        "final_score": 6.111111111111111
+    },
+    {
+        "name": "Worms Blast",
+        "rating": 7.5,
+        "reviews": 4,
+        "final_score": 6.111111111111111
+    },
+    {
+        "name": "Rugrats Royal Ransom",
+        "rating": 6.9,
+        "reviews": 7,
+        "final_score": 6.110526315789474
+    },
+    {
+        "name": "FIFA Soccer 2002",
+        "rating": 6.9,
+        "reviews": 7,
+        "final_score": 6.110526315789474
+    },
+    {
+        "name": "Spyro: Enter The Dragonfly",
+        "rating": 6.2,
+        "reviews": 61,
+        "final_score": 6.10990990990991
+    },
+    {
+        "name": "Mat Hoffman's Pro BMX 2",
+        "rating": 7.2,
+        "reviews": 5,
+        "final_score": 6.109090909090909
+    },
+    {
+        "name": "Shrek Smash n' Crash Racing",
+        "rating": 6.5,
+        "reviews": 13,
+        "final_score": 6.103174603174603
+    },
+    {
+        "name": "Serious Sam: Next Encounter",
+        "rating": 7.3,
+        "reviews": 4,
+        "final_score": 6.096296296296296
+    },
+    {
+        "name": "Freestyle Metal X",
+        "rating": 7.3,
+        "reviews": 4,
+        "final_score": 6.096296296296296
+    },
+    {
+        "name": "Top Gun: Combat Zones",
+        "rating": 7.3,
+        "reviews": 4,
+        "final_score": 6.096296296296296
+    },
+    {
+        "name": "NASCAR 2005: Chase for the Cup",
+        "rating": 7.7,
+        "reviews": 3,
+        "final_score": 6.09622641509434
+    },
+    {
+        "name": "Virtua Striker 2002",
+        "rating": 7.7,
+        "reviews": 3,
+        "final_score": 6.09622641509434
+    },
+    {
+        "name": "The Ant Bully",
+        "rating": 8.5,
+        "reviews": 2,
+        "final_score": 6.096153846153846
+    },
+    {
+        "name": "Dora the Explorer: Journey to the Purple Planet",
+        "rating": 8.5,
+        "reviews": 2,
+        "final_score": 6.096153846153846
+    },
+    {
+        "name": "Ultimate Muscle: Legends vs. New Generation",
+        "rating": 8.5,
+        "reviews": 2,
+        "final_score": 6.096153846153846
+    },
+    {
+        "name": "Lost Kingdoms",
+        "rating": 6.6,
+        "reviews": 9,
+        "final_score": 6.091525423728813
+    },
+    {
+        "name": "Evolution Worlds",
+        "rating": 7.0,
+        "reviews": 5,
+        "final_score": 6.090909090909091
+    },
+    {
+        "name": "RoboCop",
+        "rating": 7.0,
+        "reviews": 5,
+        "final_score": 6.090909090909091
+    },
+    {
+        "name": "18-Wheeler American Pro Trucker",
+        "rating": 6.6,
+        "reviews": 8,
+        "final_score": 6.082758620689655
+    },
+    {
+        "name": "Zatch Bell: Yuujou no Tag Battle -- Full Power",
+        "rating": 10.0,
+        "reviews": 1,
+        "final_score": 6.078431372549019
+    },
+    {
+        "name": "Giftpia",
+        "rating": 10.0,
+        "reviews": 1,
+        "final_score": 6.078431372549019
+    },
+    {
+        "name": "All-Star Baseball 2004",
+        "rating": 10.0,
+        "reviews": 1,
+        "final_score": 6.078431372549019
+    },
+    {
+        "name": "Mystic Heroes",
+        "rating": 10.0,
+        "reviews": 1,
+        "final_score": 6.078431372549019
+    },
+    {
+        "name": "Tiger Woods PGA Tour 2003",
+        "rating": 8.0,
+        "reviews": 2,
+        "final_score": 6.076923076923077
+    },
+    {
+        "name": "MX Superfly",
+        "rating": 8.0,
+        "reviews": 2,
+        "final_score": 6.076923076923077
+    },
+    {
+        "name": "All-Star Baseball 2002",
+        "rating": 8.0,
+        "reviews": 2,
+        "final_score": 6.076923076923077
+    },
+    {
+        "name": "Curious George",
+        "rating": 7.0,
+        "reviews": 4,
+        "final_score": 6.074074074074074
+    },
+    {
+        "name": "Charlie and the Chocolate Factory",
+        "rating": 7.0,
+        "reviews": 4,
+        "final_score": 6.074074074074074
+    },
+    {
+        "name": "Donkey Konga 3",
+        "rating": 7.0,
+        "reviews": 4,
+        "final_score": 6.074074074074074
+    },
+    {
+        "name": "One Piece Grand Battle! 3",
+        "rating": 7.0,
+        "reviews": 4,
+        "final_score": 6.074074074074074
+    },
+    {
+        "name": "Bomberman Jetters",
+        "rating": 7.0,
+        "reviews": 4,
+        "final_score": 6.074074074074074
+    },
+    {
+        "name": "Shadow the Hedgehog",
+        "rating": 6.1,
+        "reviews": 139,
+        "final_score": 6.0735449735449745
+    },
+    {
+        "name": "MTX: Mototrax",
+        "rating": 6.8,
+        "reviews": 5,
+        "final_score": 6.072727272727272
+    },
+    {
+        "name": "Superman: Shadow of Apokolips",
+        "rating": 6.5,
+        "reviews": 8,
+        "final_score": 6.068965517241379
+    },
+    {
+        "name": "Terminator 3: The Redemption",
+        "rating": 6.4,
+        "reviews": 10,
+        "final_score": 6.066666666666666
+    },
+    {
+        "name": "Looney Tunes: Back in Action",
+        "rating": 6.3,
+        "reviews": 13,
+        "final_score": 6.061904761904762
+    },
+    {
+        "name": "The Grim Adventures of Billy & Mandy",
+        "rating": 6.4,
+        "reviews": 9,
+        "final_score": 6.061016949152543
+    },
+    {
+        "name": "Showdown: Legends of Wrestling",
+        "rating": 6.8,
+        "reviews": 4,
+        "final_score": 6.059259259259259
+    },
+    {
+        "name": "Knights of the Temple",
+        "rating": 6.8,
+        "reviews": 4,
+        "final_score": 6.059259259259259
+    },
+    {
+        "name": "Dragon's Lair 3D: Return to the Lair",
+        "rating": 6.8,
+        "reviews": 4,
+        "final_score": 6.059259259259259
+    },
+    {
+        "name": "Chaos Field",
+        "rating": 9.0,
+        "reviews": 1,
+        "final_score": 6.0588235294117645
+    },
+    {
+        "name": "RoadKill",
+        "rating": 9.0,
+        "reviews": 1,
+        "final_score": 6.0588235294117645
+    },
+    {
+        "name": "Castle of Shikigami 2",
+        "rating": 7.5,
+        "reviews": 2,
+        "final_score": 6.0576923076923075
+    },
+    {
+        "name": "Pac-Man Vs. / Pac-Man World 2",
+        "rating": 7.5,
+        "reviews": 2,
+        "final_score": 6.0576923076923075
+    },
+    {
+        "name": "Midway Arcade Treasures",
+        "rating": 7.5,
+        "reviews": 2,
+        "final_score": 6.0576923076923075
+    },
+    {
+        "name": "Knight Rider: The Game",
+        "rating": 7.5,
+        "reviews": 2,
+        "final_score": 6.0576923076923075
+    },
+    {
+        "name": "Biohazard 0: Trial Edition",
+        "rating": 7.5,
+        "reviews": 2,
+        "final_score": 6.0576923076923075
+    },
+    {
+        "name": "Mobile Suit Gundam: Gundam vs. Z Gundam",
+        "rating": 7.0,
+        "reviews": 3,
+        "final_score": 6.056603773584905
+    },
+    {
+        "name": "Samurai Jack: The Shadow of Aku",
+        "rating": 7.0,
+        "reviews": 3,
+        "final_score": 6.056603773584905
+    },
+    {
+        "name": "NHL Hitz Pro",
+        "rating": 7.0,
+        "reviews": 3,
+        "final_score": 6.056603773584905
+    },
+    {
+        "name": "Bomberman Land 2",
+        "rating": 7.0,
+        "reviews": 3,
+        "final_score": 6.056603773584905
+    },
+    {
+        "name": "F1 Career Challenge",
+        "rating": 7.0,
+        "reviews": 3,
+        "final_score": 6.056603773584905
+    },
+    {
+        "name": "Super Bust-A-Move All Stars",
+        "rating": 7.0,
+        "reviews": 3,
+        "final_score": 6.056603773584905
+    },
+    {
+        "name": "ATV Quad Power Racing 2",
+        "rating": 7.0,
+        "reviews": 3,
+        "final_score": 6.056603773584905
+    },
+    {
+        "name": "Frogger Beyond",
+        "rating": 7.0,
+        "reviews": 3,
+        "final_score": 6.056603773584905
+    },
+    {
+        "name": "Bust-A-Move 3000",
+        "rating": 7.0,
+        "reviews": 3,
+        "final_score": 6.056603773584905
+    },
+    {
+        "name": "Disney Sports Soccer",
+        "rating": 7.0,
+        "reviews": 3,
+        "final_score": 6.056603773584905
+    },
+    {
+        "name": "Tom Clancy's Ghost Recon",
+        "rating": 6.6,
+        "reviews": 5,
+        "final_score": 6.054545454545455
+    },
+    {
+        "name": "WWE WrestleMania X8",
+        "rating": 6.3,
+        "reviews": 10,
+        "final_score": 6.05
+    },
+    {
+        "name": "Conflict: Vietnam",
+        "rating": 6.4,
+        "reviews": 7,
+        "final_score": 6.049122807017544
+    },
+    {
+        "name": "The Lord of the Rings: The Fellowship of the Ring",
+        "rating": 6.1,
+        "reviews": 35,
+        "final_score": 6.041176470588235
+    },
+    {
+        "name": "Legends of Wrestling II",
+        "rating": 6.7,
+        "reviews": 3,
+        "final_score": 6.0396226415094345
+    },
+    {
+        "name": "Minority Report",
+        "rating": 6.7,
+        "reviews": 3,
+        "final_score": 6.0396226415094345
+    },
+    {
+        "name": "NFL Blitz 20-03",
+        "rating": 6.7,
+        "reviews": 3,
+        "final_score": 6.0396226415094345
+    },
+    {
+        "name": "Greg Hastings' Tournament Paintball Max'd",
+        "rating": 8.0,
+        "reviews": 1,
+        "final_score": 6.03921568627451
+    },
+    {
+        "name": "World Series of Poker",
+        "rating": 8.0,
+        "reviews": 1,
+        "final_score": 6.03921568627451
+    },
+    {
+        "name": "Carmen Sandiego: The Secret of the Stolen Drums",
+        "rating": 8.0,
+        "reviews": 1,
+        "final_score": 6.03921568627451
+    },
+    {
+        "name": "Room Zoom",
+        "rating": 8.0,
+        "reviews": 1,
+        "final_score": 6.03921568627451
+    },
+    {
+        "name": "Rogue Ops",
+        "rating": 8.0,
+        "reviews": 1,
+        "final_score": 6.03921568627451
+    },
+    {
+        "name": "Charinko Hero",
+        "rating": 8.0,
+        "reviews": 1,
+        "final_score": 6.03921568627451
+    },
+    {
+        "name": "RTX Red Rock",
+        "rating": 8.0,
+        "reviews": 1,
+        "final_score": 6.03921568627451
+    },
+    {
+        "name": "Wakeboarding Unleashed Featuring Shaun Murray",
+        "rating": 8.0,
+        "reviews": 1,
+        "final_score": 6.03921568627451
+    },
+    {
+        "name": "International Superstar Soccer 3",
+        "rating": 8.0,
+        "reviews": 1,
+        "final_score": 6.03921568627451
+    },
+    {
+        "name": "Toxic Grind",
+        "rating": 8.0,
+        "reviews": 1,
+        "final_score": 6.03921568627451
+    },
+    {
+        "name": "Outlaw Golf",
+        "rating": 8.0,
+        "reviews": 1,
+        "final_score": 6.03921568627451
+    },
+    {
+        "name": "Shark Tale",
+        "rating": 6.2,
+        "reviews": 12,
+        "final_score": 6.038709677419354
+    },
+    {
+        "name": "Monster House",
+        "rating": 7.0,
+        "reviews": 2,
+        "final_score": 6.038461538461538
+    },
+    {
+        "name": "Bleach GC: Tasogare ni Mamieru Shinigami",
+        "rating": 7.0,
+        "reviews": 2,
+        "final_score": 6.038461538461538
+    },
+    {
+        "name": "Tom Clancy's Rainbow Six 3 [GameCube]",
+        "rating": 7.0,
+        "reviews": 2,
+        "final_score": 6.038461538461538
+    },
+    {
+        "name": "Mario Kart: Double Dash!! -- Bonus Disc",
+        "rating": 7.0,
+        "reviews": 2,
+        "final_score": 6.038461538461538
+    },
+    {
+        "name": "NHL 2K3",
+        "rating": 7.0,
+        "reviews": 2,
+        "final_score": 6.038461538461538
+    },
+    {
+        "name": "Largo Winch: Empire Under Threat",
+        "rating": 7.0,
+        "reviews": 2,
+        "final_score": 6.038461538461538
+    },
+    {
+        "name": "Codename: Kids Next Door -- Operation: V.I.D.E.O.G.A.M.E.",
+        "rating": 6.5,
+        "reviews": 4,
+        "final_score": 6.037037037037037
+    },
+    {
+        "name": "Fairly OddParents: Shadow Showdown",
+        "rating": 6.5,
+        "reviews": 4,
+        "final_score": 6.037037037037037
+    },
+    {
+        "name": "Army Men: Sarge's War",
+        "rating": 6.5,
+        "reviews": 4,
+        "final_score": 6.037037037037037
+    },
+    {
+        "name": "Rocket Power: Beach Bandits",
+        "rating": 6.5,
+        "reviews": 4,
+        "final_score": 6.037037037037037
+    },
+    {
+        "name": "Dave Mirra Freestyle BMX 2",
+        "rating": 6.5,
+        "reviews": 4,
+        "final_score": 6.037037037037037
+    },
+    {
+        "name": "Pac-Man Fever",
+        "rating": 6.4,
+        "reviews": 5,
+        "final_score": 6.036363636363636
+    },
+    {
+        "name": "Legends of Wrestling",
+        "rating": 6.3,
+        "reviews": 6,
+        "final_score": 6.0321428571428575
+    },
+    {
+        "name": "The Adventures of Jimmy Neutron, Boy Genius: Jet Fusion",
+        "rating": 6.3,
+        "reviews": 4,
+        "final_score": 6.022222222222222
+    },
+    {
+        "name": "P.N.03",
+        "rating": 6.3,
+        "reviews": 4,
+        "final_score": 6.022222222222222
+    },
+    {
+        "name": "Backyard Baseball 2007",
+        "rating": 7.0,
+        "reviews": 1,
+        "final_score": 6.019607843137255
+    },
+    {
+        "name": "Odama",
+        "rating": 7.0,
+        "reviews": 1,
+        "final_score": 6.019607843137255
+    },
+    {
+        "name": "Chaos League",
+        "rating": 7.0,
+        "reviews": 1,
+        "final_score": 6.019607843137255
+    },
+    {
+        "name": "Metroid Prime 2 Echoes -- Bonus Disc",
+        "rating": 7.0,
+        "reviews": 1,
+        "final_score": 6.019607843137255
+    },
+    {
+        "name": "Donkey Konga 1 + 2 Pack",
+        "rating": 7.0,
+        "reviews": 1,
+        "final_score": 6.019607843137255
+    },
+    {
+        "name": "Pool Paradise",
+        "rating": 7.0,
+        "reviews": 1,
+        "final_score": 6.019607843137255
+    },
+    {
+        "name": "Pure Evil 2-Pack (contains Resident Evil & Resident Evil 0)",
+        "rating": 7.0,
+        "reviews": 1,
+        "final_score": 6.019607843137255
+    },
+    {
+        "name": "Pac-Man Vs.",
+        "rating": 7.0,
+        "reviews": 1,
+        "final_score": 6.019607843137255
+    },
+    {
+        "name": "Barbie Horse Adventures: Wild Horse Rescue",
+        "rating": 7.0,
+        "reviews": 1,
+        "final_score": 6.019607843137255
+    },
+    {
+        "name": "Generation of Chaos Exceed: Yami no Miko Rose",
+        "rating": 7.0,
+        "reviews": 1,
+        "final_score": 6.019607843137255
+    },
+    {
+        "name": "NCAA College Basketball 2K3",
+        "rating": 7.0,
+        "reviews": 1,
+        "final_score": 6.019607843137255
+    },
+    {
+        "name": "Rally Fusion: Race of Champions",
+        "rating": 7.0,
+        "reviews": 1,
+        "final_score": 6.019607843137255
+    },
+    {
+        "name": "Shox",
+        "rating": 7.0,
+        "reviews": 1,
+        "final_score": 6.019607843137255
+    },
+    {
+        "name": "The Scorpion King: Rise of the Akkadian",
+        "rating": 7.0,
+        "reviews": 1,
+        "final_score": 6.019607843137255
+    },
+    {
+        "name": "NCAA College Football 2K3",
+        "rating": 7.0,
+        "reviews": 1,
+        "final_score": 6.019607843137255
+    },
+    {
+        "name": "NCAA Football 2003",
+        "rating": 7.0,
+        "reviews": 1,
+        "final_score": 6.019607843137255
+    },
+    {
+        "name": "V-Rally 3",
+        "rating": 7.0,
+        "reviews": 1,
+        "final_score": 6.019607843137255
+    },
+    {
+        "name": "Pro Rally 2002",
+        "rating": 7.0,
+        "reviews": 1,
+        "final_score": 6.019607843137255
+    },
+    {
+        "name": "Home Run King",
+        "rating": 7.0,
+        "reviews": 1,
+        "final_score": 6.019607843137255
+    },
+    {
+        "name": "Zatch Bell!: Mamodo Fury",
+        "rating": 6.5,
+        "reviews": 2,
+        "final_score": 6.019230769230769
+    },
+    {
+        "name": "NARC",
+        "rating": 6.5,
+        "reviews": 2,
+        "final_score": 6.019230769230769
+    },
+    {
+        "name": "Future Tactics: The Uprising",
+        "rating": 6.5,
+        "reviews": 2,
+        "final_score": 6.019230769230769
+    },
+    {
+        "name": "Alias",
+        "rating": 6.5,
+        "reviews": 2,
+        "final_score": 6.019230769230769
+    },
+    {
+        "name": "Die Hard: Vendetta",
+        "rating": 6.5,
+        "reviews": 2,
+        "final_score": 6.019230769230769
+    },
+    {
+        "name": "Intellivision Lives!",
+        "rating": 6.3,
+        "reviews": 3,
+        "final_score": 6.016981132075471
+    },
+    {
+        "name": "Drome Racers",
+        "rating": 6.3,
+        "reviews": 3,
+        "final_score": 6.016981132075471
+    },
+    {
+        "name": "Shrek Super Party",
+        "rating": 6.3,
+        "reviews": 3,
+        "final_score": 6.016981132075471
+    },
+    {
+        "name": "Zapper: One Wicked Cricket",
+        "rating": 6.3,
+        "reviews": 3,
+        "final_score": 6.016981132075471
+    },
+    {
+        "name": "Backyard Football [GameCube]",
+        "rating": 6.3,
+        "reviews": 3,
+        "final_score": 6.016981132075471
+    },
+    {
+        "name": "Disney's Party",
+        "rating": 6.3,
+        "reviews": 3,
+        "final_score": 6.016981132075471
+    },
+    {
+        "name": "4x4 Evo 2",
+        "rating": 6.3,
+        "reviews": 3,
+        "final_score": 6.016981132075471
+    },
+    {
+        "name": "Tetris Worlds",
+        "rating": 6.3,
+        "reviews": 3,
+        "final_score": 6.016981132075471
+    },
+    {
+        "name": "NBA Jam [2003]",
+        "rating": 6.1,
+        "reviews": 7,
+        "final_score": 6.012280701754386
+    },
+    {
+        "name": "SD Gundam: Gashapon Wars",
+        "rating": 6.0,
+        "reviews": 1,
+        "final_score": 6.0
+    },
+    {
+        "name": "Cabela's Dangerous Hunts 2",
+        "rating": 6.0,
+        "reviews": 1,
+        "final_score": 6.0
+    },
+    {
+        "name": "Pinball Hall of Fame",
+        "rating": 6.0,
+        "reviews": 2,
+        "final_score": 6.0
+    },
+    {
+        "name": "Dream Mix TV World Fighters",
+        "rating": 6.0,
+        "reviews": 2,
+        "final_score": 6.0
+    },
+    {
+        "name": "Secret Weapons Over Normandy",
+        "rating": 6.0,
+        "reviews": 2,
+        "final_score": 6.0
+    },
+    {
+        "name": "BlowOut",
+        "rating": 6.0,
+        "reviews": 1,
+        "final_score": 6.0
+    },
+    {
+        "name": "Freaky Flyers",
+        "rating": 6.0,
+        "reviews": 1,
+        "final_score": 6.0
+    },
+    {
+        "name": "Disney Sports Football",
+        "rating": 6.0,
+        "reviews": 2,
+        "final_score": 6.0
+    },
+    {
+        "name": "One Piece Treasure Battle!",
+        "rating": 6.0,
+        "reviews": 3,
+        "final_score": 6.0
+    },
+    {
+        "name": "Disney Sports Skateboarding",
+        "rating": 6.0,
+        "reviews": 3,
+        "final_score": 6.0
+    },
+    {
+        "name": "MLB SlugFest 20-03",
+        "rating": 6.0,
+        "reviews": 3,
+        "final_score": 6.0
+    },
+    {
+        "name": "Fireblade",
+        "rating": 6.0,
+        "reviews": 3,
+        "final_score": 6.0
+    },
+    {
+        "name": "The Sum of All Fears",
+        "rating": 6.0,
+        "reviews": 1,
+        "final_score": 6.0
+    },
+    {
+        "name": "Monster Jam: Maximum Destruction",
+        "rating": 6.0,
+        "reviews": 1,
+        "final_score": 6.0
+    },
+    {
+        "name": "Doshin the Giant",
+        "rating": 6.0,
+        "reviews": 3,
+        "final_score": 6.0
+    },
+    {
+        "name": "Dark Summit",
+        "rating": 6.0,
+        "reviews": 1,
+        "final_score": 6.0
+    },
+    {
+        "name": "Jeremy McGrath Supercross World",
+        "rating": 6.0,
+        "reviews": 1,
+        "final_score": 6.0
+    },
+    {
+        "name": "NASCAR Heat 2002",
+        "rating": 6.0,
+        "reviews": 1,
+        "final_score": 6.0
+    },
+    {
+        "name": "Avatar: The Legend Of Aang",
+        "rating": 5.7,
+        "reviews": 3,
+        "final_score": 5.983018867924529
+    },
+    {
+        "name": "Conan [2004]",
+        "rating": 5.7,
+        "reviews": 3,
+        "final_score": 5.983018867924529
+    },
+    {
+        "name": "Piglet's BIG Game",
+        "rating": 5.7,
+        "reviews": 3,
+        "final_score": 5.983018867924529
+    },
+    {
+        "name": "UFC: Throwdown",
+        "rating": 5.7,
+        "reviews": 3,
+        "final_score": 5.983018867924529
+    },
+    {
+        "name": "Made Man",
+        "rating": 5.5,
+        "reviews": 2,
+        "final_score": 5.980769230769231
+    },
+    {
+        "name": "Winnie the Pooh's Rumbly Tumbly Adventure",
+        "rating": 5.5,
+        "reviews": 2,
+        "final_score": 5.980769230769231
+    },
+    {
+        "name": "World Championship Poker",
+        "rating": 5.5,
+        "reviews": 2,
+        "final_score": 5.980769230769231
+    },
+    {
+        "name": "The Italian Job",
+        "rating": 5.5,
+        "reviews": 2,
+        "final_score": 5.980769230769231
+    },
+    {
+        "name": "Reign of Fire",
+        "rating": 5.5,
+        "reviews": 2,
+        "final_score": 5.980769230769231
+    },
+    {
+        "name": "Frogger: Ancient Shadow",
+        "rating": 5.0,
+        "reviews": 1,
+        "final_score": 5.980392156862745
+    },
+    {
+        "name": "Freestyle Street Soccer",
+        "rating": 5.0,
+        "reviews": 1,
+        "final_score": 5.980392156862745
+    },
+    {
+        "name": "World Racing",
+        "rating": 5.0,
+        "reviews": 1,
+        "final_score": 5.980392156862745
+    },
+    {
+        "name": "RedCard 20-03",
+        "rating": 5.0,
+        "reviews": 1,
+        "final_score": 5.980392156862745
+    },
+    {
+        "name": "ESPN International Winter Sports 2002",
+        "rating": 5.0,
+        "reviews": 1,
+        "final_score": 5.980392156862745
+    },
+    {
+        "name": "NBA Courtside 2002",
+        "rating": 5.0,
+        "reviews": 1,
+        "final_score": 5.980392156862745
+    },
+    {
+        "name": "TransWorld Surf",
+        "rating": 5.0,
+        "reviews": 1,
+        "final_score": 5.980392156862745
+    },
+    {
+        "name": "Avatar: The Last Airbender",
+        "rating": 5.9,
+        "reviews": 29,
+        "final_score": 5.963291139240507
+    },
+    {
+        "name": "Starsky & Hutch",
+        "rating": 5.5,
+        "reviews": 4,
+        "final_score": 5.962962962962963
+    },
+    {
+        "name": "Frogger's Adventures: The Rescue",
+        "rating": 5.0,
+        "reviews": 2,
+        "final_score": 5.961538461538462
+    },
+    {
+        "name": "Charlie's Angels",
+        "rating": 5.0,
+        "reviews": 2,
+        "final_score": 5.961538461538462
+    },
+    {
+        "name": "Haven: Call of the King",
+        "rating": 5.0,
+        "reviews": 2,
+        "final_score": 5.961538461538462
+    },
+    {
+        "name": "Robots",
+        "rating": 5.8,
+        "reviews": 12,
+        "final_score": 5.961290322580646
+    },
+    {
+        "name": "Happy Feet",
+        "rating": 5.7,
+        "reviews": 10,
+        "final_score": 5.95
+    },
+    {
+        "name": "Super Monkey Ball Adventure",
+        "rating": 5.7,
+        "reviews": 11,
+        "final_score": 5.945901639344262
+    },
+    {
+        "name": "Beyblade VForce: Super Tournament Battle",
+        "rating": 5.4,
+        "reviews": 5,
+        "final_score": 5.945454545454545
+    },
+    {
+        "name": "Monsters, Inc.",
+        "rating": 4.5,
+        "reviews": 2,
+        "final_score": 5.9423076923076925
+    },
+    {
+        "name": "Lotus Challenge",
+        "rating": 3.0,
+        "reviews": 1,
+        "final_score": 5.9411764705882355
+    },
+    {
+        "name": "Jimmy Neutron, Boy Genius",
+        "rating": 5.0,
+        "reviews": 4,
+        "final_score": 5.925925925925926
+    },
+    {
+        "name": "Wreckless: The Yakuza Missions",
+        "rating": 5.0,
+        "reviews": 4,
+        "final_score": 5.925925925925926
+    },
+    {
+        "name": "Lemony Snicket's A Series of Unfortunate Events",
+        "rating": 5.3,
+        "reviews": 6,
+        "final_score": 5.925
+    },
+    {
+        "name": "Bionicle: The Game",
+        "rating": 5.7,
+        "reviews": 17,
+        "final_score": 5.923880597014925
+    },
+    {
+        "name": "American Idol",
+        "rating": 4.0,
+        "reviews": 2,
+        "final_score": 5.923076923076923
+    },
+    {
+        "name": "R: Racing Evolution",
+        "rating": 2.0,
+        "reviews": 1,
+        "final_score": 5.921568627450981
+    },
+    {
+        "name": "X-Men: The Official Game",
+        "rating": 5.8,
+        "reviews": 34,
+        "final_score": 5.919047619047619
+    },
+    {
+        "name": "Power Rangers: DinoThunder",
+        "rating": 5.2,
+        "reviews": 6,
+        "final_score": 5.914285714285714
+    },
+    {
+        "name": "BMX XXX",
+        "rating": 5.2,
+        "reviews": 6,
+        "final_score": 5.914285714285714
+    },
+    {
+        "name": "Finding Nemo",
+        "rating": 5.7,
+        "reviews": 23,
+        "final_score": 5.905479452054795
+    },
+    {
+        "name": "City Racer",
+        "rating": 3.5,
+        "reviews": 2,
+        "final_score": 5.903846153846154
+    },
+    {
+        "name": "Aquaman: Battle for Atlantis",
+        "rating": 1.0,
+        "reviews": 1,
+        "final_score": 5.901960784313726
+    },
+    {
+        "name": "SpongeBob SquarePants: Revenge of the Flying Dutchman",
+        "rating": 5.7,
+        "reviews": 26,
+        "final_score": 5.897368421052632
+    },
+    {
+        "name": "Nickelodeon Party Blast",
+        "rating": 4.5,
+        "reviews": 4,
+        "final_score": 5.888888888888889
+    },
+    {
+        "name": "Stolen",
+        "rating": 3.0,
+        "reviews": 2,
+        "final_score": 5.884615384615385
+    },
+    {
+        "name": "Fairly OddParents: Breakin' da Rules",
+        "rating": 5.4,
+        "reviews": 12,
+        "final_score": 5.883870967741935
+    },
+    {
+        "name": "The Powerpuff Girls: Relish Rampage",
+        "rating": 3.7,
+        "reviews": 3,
+        "final_score": 5.869811320754717
+    },
+    {
+        "name": "Universal Studios Theme Park Adventure",
+        "rating": 3.7,
+        "reviews": 3,
+        "final_score": 5.869811320754717
+    },
+    {
+        "name": "Harry Potter and the Goblet of Fire",
+        "rating": 5.8,
+        "reviews": 98,
+        "final_score": 5.867567567567567
+    },
+    {
+        "name": "Meet The Robinsons",
+        "rating": 5.2,
+        "reviews": 11,
+        "final_score": 5.855737704918033
+    },
+    {
+        "name": "The Polar Express",
+        "rating": 4.4,
+        "reviews": 5,
+        "final_score": 5.8545454545454545
+    },
+    {
+        "name": "One Piece: Pirates' Carnival",
+        "rating": 4.0,
+        "reviews": 4,
+        "final_score": 5.851851851851852
+    },
+    {
+        "name": "Flushed Away",
+        "rating": 4.7,
+        "reviews": 7,
+        "final_score": 5.840350877192982
+    },
+    {
+        "name": "Bad Boys: Miami Takedown",
+        "rating": 3.6,
+        "reviews": 5,
+        "final_score": 5.781818181818182
+    },
+    {
+        "name": "Fantastic 4",
+        "rating": 5.3,
+        "reviews": 25,
+        "final_score": 5.766666666666667
+    },
+    {
+        "name": "Dragon Ball Z: Sagas",
+        "rating": 5.5,
+        "reviews": 74,
+        "final_score": 5.701612903225806
+    },
+    {
+        "name": "MTV's Celebrity Deathmatch",
+        "rating": 2.4,
+        "reviews": 7,
+        "final_score": 5.557894736842106
+    },
+    {
+        "name": "Batman: Dark Tomorrow",
+        "rating": 2.4,
+        "reviews": 9,
+        "final_score": 5.450847457627119
+    }
+]

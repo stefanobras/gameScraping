@@ -1,0 +1,3608 @@
+[
+    {
+        "name": "Super Mario Bros. 3",
+        "rating": 9.1,
+        "reviews": 1100,
+        "final_score": 8.965217391304348
+    },
+    {
+        "name": "Super Mario Bros.",
+        "rating": 8.4,
+        "reviews": 1700,
+        "final_score": 8.331428571428571
+    },
+    {
+        "name": "The Legend of Zelda",
+        "rating": 8.1,
+        "reviews": 695,
+        "final_score": 7.959060402684564
+    },
+    {
+        "name": "Mega Man 2",
+        "rating": 8.3,
+        "reviews": 229,
+        "final_score": 7.887813620071686
+    },
+    {
+        "name": "Contra",
+        "rating": 8.1,
+        "reviews": 214,
+        "final_score": 7.702272727272727
+    },
+    {
+        "name": "Kirby's Adventure",
+        "rating": 8.0,
+        "reviews": 224,
+        "final_score": 7.635036496350365
+    },
+    {
+        "name": "Super Mario Bros. / Duck Hunt",
+        "rating": 8.8,
+        "reviews": 63,
+        "final_score": 7.561061946902655
+    },
+    {
+        "name": "Mike Tyson's Punch-Out!!",
+        "rating": 8.1,
+        "reviews": 121,
+        "final_score": 7.485964912280701
+    },
+    {
+        "name": "Mega Man 3",
+        "rating": 8.0,
+        "reviews": 141,
+        "final_score": 7.476439790575916
+    },
+    {
+        "name": "Castlevania",
+        "rating": 7.7,
+        "reviews": 253,
+        "final_score": 7.419471947194721
+    },
+    {
+        "name": "Castlevania III: Dracula's Curse",
+        "rating": 8.1,
+        "reviews": 100,
+        "final_score": 7.4
+    },
+    {
+        "name": "Super Mario Bros. 2",
+        "rating": 7.5,
+        "reviews": 599,
+        "final_score": 7.3844375963020035
+    },
+    {
+        "name": "Final Fantasy",
+        "rating": 7.5,
+        "reviews": 364,
+        "final_score": 7.318840579710145
+    },
+    {
+        "name": "Teenage Mutant Ninja Turtles II: The Arcade Game",
+        "rating": 7.8,
+        "reviews": 102,
+        "final_score": 7.207894736842104
+    },
+    {
+        "name": "DuckTales",
+        "rating": 7.7,
+        "reviews": 95,
+        "final_score": 7.113793103448276
+    },
+    {
+        "name": "Dragon Quest IV: Chapters of the Chosen",
+        "rating": 8.2,
+        "reviews": 51,
+        "final_score": 7.110891089108911
+    },
+    {
+        "name": "Mega Man 4",
+        "rating": 7.7,
+        "reviews": 94,
+        "final_score": 7.1097222222222225
+    },
+    {
+        "name": "Mega Man 6",
+        "rating": 7.7,
+        "reviews": 90,
+        "final_score": 7.0928571428571425
+    },
+    {
+        "name": "Metroid",
+        "rating": 7.3,
+        "reviews": 250,
+        "final_score": 7.083333333333333
+    },
+    {
+        "name": "Mega Man 5",
+        "rating": 7.7,
+        "reviews": 87,
+        "final_score": 7.079562043795621
+    },
+    {
+        "name": "Dragon Quest",
+        "rating": 7.4,
+        "reviews": 159,
+        "final_score": 7.065071770334929
+    },
+    {
+        "name": "Punch-Out!! Featuring Mr. Dream",
+        "rating": 8.1,
+        "reviews": 50,
+        "final_score": 7.05
+    },
+    {
+        "name": "Prince of Persia [1989]",
+        "rating": 7.8,
+        "reviews": 69,
+        "final_score": 7.0436974789915965
+    },
+    {
+        "name": "Final Fantasy III",
+        "rating": 7.3,
+        "reviews": 142,
+        "final_score": 6.961458333333333
+    },
+    {
+        "name": "Dr. Mario",
+        "rating": 7.2,
+        "reviews": 200,
+        "final_score": 6.96
+    },
+    {
+        "name": "Teenage Mutant Ninja Turtles III: The Manhattan Project",
+        "rating": 8.1,
+        "reviews": 41,
+        "final_score": 6.9461538461538455
+    },
+    {
+        "name": "Lemmings",
+        "rating": 7.9,
+        "reviews": 49,
+        "final_score": 6.940404040404041
+    },
+    {
+        "name": "Chip 'N Dale: Rescue Rangers",
+        "rating": 7.6,
+        "reviews": 58,
+        "final_score": 6.859259259259259
+    },
+    {
+        "name": "Duck Hunt",
+        "rating": 7.2,
+        "reviews": 114,
+        "final_score": 6.834146341463415
+    },
+    {
+        "name": "Maniac Mansion",
+        "rating": 8.1,
+        "reviews": 32,
+        "final_score": 6.819512195121952
+    },
+    {
+        "name": "Tecmo Super Bowl [1991]",
+        "rating": 8.5,
+        "reviews": 23,
+        "final_score": 6.787671232876712
+    },
+    {
+        "name": "Super C",
+        "rating": 7.7,
+        "reviews": 43,
+        "final_score": 6.786021505376344
+    },
+    {
+        "name": "Bubble Bobble",
+        "rating": 7.4,
+        "reviews": 62,
+        "final_score": 6.7749999999999995
+    },
+    {
+        "name": "Tecmo Bowl",
+        "rating": 7.7,
+        "reviews": 41,
+        "final_score": 6.765934065934067
+    },
+    {
+        "name": "Darkwing Duck",
+        "rating": 7.6,
+        "reviews": 42,
+        "final_score": 6.730434782608696
+    },
+    {
+        "name": "Mega Man",
+        "rating": 6.9,
+        "reviews": 197,
+        "final_score": 6.7178137651821865
+    },
+    {
+        "name": "The Lion King",
+        "rating": 7.0,
+        "reviews": 127,
+        "final_score": 6.7175141242937855
+    },
+    {
+        "name": "Ninja Gaiden II: The Dark Sword of Chaos",
+        "rating": 7.9,
+        "reviews": 29,
+        "final_score": 6.69746835443038
+    },
+    {
+        "name": "DuckTales 2",
+        "rating": 7.9,
+        "reviews": 28,
+        "final_score": 6.682051282051282
+    },
+    {
+        "name": "Chip 'N Dale: Rescue Rangers 2",
+        "rating": 7.8,
+        "reviews": 30,
+        "final_score": 6.675
+    },
+    {
+        "name": "Adventures of Lolo",
+        "rating": 7.9,
+        "reviews": 27,
+        "final_score": 6.666233766233765
+    },
+    {
+        "name": "SimCity [1989]",
+        "rating": 8.5,
+        "reviews": 18,
+        "final_score": 6.661764705882353
+    },
+    {
+        "name": "Double Dragon II: The Revenge",
+        "rating": 7.2,
+        "reviews": 54,
+        "final_score": 6.623076923076923
+    },
+    {
+        "name": "Super Mario Bros.: The Lost Levels",
+        "rating": 6.8,
+        "reviews": 171,
+        "final_score": 6.619004524886877
+    },
+    {
+        "name": "Double Dragon [NES]",
+        "rating": 7.1,
+        "reviews": 58,
+        "final_score": 6.59074074074074
+    },
+    {
+        "name": "EarthBound Beginnings",
+        "rating": 7.2,
+        "reviews": 47,
+        "final_score": 6.581443298969073
+    },
+    {
+        "name": "Battletoads",
+        "rating": 7.2,
+        "reviews": 45,
+        "final_score": 6.568421052631579
+    },
+    {
+        "name": "Crystalis",
+        "rating": 8.1,
+        "reviews": 18,
+        "final_score": 6.555882352941175
+    },
+    {
+        "name": "Final Fantasy II",
+        "rating": 6.7,
+        "reviews": 174,
+        "final_score": 6.54375
+    },
+    {
+        "name": "River City Ransom",
+        "rating": 7.9,
+        "reviews": 20,
+        "final_score": 6.542857142857143
+    },
+    {
+        "name": "Battle City",
+        "rating": 7.7,
+        "reviews": 23,
+        "final_score": 6.535616438356165
+    },
+    {
+        "name": "Batman: The Video Game",
+        "rating": 7.1,
+        "reviews": 47,
+        "final_score": 6.53298969072165
+    },
+    {
+        "name": "Gargoyle's Quest II: The Demon Darkness",
+        "rating": 8.7,
+        "reviews": 12,
+        "final_score": 6.52258064516129
+    },
+    {
+        "name": "Blades of Steel",
+        "rating": 7.5,
+        "reviews": 26,
+        "final_score": 6.5131578947368425
+    },
+    {
+        "name": "Snow Bros. Nick & Tom",
+        "rating": 8.0,
+        "reviews": 17,
+        "final_score": 6.507462686567164
+    },
+    {
+        "name": "Bomberman",
+        "rating": 7.3,
+        "reviews": 32,
+        "final_score": 6.507317073170732
+    },
+    {
+        "name": "Blaster Master",
+        "rating": 7.4,
+        "reviews": 28,
+        "final_score": 6.502564102564103
+    },
+    {
+        "name": "Ninja Gaiden III: The Ancient Ship of Doom",
+        "rating": 7.7,
+        "reviews": 20,
+        "final_score": 6.485714285714286
+    },
+    {
+        "name": "Metal Gear",
+        "rating": 6.8,
+        "reviews": 77,
+        "final_score": 6.4850393700787405
+    },
+    {
+        "name": "Gradius",
+        "rating": 7.1,
+        "reviews": 39,
+        "final_score": 6.4820224719101125
+    },
+    {
+        "name": "Dragon Quest II: Luminaries of the Legendary Line",
+        "rating": 6.8,
+        "reviews": 71,
+        "final_score": 6.469421487603306
+    },
+    {
+        "name": "Felix the Cat",
+        "rating": 7.9,
+        "reviews": 16,
+        "final_score": 6.46060606060606
+    },
+    {
+        "name": "Teenage Mutant Ninja Turtles",
+        "rating": 6.7,
+        "reviews": 87,
+        "final_score": 6.444525547445255
+    },
+    {
+        "name": "Balloon Fight",
+        "rating": 6.8,
+        "reviews": 61,
+        "final_score": 6.43963963963964
+    },
+    {
+        "name": "Fire Emblem: Shadow Dragon & The Blade of Light",
+        "rating": 7.3,
+        "reviews": 25,
+        "final_score": 6.433333333333334
+    },
+    {
+        "name": "Ice Hockey",
+        "rating": 7.1,
+        "reviews": 32,
+        "final_score": 6.429268292682927
+    },
+    {
+        "name": "StarTropics",
+        "rating": 7.3,
+        "reviews": 24,
+        "final_score": 6.421621621621622
+    },
+    {
+        "name": "Castlevania II: Simon's Quest",
+        "rating": 6.6,
+        "reviews": 100,
+        "final_score": 6.4
+    },
+    {
+        "name": "Arkanoid",
+        "rating": 7.3,
+        "reviews": 22,
+        "final_score": 6.397222222222222
+    },
+    {
+        "name": "Ghosts 'N Goblins",
+        "rating": 6.7,
+        "reviews": 62,
+        "final_score": 6.387500000000001
+    },
+    {
+        "name": "Shinobi [1987]",
+        "rating": 7.4,
+        "reviews": 19,
+        "final_score": 6.385507246376812
+    },
+    {
+        "name": "Tiny Toon Adventures",
+        "rating": 7.2,
+        "reviews": 23,
+        "final_score": 6.378082191780822
+    },
+    {
+        "name": "1943: The Battle of Midway",
+        "rating": 7.3,
+        "reviews": 20,
+        "final_score": 6.371428571428571
+    },
+    {
+        "name": "Bionic Commando [1992]",
+        "rating": 7.3,
+        "reviews": 20,
+        "final_score": 6.371428571428571
+    },
+    {
+        "name": "Wizards & Warriors",
+        "rating": 8.1,
+        "reviews": 10,
+        "final_score": 6.35
+    },
+    {
+        "name": "Faxanadu",
+        "rating": 7.5,
+        "reviews": 15,
+        "final_score": 6.346153846153846
+    },
+    {
+        "name": "Zelda II: The Adventure of Link",
+        "rating": 6.4,
+        "reviews": 275,
+        "final_score": 6.338461538461538
+    },
+    {
+        "name": "Rampage",
+        "rating": 7.1,
+        "reviews": 22,
+        "final_score": 6.336111111111111
+    },
+    {
+        "name": "King's Quest V: Absence Makes the Heart Go Yonder",
+        "rating": 8.1,
+        "reviews": 9,
+        "final_score": 6.320338983050847
+    },
+    {
+        "name": "Adventure Island",
+        "rating": 6.8,
+        "reviews": 33,
+        "final_score": 6.3180722891566266
+    },
+    {
+        "name": "Micro Machines [1994]",
+        "rating": 7.5,
+        "reviews": 13,
+        "final_score": 6.309523809523809
+    },
+    {
+        "name": "Jackal",
+        "rating": 7.4,
+        "reviews": 14,
+        "final_score": 6.30625
+    },
+    {
+        "name": "Double Dragon III: The Rosetta Stone",
+        "rating": 7.1,
+        "reviews": 19,
+        "final_score": 6.302898550724637
+    },
+    {
+        "name": "Paperboy",
+        "rating": 6.7,
+        "reviews": 38,
+        "final_score": 6.302272727272728
+    },
+    {
+        "name": "Kid Icarus",
+        "rating": 6.5,
+        "reviews": 73,
+        "final_score": 6.296747967479675
+    },
+    {
+        "name": "Super Dodge Ball",
+        "rating": 7.0,
+        "reviews": 21,
+        "final_score": 6.295774647887324
+    },
+    {
+        "name": "Adventure Island IV",
+        "rating": 9.2,
+        "reviews": 5,
+        "final_score": 6.290909090909091
+    },
+    {
+        "name": "Mighty Final Fight",
+        "rating": 7.5,
+        "reviews": 12,
+        "final_score": 6.290322580645161
+    },
+    {
+        "name": "Shadowgate [1987]",
+        "rating": 8.1,
+        "reviews": 8,
+        "final_score": 6.289655172413793
+    },
+    {
+        "name": "Little Nemo: The Dream Master",
+        "rating": 8.0,
+        "reviews": 8,
+        "final_score": 6.275862068965517
+    },
+    {
+        "name": "Fire Emblem Gaiden",
+        "rating": 7.4,
+        "reviews": 12,
+        "final_score": 6.270967741935484
+    },
+    {
+        "name": "Wild Gunman",
+        "rating": 7.5,
+        "reviews": 11,
+        "final_score": 6.270491803278689
+    },
+    {
+        "name": "Bonk's Adventure",
+        "rating": 7.5,
+        "reviews": 11,
+        "final_score": 6.270491803278689
+    },
+    {
+        "name": "Rad Racer",
+        "rating": 7.6,
+        "reviews": 10,
+        "final_score": 6.266666666666667
+    },
+    {
+        "name": "The Little Mermaid",
+        "rating": 7.1,
+        "reviews": 16,
+        "final_score": 6.266666666666667
+    },
+    {
+        "name": "Sweet Home",
+        "rating": 8.1,
+        "reviews": 7,
+        "final_score": 6.257894736842105
+    },
+    {
+        "name": "Caveman Ninja (Joe & Mac)",
+        "rating": 6.6,
+        "reviews": 36,
+        "final_score": 6.251162790697674
+    },
+    {
+        "name": "Smash TV",
+        "rating": 7.5,
+        "reviews": 10,
+        "final_score": 6.25
+    },
+    {
+        "name": "Altered Beast",
+        "rating": 6.4,
+        "reviews": 81,
+        "final_score": 6.247328244274809
+    },
+    {
+        "name": "Power Blade 2",
+        "rating": 8.3,
+        "reviews": 6,
+        "final_score": 6.246428571428572
+    },
+    {
+        "name": "R.B.I. Baseball",
+        "rating": 7.6,
+        "reviews": 9,
+        "final_score": 6.244067796610169
+    },
+    {
+        "name": "Adventure Island II",
+        "rating": 6.9,
+        "reviews": 17,
+        "final_score": 6.228358208955224
+    },
+    {
+        "name": "Mario Bros.",
+        "rating": 6.3,
+        "reviews": 159,
+        "final_score": 6.22822966507177
+    },
+    {
+        "name": "Captain Tsubasa Vol. II: Super Striker",
+        "rating": 9.0,
+        "reviews": 4,
+        "final_score": 6.222222222222222
+    },
+    {
+        "name": "Circus Charlie",
+        "rating": 6.7,
+        "reviews": 23,
+        "final_score": 6.22054794520548
+    },
+    {
+        "name": "The Jungle Book",
+        "rating": 6.7,
+        "reviews": 23,
+        "final_score": 6.22054794520548
+    },
+    {
+        "name": "Solomon's Key",
+        "rating": 7.2,
+        "reviews": 11,
+        "final_score": 6.216393442622951
+    },
+    {
+        "name": "Power Blade",
+        "rating": 8.0,
+        "reviews": 6,
+        "final_score": 6.214285714285714
+    },
+    {
+        "name": "Space Harrier",
+        "rating": 7.4,
+        "reviews": 9,
+        "final_score": 6.213559322033898
+    },
+    {
+        "name": "Journey to Silius",
+        "rating": 7.4,
+        "reviews": 9,
+        "final_score": 6.213559322033898
+    },
+    {
+        "name": "Vice: Project Doom",
+        "rating": 7.1,
+        "reviews": 12,
+        "final_score": 6.212903225806452
+    },
+    {
+        "name": "California Games",
+        "rating": 6.8,
+        "reviews": 18,
+        "final_score": 6.211764705882352
+    },
+    {
+        "name": "Adventures of Lolo 2",
+        "rating": 7.7,
+        "reviews": 7,
+        "final_score": 6.208771929824561
+    },
+    {
+        "name": "Spy Hunter [2007]",
+        "rating": 6.9,
+        "reviews": 15,
+        "final_score": 6.207692307692308
+    },
+    {
+        "name": "The Flintstones: The Rescue of Dino and Hoppy",
+        "rating": 6.9,
+        "reviews": 15,
+        "final_score": 6.207692307692308
+    },
+    {
+        "name": "Winter Games",
+        "rating": 8.8,
+        "reviews": 4,
+        "final_score": 6.207407407407407
+    },
+    {
+        "name": "Baseball Stars",
+        "rating": 8.8,
+        "reviews": 4,
+        "final_score": 6.207407407407407
+    },
+    {
+        "name": "Shadow of the Ninja",
+        "rating": 7.1,
+        "reviews": 11,
+        "final_score": 6.198360655737705
+    },
+    {
+        "name": "Mappy",
+        "rating": 7.3,
+        "reviews": 9,
+        "final_score": 6.198305084745763
+    },
+    {
+        "name": "Lunar Pool",
+        "rating": 7.6,
+        "reviews": 7,
+        "final_score": 6.196491228070175
+    },
+    {
+        "name": "Kung Fu",
+        "rating": 6.5,
+        "reviews": 32,
+        "final_score": 6.195121951219512
+    },
+    {
+        "name": "Donkey Kong Classics",
+        "rating": 6.8,
+        "reviews": 16,
+        "final_score": 6.193939393939394
+    },
+    {
+        "name": "Fire 'N Ice: Solomon's Key 2",
+        "rating": 7.4,
+        "reviews": 8,
+        "final_score": 6.193103448275862
+    },
+    {
+        "name": "Monster In My Pocket",
+        "rating": 7.8,
+        "reviews": 6,
+        "final_score": 6.192857142857143
+    },
+    {
+        "name": "Ultima IV",
+        "rating": 8.5,
+        "reviews": 4,
+        "final_score": 6.185185185185185
+    },
+    {
+        "name": "Rainbow Islands",
+        "rating": 8.5,
+        "reviews": 4,
+        "final_score": 6.185185185185185
+    },
+    {
+        "name": "Nintendo World Cup",
+        "rating": 7.1,
+        "reviews": 10,
+        "final_score": 6.183333333333334
+    },
+    {
+        "name": "Snake's Revenge",
+        "rating": 7.2,
+        "reviews": 9,
+        "final_score": 6.183050847457627
+    },
+    {
+        "name": "Adventure Island 3",
+        "rating": 7.2,
+        "reviews": 9,
+        "final_score": 6.183050847457627
+    },
+    {
+        "name": "Double Dribble",
+        "rating": 6.8,
+        "reviews": 14,
+        "final_score": 6.175
+    },
+    {
+        "name": "Ice Climber",
+        "rating": 6.3,
+        "reviews": 66,
+        "final_score": 6.1706896551724135
+    },
+    {
+        "name": "Dragon Ball Z 2: Gekigami Furiiza",
+        "rating": 8.3,
+        "reviews": 4,
+        "final_score": 6.17037037037037
+    },
+    {
+        "name": "RoboCop 2",
+        "rating": 7.1,
+        "reviews": 9,
+        "final_score": 6.167796610169491
+    },
+    {
+        "name": "RoboCop",
+        "rating": 6.8,
+        "reviews": 13,
+        "final_score": 6.1650793650793645
+    },
+    {
+        "name": "Arkanoid: Revenge of Doh",
+        "rating": 7.8,
+        "reviews": 5,
+        "final_score": 6.163636363636364
+    },
+    {
+        "name": "Gradius II",
+        "rating": 7.8,
+        "reviews": 5,
+        "final_score": 6.163636363636364
+    },
+    {
+        "name": "Elevator Action",
+        "rating": 6.9,
+        "reviews": 11,
+        "final_score": 6.162295081967213
+    },
+    {
+        "name": "Pro Wrestling [NES]",
+        "rating": 6.5,
+        "reviews": 24,
+        "final_score": 6.162162162162162
+    },
+    {
+        "name": "Marble Madness",
+        "rating": 6.7,
+        "reviews": 15,
+        "final_score": 6.161538461538462
+    },
+    {
+        "name": "Willow",
+        "rating": 7.3,
+        "reviews": 7,
+        "final_score": 6.159649122807018
+    },
+    {
+        "name": "Aladdin",
+        "rating": 6.8,
+        "reviews": 12,
+        "final_score": 6.15483870967742
+    },
+    {
+        "name": "Hogan's Alley",
+        "rating": 7.1,
+        "reviews": 8,
+        "final_score": 6.151724137931034
+    },
+    {
+        "name": "Tetris [1988]",
+        "rating": 8.0,
+        "reviews": 4,
+        "final_score": 6.148148148148148
+    },
+    {
+        "name": "Kero Kero Keroppi no Daibouken 2: Donuts Ike ha Oosawagi!!",
+        "rating": 8.0,
+        "reviews": 4,
+        "final_score": 6.148148148148148
+    },
+    {
+        "name": "Nigel Mansell's World Championship Racing",
+        "rating": 8.0,
+        "reviews": 4,
+        "final_score": 6.148148148148148
+    },
+    {
+        "name": "Shatterhand",
+        "rating": 8.0,
+        "reviews": 4,
+        "final_score": 6.148148148148148
+    },
+    {
+        "name": "The New Zealand Story",
+        "rating": 7.6,
+        "reviews": 5,
+        "final_score": 6.1454545454545455
+    },
+    {
+        "name": "Rolling Thunder [1986]",
+        "rating": 7.3,
+        "reviews": 6,
+        "final_score": 6.139285714285714
+    },
+    {
+        "name": "Batman Returns [NES]",
+        "rating": 7.0,
+        "reviews": 8,
+        "final_score": 6.137931034482759
+    },
+    {
+        "name": "Road Fighter",
+        "rating": 6.9,
+        "reviews": 9,
+        "final_score": 6.137288135593221
+    },
+    {
+        "name": "Ancient Land of Ys",
+        "rating": 6.9,
+        "reviews": 9,
+        "final_score": 6.137288135593221
+    },
+    {
+        "name": "Wario's Woods",
+        "rating": 6.4,
+        "reviews": 26,
+        "final_score": 6.136842105263158
+    },
+    {
+        "name": "Side Pocket",
+        "rating": 6.7,
+        "reviews": 12,
+        "final_score": 6.135483870967741
+    },
+    {
+        "name": "Deja Vu",
+        "rating": 7.1,
+        "reviews": 7,
+        "final_score": 6.135087719298245
+    },
+    {
+        "name": "The Goonies 2",
+        "rating": 7.1,
+        "reviews": 7,
+        "final_score": 6.135087719298245
+    },
+    {
+        "name": "Mitsume Ga Tooru",
+        "rating": 9.5,
+        "reviews": 2,
+        "final_score": 6.134615384615385
+    },
+    {
+        "name": "Bucky O'Hare",
+        "rating": 7.8,
+        "reviews": 4,
+        "final_score": 6.133333333333333
+    },
+    {
+        "name": "Super Turrican",
+        "rating": 7.8,
+        "reviews": 4,
+        "final_score": 6.133333333333333
+    },
+    {
+        "name": "Track & Field [NES]",
+        "rating": 6.6,
+        "reviews": 14,
+        "final_score": 6.13125
+    },
+    {
+        "name": "NES Open Tournament Golf",
+        "rating": 6.6,
+        "reviews": 14,
+        "final_score": 6.13125
+    },
+    {
+        "name": "The Last Ninja",
+        "rating": 8.3,
+        "reviews": 3,
+        "final_score": 6.130188679245283
+    },
+    {
+        "name": "Trog",
+        "rating": 8.3,
+        "reviews": 3,
+        "final_score": 6.130188679245283
+    },
+    {
+        "name": "Zen: Intergalactic Ninja",
+        "rating": 8.3,
+        "reviews": 3,
+        "final_score": 6.130188679245283
+    },
+    {
+        "name": "Gyruss",
+        "rating": 7.2,
+        "reviews": 6,
+        "final_score": 6.128571428571428
+    },
+    {
+        "name": "Little Samson",
+        "rating": 7.4,
+        "reviews": 5,
+        "final_score": 6.127272727272727
+    },
+    {
+        "name": "RoboCop 3",
+        "rating": 7.4,
+        "reviews": 5,
+        "final_score": 6.127272727272727
+    },
+    {
+        "name": "Spy vs. Spy",
+        "rating": 6.9,
+        "reviews": 8,
+        "final_score": 6.124137931034483
+    },
+    {
+        "name": "Tiny Toon Adventures 2: Trouble in Wackyland",
+        "rating": 7.0,
+        "reviews": 7,
+        "final_score": 6.12280701754386
+    },
+    {
+        "name": "Romance of the Three Kingdoms",
+        "rating": 8.0,
+        "reviews": 3,
+        "final_score": 6.113207547169812
+    },
+    {
+        "name": "Anticipation",
+        "rating": 8.0,
+        "reviews": 3,
+        "final_score": 6.113207547169812
+    },
+    {
+        "name": "Where In Time Is Carmen Sandiego?",
+        "rating": 8.0,
+        "reviews": 3,
+        "final_score": 6.113207547169812
+    },
+    {
+        "name": "Arkista's Ring",
+        "rating": 8.0,
+        "reviews": 3,
+        "final_score": 6.113207547169812
+    },
+    {
+        "name": "The Flintstones: Surprise at Dino Peak",
+        "rating": 8.0,
+        "reviews": 3,
+        "final_score": 6.113207547169812
+    },
+    {
+        "name": "Kick Master",
+        "rating": 8.0,
+        "reviews": 3,
+        "final_score": 6.113207547169812
+    },
+    {
+        "name": "G.I. Joe: The Atlantis Factor",
+        "rating": 8.0,
+        "reviews": 3,
+        "final_score": 6.113207547169812
+    },
+    {
+        "name": "Romance of the Three Kingdoms II",
+        "rating": 8.0,
+        "reviews": 3,
+        "final_score": 6.113207547169812
+    },
+    {
+        "name": "Adventures of Lolo 3",
+        "rating": 8.0,
+        "reviews": 3,
+        "final_score": 6.113207547169812
+    },
+    {
+        "name": "Gauntlet II",
+        "rating": 7.5,
+        "reviews": 4,
+        "final_score": 6.111111111111111
+    },
+    {
+        "name": "P.O.W.",
+        "rating": 7.5,
+        "reviews": 4,
+        "final_score": 6.111111111111111
+    },
+    {
+        "name": "Star Trek: 25th Anniversary",
+        "rating": 7.5,
+        "reviews": 4,
+        "final_score": 6.111111111111111
+    },
+    {
+        "name": "Gun-Nac",
+        "rating": 7.5,
+        "reviews": 4,
+        "final_score": 6.111111111111111
+    },
+    {
+        "name": "Metal Storm",
+        "rating": 7.5,
+        "reviews": 4,
+        "final_score": 6.111111111111111
+    },
+    {
+        "name": "Godzilla: Monster of Monsters!",
+        "rating": 6.9,
+        "reviews": 7,
+        "final_score": 6.110526315789474
+    },
+    {
+        "name": "NARC",
+        "rating": 6.9,
+        "reviews": 7,
+        "final_score": 6.110526315789474
+    },
+    {
+        "name": "Dragon Ball: Daimaou Fukkatsu",
+        "rating": 7.2,
+        "reviews": 5,
+        "final_score": 6.109090909090909
+    },
+    {
+        "name": "North & South",
+        "rating": 7.2,
+        "reviews": 5,
+        "final_score": 6.109090909090909
+    },
+    {
+        "name": "Bases Loaded",
+        "rating": 6.6,
+        "reviews": 11,
+        "final_score": 6.108196721311476
+    },
+    {
+        "name": "Wacky Races",
+        "rating": 6.6,
+        "reviews": 11,
+        "final_score": 6.108196721311476
+    },
+    {
+        "name": "Skate or Die 2: The Search for Double Trouble",
+        "rating": 7.0,
+        "reviews": 6,
+        "final_score": 6.107142857142857
+    },
+    {
+        "name": "Dig Dug II",
+        "rating": 6.5,
+        "reviews": 12,
+        "final_score": 6.096774193548387
+    },
+    {
+        "name": "Sky Kid",
+        "rating": 7.3,
+        "reviews": 4,
+        "final_score": 6.096296296296296
+    },
+    {
+        "name": "Tiger-Heli",
+        "rating": 7.3,
+        "reviews": 4,
+        "final_score": 6.096296296296296
+    },
+    {
+        "name": "Jeopardy! Based on the Top Hit TV Game Show!",
+        "rating": 7.3,
+        "reviews": 4,
+        "final_score": 6.096296296296296
+    },
+    {
+        "name": "Splatterhouse: Wanpaku Graffiti",
+        "rating": 7.3,
+        "reviews": 4,
+        "final_score": 6.096296296296296
+    },
+    {
+        "name": "The Rocketeer [NES]",
+        "rating": 7.3,
+        "reviews": 4,
+        "final_score": 6.096296296296296
+    },
+    {
+        "name": "Panic Restaurant",
+        "rating": 7.3,
+        "reviews": 4,
+        "final_score": 6.096296296296296
+    },
+    {
+        "name": "Ultima V: Warriors of Destiny",
+        "rating": 7.7,
+        "reviews": 3,
+        "final_score": 6.09622641509434
+    },
+    {
+        "name": "Parodius",
+        "rating": 7.7,
+        "reviews": 3,
+        "final_score": 6.09622641509434
+    },
+    {
+        "name": "Super Mario Bros. / Duck Hunt / World Class Track Meet",
+        "rating": 7.7,
+        "reviews": 3,
+        "final_score": 6.09622641509434
+    },
+    {
+        "name": "G.I. Joe: A Real American Hero",
+        "rating": 7.7,
+        "reviews": 3,
+        "final_score": 6.09622641509434
+    },
+    {
+        "name": "Elite",
+        "rating": 8.5,
+        "reviews": 2,
+        "final_score": 6.096153846153846
+    },
+    {
+        "name": "Caveman Games",
+        "rating": 8.5,
+        "reviews": 2,
+        "final_score": 6.096153846153846
+    },
+    {
+        "name": "Sesame Street 1-2-3",
+        "rating": 8.5,
+        "reviews": 2,
+        "final_score": 6.096153846153846
+    },
+    {
+        "name": "Battletank",
+        "rating": 8.5,
+        "reviews": 2,
+        "final_score": 6.096153846153846
+    },
+    {
+        "name": "Fantastic Dizzy",
+        "rating": 8.5,
+        "reviews": 2,
+        "final_score": 6.096153846153846
+    },
+    {
+        "name": "Radia Senki",
+        "rating": 8.5,
+        "reviews": 2,
+        "final_score": 6.096153846153846
+    },
+    {
+        "name": "Mickey Mousecapade",
+        "rating": 6.6,
+        "reviews": 9,
+        "final_score": 6.091525423728813
+    },
+    {
+        "name": "Lode Runner [NES]",
+        "rating": 7.0,
+        "reviews": 5,
+        "final_score": 6.090909090909091
+    },
+    {
+        "name": "Battle of Olympus",
+        "rating": 7.0,
+        "reviews": 5,
+        "final_score": 6.090909090909091
+    },
+    {
+        "name": "Dragon Ball Z: Kyoushuu! Saiyajin",
+        "rating": 7.0,
+        "reviews": 5,
+        "final_score": 6.090909090909091
+    },
+    {
+        "name": "Dragon Spirit",
+        "rating": 6.8,
+        "reviews": 6,
+        "final_score": 6.085714285714286
+    },
+    {
+        "name": "Gunsmoke",
+        "rating": 6.6,
+        "reviews": 8,
+        "final_score": 6.082758620689655
+    },
+    {
+        "name": "Pinball [1985]",
+        "rating": 6.2,
+        "reviews": 33,
+        "final_score": 6.079518072289157
+    },
+    {
+        "name": "Athena",
+        "rating": 10.0,
+        "reviews": 1,
+        "final_score": 6.078431372549019
+    },
+    {
+        "name": "Cycle Race: Road Man",
+        "rating": 10.0,
+        "reviews": 1,
+        "final_score": 6.078431372549019
+    },
+    {
+        "name": "Dusty Diamond All-Star Softball",
+        "rating": 10.0,
+        "reviews": 1,
+        "final_score": 6.078431372549019
+    },
+    {
+        "name": "The Chessmaster",
+        "rating": 10.0,
+        "reviews": 1,
+        "final_score": 6.078431372549019
+    },
+    {
+        "name": "Mendel Palace",
+        "rating": 10.0,
+        "reviews": 1,
+        "final_score": 6.078431372549019
+    },
+    {
+        "name": "Nekketsu Fighting Legend",
+        "rating": 10.0,
+        "reviews": 1,
+        "final_score": 6.078431372549019
+    },
+    {
+        "name": "International Cricket",
+        "rating": 10.0,
+        "reviews": 1,
+        "final_score": 6.078431372549019
+    },
+    {
+        "name": "Route 16 Turbo",
+        "rating": 8.0,
+        "reviews": 2,
+        "final_score": 6.076923076923077
+    },
+    {
+        "name": "Iron Tank",
+        "rating": 8.0,
+        "reviews": 2,
+        "final_score": 6.076923076923077
+    },
+    {
+        "name": "Salamander",
+        "rating": 8.0,
+        "reviews": 2,
+        "final_score": 6.076923076923077
+    },
+    {
+        "name": "Air Fortress",
+        "rating": 8.0,
+        "reviews": 2,
+        "final_score": 6.076923076923077
+    },
+    {
+        "name": "Wizards & Warriors III: Kuros Visions of Power",
+        "rating": 8.0,
+        "reviews": 2,
+        "final_score": 6.076923076923077
+    },
+    {
+        "name": "Rampart",
+        "rating": 8.0,
+        "reviews": 2,
+        "final_score": 6.076923076923077
+    },
+    {
+        "name": "Valis",
+        "rating": 7.0,
+        "reviews": 4,
+        "final_score": 6.074074074074074
+    },
+    {
+        "name": "Toki [1989]",
+        "rating": 7.0,
+        "reviews": 4,
+        "final_score": 6.074074074074074
+    },
+    {
+        "name": "Megami Tensei II",
+        "rating": 7.0,
+        "reviews": 4,
+        "final_score": 6.074074074074074
+    },
+    {
+        "name": "Super Spike V'Ball",
+        "rating": 7.0,
+        "reviews": 4,
+        "final_score": 6.074074074074074
+    },
+    {
+        "name": "Kickle Cubicle",
+        "rating": 7.0,
+        "reviews": 4,
+        "final_score": 6.074074074074074
+    },
+    {
+        "name": "WCW: World Championship Wrestling",
+        "rating": 7.0,
+        "reviews": 4,
+        "final_score": 6.074074074074074
+    },
+    {
+        "name": "Bubble Bobble Part 2",
+        "rating": 7.0,
+        "reviews": 4,
+        "final_score": 6.074074074074074
+    },
+    {
+        "name": "Megami Tensei",
+        "rating": 6.6,
+        "reviews": 7,
+        "final_score": 6.073684210526316
+    },
+    {
+        "name": "Gumshoe",
+        "rating": 7.3,
+        "reviews": 3,
+        "final_score": 6.073584905660377
+    },
+    {
+        "name": "Rescue: The Embassy Mission",
+        "rating": 7.3,
+        "reviews": 3,
+        "final_score": 6.073584905660377
+    },
+    {
+        "name": "Best of the Best: Championship Karate",
+        "rating": 7.3,
+        "reviews": 3,
+        "final_score": 6.073584905660377
+    },
+    {
+        "name": "Monopoly [1991]",
+        "rating": 7.3,
+        "reviews": 3,
+        "final_score": 6.073584905660377
+    },
+    {
+        "name": "The Goonies [Famicom]",
+        "rating": 6.8,
+        "reviews": 5,
+        "final_score": 6.072727272727272
+    },
+    {
+        "name": "Gauntlet",
+        "rating": 6.8,
+        "reviews": 5,
+        "final_score": 6.072727272727272
+    },
+    {
+        "name": "IronSword: Wizards & Warriors II",
+        "rating": 6.8,
+        "reviews": 5,
+        "final_score": 6.072727272727272
+    },
+    {
+        "name": "Gremlins 2: The New Batch",
+        "rating": 6.8,
+        "reviews": 5,
+        "final_score": 6.072727272727272
+    },
+    {
+        "name": "After Burner",
+        "rating": 6.4,
+        "reviews": 10,
+        "final_score": 6.066666666666666
+    },
+    {
+        "name": "Street Fighter 2010: The Final Fight",
+        "rating": 6.4,
+        "reviews": 9,
+        "final_score": 6.061016949152543
+    },
+    {
+        "name": "Star Wars [1991]",
+        "rating": 6.4,
+        "reviews": 9,
+        "final_score": 6.061016949152543
+    },
+    {
+        "name": "Pac-Mania",
+        "rating": 6.8,
+        "reviews": 4,
+        "final_score": 6.059259259259259
+    },
+    {
+        "name": "Jordan vs. Bird: One-on-One",
+        "rating": 6.8,
+        "reviews": 4,
+        "final_score": 6.059259259259259
+    },
+    {
+        "name": "Chase H.Q.",
+        "rating": 6.8,
+        "reviews": 4,
+        "final_score": 6.059259259259259
+    },
+    {
+        "name": "The Young Indiana Jones Chronicles",
+        "rating": 6.8,
+        "reviews": 4,
+        "final_score": 6.059259259259259
+    },
+    {
+        "name": "Star Wars: The Empire Strikes Back",
+        "rating": 6.8,
+        "reviews": 4,
+        "final_score": 6.059259259259259
+    },
+    {
+        "name": "The Immortal",
+        "rating": 6.8,
+        "reviews": 4,
+        "final_score": 6.059259259259259
+    },
+    {
+        "name": "Rollerball",
+        "rating": 9.0,
+        "reviews": 1,
+        "final_score": 6.0588235294117645
+    },
+    {
+        "name": "Rocket Ranger",
+        "rating": 9.0,
+        "reviews": 1,
+        "final_score": 6.0588235294117645
+    },
+    {
+        "name": "Golgo 13: Top Secret Episode",
+        "rating": 9.0,
+        "reviews": 1,
+        "final_score": 6.0588235294117645
+    },
+    {
+        "name": "Destiny of an Emperor",
+        "rating": 9.0,
+        "reviews": 1,
+        "final_score": 6.0588235294117645
+    },
+    {
+        "name": "Battleship [NES]",
+        "rating": 9.0,
+        "reviews": 1,
+        "final_score": 6.0588235294117645
+    },
+    {
+        "name": "Nekketsu Street Basket -- Ganbare Dunk Heroes",
+        "rating": 9.0,
+        "reviews": 1,
+        "final_score": 6.0588235294117645
+    },
+    {
+        "name": "Kaiketsu Yanchamaru 3: Taiketsu! Zouringen",
+        "rating": 9.0,
+        "reviews": 1,
+        "final_score": 6.0588235294117645
+    },
+    {
+        "name": "Kyoryu Sentai Zyuranger",
+        "rating": 9.0,
+        "reviews": 1,
+        "final_score": 6.0588235294117645
+    },
+    {
+        "name": "Chaos World",
+        "rating": 9.0,
+        "reviews": 1,
+        "final_score": 6.0588235294117645
+    },
+    {
+        "name": "F-15 Strike Eagle",
+        "rating": 7.5,
+        "reviews": 2,
+        "final_score": 6.0576923076923075
+    },
+    {
+        "name": "Star Voyager",
+        "rating": 7.5,
+        "reviews": 2,
+        "final_score": 6.0576923076923075
+    },
+    {
+        "name": "Cabal",
+        "rating": 7.5,
+        "reviews": 2,
+        "final_score": 6.0576923076923075
+    },
+    {
+        "name": "Joy Mech Fight",
+        "rating": 7.5,
+        "reviews": 2,
+        "final_score": 6.0576923076923075
+    },
+    {
+        "name": "Terra Cresta",
+        "rating": 7.0,
+        "reviews": 3,
+        "final_score": 6.056603773584905
+    },
+    {
+        "name": "Black Tiger",
+        "rating": 7.0,
+        "reviews": 3,
+        "final_score": 6.056603773584905
+    },
+    {
+        "name": "New Ghostbusters II",
+        "rating": 7.0,
+        "reviews": 3,
+        "final_score": 6.056603773584905
+    },
+    {
+        "name": "Dragon Ball Z Gaiden: Saiya-jin Zetsumetsu Keikaku",
+        "rating": 7.0,
+        "reviews": 3,
+        "final_score": 6.056603773584905
+    },
+    {
+        "name": "Dragon Ball Z 3: Ressen Jinzou Ningen",
+        "rating": 7.0,
+        "reviews": 3,
+        "final_score": 6.056603773584905
+    },
+    {
+        "name": "Barbie",
+        "rating": 7.0,
+        "reviews": 3,
+        "final_score": 6.056603773584905
+    },
+    {
+        "name": "Dai-2-Ji Super Robot Taisen",
+        "rating": 7.0,
+        "reviews": 3,
+        "final_score": 6.056603773584905
+    },
+    {
+        "name": "Indiana Jones and the Last Crusade: The Action Game",
+        "rating": 6.4,
+        "reviews": 8,
+        "final_score": 6.055172413793104
+    },
+    {
+        "name": "Track & Field II",
+        "rating": 6.6,
+        "reviews": 5,
+        "final_score": 6.054545454545455
+    },
+    {
+        "name": "Abadox",
+        "rating": 6.6,
+        "reviews": 5,
+        "final_score": 6.054545454545455
+    },
+    {
+        "name": "The Simpsons: Bartman Meets Radioactive Man",
+        "rating": 6.6,
+        "reviews": 5,
+        "final_score": 6.054545454545455
+    },
+    {
+        "name": "S.C.A.T.: Special Cybernetic Attack Team",
+        "rating": 6.4,
+        "reviews": 7,
+        "final_score": 6.049122807017544
+    },
+    {
+        "name": "Dick Tracy",
+        "rating": 6.4,
+        "reviews": 7,
+        "final_score": 6.049122807017544
+    },
+    {
+        "name": "The Bugs Bunny Birthday Blowout",
+        "rating": 6.4,
+        "reviews": 7,
+        "final_score": 6.049122807017544
+    },
+    {
+        "name": "TaleSpin",
+        "rating": 6.2,
+        "reviews": 15,
+        "final_score": 6.046153846153846
+    },
+    {
+        "name": "Antarctic Adventure",
+        "rating": 6.7,
+        "reviews": 3,
+        "final_score": 6.0396226415094345
+    },
+    {
+        "name": "Renegade",
+        "rating": 6.7,
+        "reviews": 3,
+        "final_score": 6.0396226415094345
+    },
+    {
+        "name": "Moero Stinger",
+        "rating": 6.7,
+        "reviews": 3,
+        "final_score": 6.0396226415094345
+    },
+    {
+        "name": "Sky Shark",
+        "rating": 6.7,
+        "reviews": 3,
+        "final_score": 6.0396226415094345
+    },
+    {
+        "name": "Major League Baseball",
+        "rating": 6.7,
+        "reviews": 3,
+        "final_score": 6.0396226415094345
+    },
+    {
+        "name": "Zoda's Revenge: StarTropics II",
+        "rating": 6.7,
+        "reviews": 3,
+        "final_score": 6.0396226415094345
+    },
+    {
+        "name": "Mickey's Adventure in Numberland",
+        "rating": 6.7,
+        "reviews": 3,
+        "final_score": 6.0396226415094345
+    },
+    {
+        "name": "Tecmo NBA Basketball",
+        "rating": 6.7,
+        "reviews": 3,
+        "final_score": 6.0396226415094345
+    },
+    {
+        "name": "Die Hard",
+        "rating": 6.7,
+        "reviews": 3,
+        "final_score": 6.0396226415094345
+    },
+    {
+        "name": "Ballblazer",
+        "rating": 8.0,
+        "reviews": 1,
+        "final_score": 6.03921568627451
+    },
+    {
+        "name": "Knightmare 2: The Maze of Galious",
+        "rating": 8.0,
+        "reviews": 1,
+        "final_score": 6.03921568627451
+    },
+    {
+        "name": "R.B.I. Baseball 2",
+        "rating": 8.0,
+        "reviews": 1,
+        "final_score": 6.03921568627451
+    },
+    {
+        "name": "Tetris [Atari / Tengen]",
+        "rating": 8.0,
+        "reviews": 1,
+        "final_score": 6.03921568627451
+    },
+    {
+        "name": "Toobin'",
+        "rating": 8.0,
+        "reviews": 1,
+        "final_score": 6.03921568627451
+    },
+    {
+        "name": "Shufflepuck Cafe",
+        "rating": 8.0,
+        "reviews": 1,
+        "final_score": 6.03921568627451
+    },
+    {
+        "name": "Kick Off",
+        "rating": 8.0,
+        "reviews": 1,
+        "final_score": 6.03921568627451
+    },
+    {
+        "name": "Solstice",
+        "rating": 8.0,
+        "reviews": 1,
+        "final_score": 6.03921568627451
+    },
+    {
+        "name": "Puss 'n Boots: Pero's Great Adventure",
+        "rating": 8.0,
+        "reviews": 1,
+        "final_score": 6.03921568627451
+    },
+    {
+        "name": "Bigfoot [1990]",
+        "rating": 8.0,
+        "reviews": 1,
+        "final_score": 6.03921568627451
+    },
+    {
+        "name": "Super Mario Bros. / Tetris / Nintendo World Cup",
+        "rating": 8.0,
+        "reviews": 1,
+        "final_score": 6.03921568627451
+    },
+    {
+        "name": "Final Fantasy I\u2022II [NES]",
+        "rating": 8.0,
+        "reviews": 1,
+        "final_score": 6.03921568627451
+    },
+    {
+        "name": "Kero Kero Keroppi: Splash Bomb",
+        "rating": 8.0,
+        "reviews": 1,
+        "final_score": 6.03921568627451
+    },
+    {
+        "name": "Gemfire",
+        "rating": 8.0,
+        "reviews": 1,
+        "final_score": 6.03921568627451
+    },
+    {
+        "name": "Baseball Stars II [NES]",
+        "rating": 8.0,
+        "reviews": 1,
+        "final_score": 6.03921568627451
+    },
+    {
+        "name": "Hudson Hawk",
+        "rating": 8.0,
+        "reviews": 1,
+        "final_score": 6.03921568627451
+    },
+    {
+        "name": "Kaiketsu Yanchamaru 2: Karakuri Land",
+        "rating": 8.0,
+        "reviews": 1,
+        "final_score": 6.03921568627451
+    },
+    {
+        "name": "Crisis Force",
+        "rating": 8.0,
+        "reviews": 1,
+        "final_score": 6.03921568627451
+    },
+    {
+        "name": "Klashball",
+        "rating": 8.0,
+        "reviews": 1,
+        "final_score": 6.03921568627451
+    },
+    {
+        "name": "Portopia Renzoku Satsujin Jiken",
+        "rating": 7.0,
+        "reviews": 2,
+        "final_score": 6.038461538461538
+    },
+    {
+        "name": "SonSon",
+        "rating": 7.0,
+        "reviews": 2,
+        "final_score": 6.038461538461538
+    },
+    {
+        "name": "BreakThru",
+        "rating": 7.0,
+        "reviews": 2,
+        "final_score": 6.038461538461538
+    },
+    {
+        "name": "Dragon Power",
+        "rating": 7.0,
+        "reviews": 2,
+        "final_score": 6.038461538461538
+    },
+    {
+        "name": "Bio Miracle Bokutte Upa",
+        "rating": 7.0,
+        "reviews": 2,
+        "final_score": 6.038461538461538
+    },
+    {
+        "name": "Dragon Ball 3: Gokuuden",
+        "rating": 7.0,
+        "reviews": 2,
+        "final_score": 6.038461538461538
+    },
+    {
+        "name": "Don Doko Don",
+        "rating": 7.0,
+        "reviews": 2,
+        "final_score": 6.038461538461538
+    },
+    {
+        "name": "Pictionary",
+        "rating": 7.0,
+        "reviews": 2,
+        "final_score": 6.038461538461538
+    },
+    {
+        "name": "Conquest of the Crystal Palace",
+        "rating": 7.0,
+        "reviews": 2,
+        "final_score": 6.038461538461538
+    },
+    {
+        "name": "Kabuki Quantum Fighter",
+        "rating": 7.0,
+        "reviews": 2,
+        "final_score": 6.038461538461538
+    },
+    {
+        "name": "Overlord [1990]",
+        "rating": 7.0,
+        "reviews": 2,
+        "final_score": 6.038461538461538
+    },
+    {
+        "name": "Dragon Ball Z: Gekitou Tenkaichi Budokai",
+        "rating": 7.0,
+        "reviews": 2,
+        "final_score": 6.038461538461538
+    },
+    {
+        "name": "The Lone Ranger",
+        "rating": 7.0,
+        "reviews": 2,
+        "final_score": 6.038461538461538
+    },
+    {
+        "name": "Isolated Warrior",
+        "rating": 7.0,
+        "reviews": 2,
+        "final_score": 6.038461538461538
+    },
+    {
+        "name": "The Bard's Tale [1987]",
+        "rating": 6.5,
+        "reviews": 4,
+        "final_score": 6.037037037037037
+    },
+    {
+        "name": "Arch Rivals",
+        "rating": 6.5,
+        "reviews": 4,
+        "final_score": 6.037037037037037
+    },
+    {
+        "name": "Captain Skyhawk",
+        "rating": 6.5,
+        "reviews": 4,
+        "final_score": 6.037037037037037
+    },
+    {
+        "name": "Defender of the Crown",
+        "rating": 6.4,
+        "reviews": 5,
+        "final_score": 6.036363636363636
+    },
+    {
+        "name": "Astyanax",
+        "rating": 6.4,
+        "reviews": 5,
+        "final_score": 6.036363636363636
+    },
+    {
+        "name": "Terminator 2: Judgment Day",
+        "rating": 6.4,
+        "reviews": 5,
+        "final_score": 6.036363636363636
+    },
+    {
+        "name": "Tetris 2",
+        "rating": 6.2,
+        "reviews": 11,
+        "final_score": 6.036065573770491
+    },
+    {
+        "name": "Paperboy 2",
+        "rating": 6.2,
+        "reviews": 11,
+        "final_score": 6.036065573770491
+    },
+    {
+        "name": "The Simpsons: Bart vs. The Space Mutants",
+        "rating": 6.1,
+        "reviews": 25,
+        "final_score": 6.033333333333333
+    },
+    {
+        "name": "Silent Service",
+        "rating": 6.3,
+        "reviews": 4,
+        "final_score": 6.022222222222222
+    },
+    {
+        "name": "Alpha Mission",
+        "rating": 6.3,
+        "reviews": 4,
+        "final_score": 6.022222222222222
+    },
+    {
+        "name": "Vigilante",
+        "rating": 6.3,
+        "reviews": 4,
+        "final_score": 6.022222222222222
+    },
+    {
+        "name": "Super Spy Hunter",
+        "rating": 6.3,
+        "reviews": 4,
+        "final_score": 6.022222222222222
+    },
+    {
+        "name": "Fester's Quest",
+        "rating": 6.2,
+        "reviews": 6,
+        "final_score": 6.021428571428571
+    },
+    {
+        "name": "Jurassic Park [NES]",
+        "rating": 6.2,
+        "reviews": 6,
+        "final_score": 6.021428571428571
+    },
+    {
+        "name": "Bad Dudes",
+        "rating": 6.1,
+        "reviews": 13,
+        "final_score": 6.020634920634921
+    },
+    {
+        "name": "Nuts & Milk",
+        "rating": 7.0,
+        "reviews": 1,
+        "final_score": 6.019607843137255
+    },
+    {
+        "name": "Wizardry: Legacy of Llylgamyn - The Third Scenario",
+        "rating": 7.0,
+        "reviews": 1,
+        "final_score": 6.019607843137255
+    },
+    {
+        "name": "Seicross",
+        "rating": 7.0,
+        "reviews": 1,
+        "final_score": 6.019607843137255
+    },
+    {
+        "name": "Pac-Man [Tengen Version]",
+        "rating": 7.0,
+        "reviews": 1,
+        "final_score": 6.019607843137255
+    },
+    {
+        "name": "Astro Robo SASA",
+        "rating": 7.0,
+        "reviews": 1,
+        "final_score": 6.019607843137255
+    },
+    {
+        "name": "Penguin Wars [1990]",
+        "rating": 7.0,
+        "reviews": 1,
+        "final_score": 6.019607843137255
+    },
+    {
+        "name": "The Magic of Scheherazade",
+        "rating": 7.0,
+        "reviews": 1,
+        "final_score": 6.019607843137255
+    },
+    {
+        "name": "Cyberball",
+        "rating": 7.0,
+        "reviews": 1,
+        "final_score": 6.019607843137255
+    },
+    {
+        "name": "Plotting",
+        "rating": 7.0,
+        "reviews": 1,
+        "final_score": 6.019607843137255
+    },
+    {
+        "name": "Destination Earthstar",
+        "rating": 7.0,
+        "reviews": 1,
+        "final_score": 6.019607843137255
+    },
+    {
+        "name": "Pin-Bot",
+        "rating": 7.0,
+        "reviews": 1,
+        "final_score": 6.019607843137255
+    },
+    {
+        "name": "Palamedes",
+        "rating": 7.0,
+        "reviews": 1,
+        "final_score": 6.019607843137255
+    },
+    {
+        "name": "Burai Fighter",
+        "rating": 7.0,
+        "reviews": 1,
+        "final_score": 6.019607843137255
+    },
+    {
+        "name": "Image Fight",
+        "rating": 7.0,
+        "reviews": 1,
+        "final_score": 6.019607843137255
+    },
+    {
+        "name": "Hit the Ice",
+        "rating": 7.0,
+        "reviews": 1,
+        "final_score": 6.019607843137255
+    },
+    {
+        "name": "The Jetsons: Cogswell's Caper",
+        "rating": 7.0,
+        "reviews": 1,
+        "final_score": 6.019607843137255
+    },
+    {
+        "name": "Kid Klown in Night Mayor World",
+        "rating": 7.0,
+        "reviews": 1,
+        "final_score": 6.019607843137255
+    },
+    {
+        "name": "Don Doko Don 2",
+        "rating": 7.0,
+        "reviews": 1,
+        "final_score": 6.019607843137255
+    },
+    {
+        "name": "Esper Dream 2: Arata naru Tatakai",
+        "rating": 7.0,
+        "reviews": 1,
+        "final_score": 6.019607843137255
+    },
+    {
+        "name": "Godzilla 2: War of the Monsters",
+        "rating": 7.0,
+        "reviews": 1,
+        "final_score": 6.019607843137255
+    },
+    {
+        "name": "World Rally Championship",
+        "rating": 7.0,
+        "reviews": 1,
+        "final_score": 6.019607843137255
+    },
+    {
+        "name": "Wurm: Journey to the Center of the Earth",
+        "rating": 7.0,
+        "reviews": 1,
+        "final_score": 6.019607843137255
+    },
+    {
+        "name": "Frankenstein: The Monster Returns",
+        "rating": 7.0,
+        "reviews": 1,
+        "final_score": 6.019607843137255
+    },
+    {
+        "name": "Magic Darts",
+        "rating": 7.0,
+        "reviews": 1,
+        "final_score": 6.019607843137255
+    },
+    {
+        "name": "Kero Kero Keroppi no Daibouken",
+        "rating": 7.0,
+        "reviews": 1,
+        "final_score": 6.019607843137255
+    },
+    {
+        "name": "Boulder Dash",
+        "rating": 6.5,
+        "reviews": 2,
+        "final_score": 6.019230769230769
+    },
+    {
+        "name": "Platoon",
+        "rating": 6.5,
+        "reviews": 2,
+        "final_score": 6.019230769230769
+    },
+    {
+        "name": "Adventures of Dino Riki",
+        "rating": 6.5,
+        "reviews": 2,
+        "final_score": 6.019230769230769
+    },
+    {
+        "name": "Robo Warrior",
+        "rating": 6.5,
+        "reviews": 2,
+        "final_score": 6.019230769230769
+    },
+    {
+        "name": "Legacy of the Wizard",
+        "rating": 6.5,
+        "reviews": 2,
+        "final_score": 6.019230769230769
+    },
+    {
+        "name": "Captain Tsubasa",
+        "rating": 6.5,
+        "reviews": 2,
+        "final_score": 6.019230769230769
+    },
+    {
+        "name": "Cobra Command",
+        "rating": 6.5,
+        "reviews": 2,
+        "final_score": 6.019230769230769
+    },
+    {
+        "name": "Castlequest",
+        "rating": 6.5,
+        "reviews": 2,
+        "final_score": 6.019230769230769
+    },
+    {
+        "name": "Adventures in the Magic Kingdom",
+        "rating": 6.5,
+        "reviews": 2,
+        "final_score": 6.019230769230769
+    },
+    {
+        "name": "Mission: Impossible [NES]",
+        "rating": 6.5,
+        "reviews": 2,
+        "final_score": 6.019230769230769
+    },
+    {
+        "name": "Bases Loaded 2: Second Season",
+        "rating": 6.5,
+        "reviews": 2,
+        "final_score": 6.019230769230769
+    },
+    {
+        "name": "Time Lord",
+        "rating": 6.5,
+        "reviews": 2,
+        "final_score": 6.019230769230769
+    },
+    {
+        "name": "Robin Hood: Prince of Thieves",
+        "rating": 6.5,
+        "reviews": 2,
+        "final_score": 6.019230769230769
+    },
+    {
+        "name": "Treasure Master",
+        "rating": 6.5,
+        "reviews": 2,
+        "final_score": 6.019230769230769
+    },
+    {
+        "name": "F-1 Race",
+        "rating": 6.2,
+        "reviews": 5,
+        "final_score": 6.0181818181818185
+    },
+    {
+        "name": "Solar Jetman",
+        "rating": 6.2,
+        "reviews": 5,
+        "final_score": 6.0181818181818185
+    },
+    {
+        "name": "Eliminator Boat Duel",
+        "rating": 6.2,
+        "reviews": 5,
+        "final_score": 6.0181818181818185
+    },
+    {
+        "name": "Krusty's Fun House",
+        "rating": 6.1,
+        "reviews": 11,
+        "final_score": 6.018032786885247
+    },
+    {
+        "name": "Bomberman II",
+        "rating": 6.1,
+        "reviews": 11,
+        "final_score": 6.018032786885247
+    },
+    {
+        "name": "Super Sprint",
+        "rating": 6.3,
+        "reviews": 3,
+        "final_score": 6.016981132075471
+    },
+    {
+        "name": "Clash at Demonhead",
+        "rating": 6.3,
+        "reviews": 3,
+        "final_score": 6.016981132075471
+    },
+    {
+        "name": "Beetlejuice",
+        "rating": 6.3,
+        "reviews": 3,
+        "final_score": 6.016981132075471
+    },
+    {
+        "name": "WWF King of the Ring",
+        "rating": 6.3,
+        "reviews": 3,
+        "final_score": 6.016981132075471
+    },
+    {
+        "name": "WWF Wrestlemania: Steel Cage Challenge",
+        "rating": 6.3,
+        "reviews": 3,
+        "final_score": 6.016981132075471
+    },
+    {
+        "name": "Cobra Triangle",
+        "rating": 6.1,
+        "reviews": 8,
+        "final_score": 6.013793103448276
+    },
+    {
+        "name": "Bugs Bunny Crazy Castle",
+        "rating": 6.1,
+        "reviews": 7,
+        "final_score": 6.012280701754386
+    },
+    {
+        "name": "Golf",
+        "rating": 6.0,
+        "reviews": 21,
+        "final_score": 6.0
+    },
+    {
+        "name": "Raid on Bungeling Bay",
+        "rating": 6.0,
+        "reviews": 1,
+        "final_score": 6.0
+    },
+    {
+        "name": "The Three Stooges",
+        "rating": 6.0,
+        "reviews": 1,
+        "final_score": 6.0
+    },
+    {
+        "name": "Dragon Ball: Shenron no Nazo",
+        "rating": 6.0,
+        "reviews": 2,
+        "final_score": 6.0
+    },
+    {
+        "name": "720\u00ba",
+        "rating": 6.0,
+        "reviews": 4,
+        "final_score": 6.0
+    },
+    {
+        "name": "Crackout",
+        "rating": 6.0,
+        "reviews": 2,
+        "final_score": 6.0
+    },
+    {
+        "name": "Flying Dragon: The Secret Scroll",
+        "rating": 6.0,
+        "reviews": 1,
+        "final_score": 6.0
+    },
+    {
+        "name": "Airwolf [1987]",
+        "rating": 6.0,
+        "reviews": 1,
+        "final_score": 6.0
+    },
+    {
+        "name": "The Guardian Legend",
+        "rating": 6.0,
+        "reviews": 5,
+        "final_score": 6.0
+    },
+    {
+        "name": "Demon Sword",
+        "rating": 6.0,
+        "reviews": 2,
+        "final_score": 6.0
+    },
+    {
+        "name": "Saint Seiya 2",
+        "rating": 6.0,
+        "reviews": 3,
+        "final_score": 6.0
+    },
+    {
+        "name": "8 Eyes",
+        "rating": 6.0,
+        "reviews": 5,
+        "final_score": 6.0
+    },
+    {
+        "name": "Jack Nicklaus' Great 18 Holes of Major Championship Golf",
+        "rating": 6.0,
+        "reviews": 1,
+        "final_score": 6.0
+    },
+    {
+        "name": "R.B.I. Baseball 3",
+        "rating": 6.0,
+        "reviews": 1,
+        "final_score": 6.0
+    },
+    {
+        "name": "Advanced Dungeons & Dragons: Hillsfar",
+        "rating": 6.0,
+        "reviews": 4,
+        "final_score": 6.0
+    },
+    {
+        "name": "Ganbare Goemon 2",
+        "rating": 6.0,
+        "reviews": 2,
+        "final_score": 6.0
+    },
+    {
+        "name": "Wheel of Fortune: Junior Edition",
+        "rating": 6.0,
+        "reviews": 1,
+        "final_score": 6.0
+    },
+    {
+        "name": "Silk Worm",
+        "rating": 6.0,
+        "reviews": 2,
+        "final_score": 6.0
+    },
+    {
+        "name": "Legend of Hero Tonma",
+        "rating": 6.0,
+        "reviews": 1,
+        "final_score": 6.0
+    },
+    {
+        "name": "Sesame Street A-B-C",
+        "rating": 6.0,
+        "reviews": 1,
+        "final_score": 6.0
+    },
+    {
+        "name": "Super Off Road",
+        "rating": 6.0,
+        "reviews": 6,
+        "final_score": 6.0
+    },
+    {
+        "name": "Rock 'n Ball",
+        "rating": 6.0,
+        "reviews": 1,
+        "final_score": 6.0
+    },
+    {
+        "name": "Castle of Dragon",
+        "rating": 6.0,
+        "reviews": 1,
+        "final_score": 6.0
+    },
+    {
+        "name": "Swords & Serpents [1990]",
+        "rating": 6.0,
+        "reviews": 1,
+        "final_score": 6.0
+    },
+    {
+        "name": "California Raisins: The Great Escape",
+        "rating": 6.0,
+        "reviews": 2,
+        "final_score": 6.0
+    },
+    {
+        "name": "Heavy Shreddin'",
+        "rating": 6.0,
+        "reviews": 1,
+        "final_score": 6.0
+    },
+    {
+        "name": "Spot",
+        "rating": 6.0,
+        "reviews": 2,
+        "final_score": 6.0
+    },
+    {
+        "name": "Low G Man",
+        "rating": 6.0,
+        "reviews": 3,
+        "final_score": 6.0
+    },
+    {
+        "name": "NES Play Action Football",
+        "rating": 6.0,
+        "reviews": 1,
+        "final_score": 6.0
+    },
+    {
+        "name": "Werewolf: The Last Warrior",
+        "rating": 6.0,
+        "reviews": 2,
+        "final_score": 6.0
+    },
+    {
+        "name": "WWF WrestleMania Challenge",
+        "rating": 6.0,
+        "reviews": 3,
+        "final_score": 6.0
+    },
+    {
+        "name": "The Adventures of Rad Gravity",
+        "rating": 6.0,
+        "reviews": 1,
+        "final_score": 6.0
+    },
+    {
+        "name": "The Krion Conquest",
+        "rating": 6.0,
+        "reviews": 1,
+        "final_score": 6.0
+    },
+    {
+        "name": "The Hunt for Red October [NES]",
+        "rating": 6.0,
+        "reviews": 3,
+        "final_score": 6.0
+    },
+    {
+        "name": "Asterix",
+        "rating": 6.0,
+        "reviews": 2,
+        "final_score": 6.0
+    },
+    {
+        "name": "Bases Loaded 4",
+        "rating": 6.0,
+        "reviews": 1,
+        "final_score": 6.0
+    },
+    {
+        "name": "Bram Stoker's Dracula",
+        "rating": 6.0,
+        "reviews": 1,
+        "final_score": 6.0
+    },
+    {
+        "name": "The Ren & Stimpy Show: Buckeroo$!",
+        "rating": 6.0,
+        "reviews": 2,
+        "final_score": 6.0
+    },
+    {
+        "name": "Attack of the Killer Tomatoes",
+        "rating": 6.0,
+        "reviews": 1,
+        "final_score": 6.0
+    },
+    {
+        "name": "Crash 'N' The Boys: Street Challenge",
+        "rating": 6.0,
+        "reviews": 1,
+        "final_score": 6.0
+    },
+    {
+        "name": "The Incredible Crash Dummies",
+        "rating": 6.0,
+        "reviews": 1,
+        "final_score": 6.0
+    },
+    {
+        "name": "Widget",
+        "rating": 6.0,
+        "reviews": 1,
+        "final_score": 6.0
+    },
+    {
+        "name": "Stanley: The Search for Dr. Livingston",
+        "rating": 6.0,
+        "reviews": 2,
+        "final_score": 6.0
+    },
+    {
+        "name": "Mickey Mouse III: Yume Fuusen",
+        "rating": 6.0,
+        "reviews": 1,
+        "final_score": 6.0
+    },
+    {
+        "name": "Nightshade [1992]",
+        "rating": 6.0,
+        "reviews": 3,
+        "final_score": 6.0
+    },
+    {
+        "name": "Hook [Ocean]",
+        "rating": 6.0,
+        "reviews": 1,
+        "final_score": 6.0
+    },
+    {
+        "name": "Ghoul School",
+        "rating": 6.0,
+        "reviews": 2,
+        "final_score": 6.0
+    },
+    {
+        "name": "T&C Surf Designs: Thrilla's Surfari",
+        "rating": 6.0,
+        "reviews": 1,
+        "final_score": 6.0
+    },
+    {
+        "name": "Wheel of Fortune: Featuring Vanna White",
+        "rating": 6.0,
+        "reviews": 1,
+        "final_score": 6.0
+    },
+    {
+        "name": "Bases Loaded 3",
+        "rating": 6.0,
+        "reviews": 1,
+        "final_score": 6.0
+    },
+    {
+        "name": "Bill Elliott's NASCAR Challenge",
+        "rating": 6.0,
+        "reviews": 4,
+        "final_score": 6.0
+    },
+    {
+        "name": "Cyber Stadium Series: BaseWars",
+        "rating": 6.0,
+        "reviews": 2,
+        "final_score": 6.0
+    },
+    {
+        "name": "Flying Warriors",
+        "rating": 6.0,
+        "reviews": 1,
+        "final_score": 6.0
+    },
+    {
+        "name": "Xybots",
+        "rating": 6.0,
+        "reviews": 1,
+        "final_score": 6.0
+    },
+    {
+        "name": "Space Shuttle",
+        "rating": 6.0,
+        "reviews": 1,
+        "final_score": 6.0
+    },
+    {
+        "name": "Ufouria: The Saga",
+        "rating": 6.0,
+        "reviews": 2,
+        "final_score": 6.0
+    },
+    {
+        "name": "Zombie Nation",
+        "rating": 6.0,
+        "reviews": 2,
+        "final_score": 6.0
+    },
+    {
+        "name": "Commando",
+        "rating": 5.9,
+        "reviews": 7,
+        "final_score": 5.987719298245614
+    },
+    {
+        "name": "Indiana Jones and the Temple of Doom",
+        "rating": 5.9,
+        "reviews": 7,
+        "final_score": 5.987719298245614
+    },
+    {
+        "name": "TwinBee",
+        "rating": 5.9,
+        "reviews": 7,
+        "final_score": 5.987719298245614
+    },
+    {
+        "name": "Gyromite",
+        "rating": 5.8,
+        "reviews": 4,
+        "final_score": 5.985185185185185
+    },
+    {
+        "name": "Ninja JaJaMaru-kun",
+        "rating": 5.8,
+        "reviews": 4,
+        "final_score": 5.985185185185185
+    },
+    {
+        "name": "MagMax",
+        "rating": 5.8,
+        "reviews": 4,
+        "final_score": 5.985185185185185
+    },
+    {
+        "name": "Top Gun: The Second Mission",
+        "rating": 5.8,
+        "reviews": 4,
+        "final_score": 5.985185185185185
+    },
+    {
+        "name": "Wayne Gretzky Hockey",
+        "rating": 5.8,
+        "reviews": 4,
+        "final_score": 5.985185185185185
+    },
+    {
+        "name": "Xenophobe",
+        "rating": 5.7,
+        "reviews": 3,
+        "final_score": 5.983018867924529
+    },
+    {
+        "name": "Section Z",
+        "rating": 5.7,
+        "reviews": 3,
+        "final_score": 5.983018867924529
+    },
+    {
+        "name": "Ikari Warriors",
+        "rating": 5.9,
+        "reviews": 11,
+        "final_score": 5.981967213114753
+    },
+    {
+        "name": "Yie Ar Kung Fu",
+        "rating": 5.8,
+        "reviews": 5,
+        "final_score": 5.9818181818181815
+    },
+    {
+        "name": "The Legend of Kage",
+        "rating": 5.8,
+        "reviews": 5,
+        "final_score": 5.9818181818181815
+    },
+    {
+        "name": "The Punisher",
+        "rating": 5.8,
+        "reviews": 5,
+        "final_score": 5.9818181818181815
+    },
+    {
+        "name": "The Tower of Druaga",
+        "rating": 5.5,
+        "reviews": 2,
+        "final_score": 5.980769230769231
+    },
+    {
+        "name": "Knight Rider",
+        "rating": 5.5,
+        "reviews": 2,
+        "final_score": 5.980769230769231
+    },
+    {
+        "name": "Hoops",
+        "rating": 5.5,
+        "reviews": 2,
+        "final_score": 5.980769230769231
+    },
+    {
+        "name": "Star Trek: The Next Generation",
+        "rating": 5.5,
+        "reviews": 2,
+        "final_score": 5.980769230769231
+    },
+    {
+        "name": "Mickey's Safari in Letterland",
+        "rating": 5.5,
+        "reviews": 2,
+        "final_score": 5.980769230769231
+    },
+    {
+        "name": "Digger T. Rock: The Legend of the Lost City",
+        "rating": 5.5,
+        "reviews": 2,
+        "final_score": 5.980769230769231
+    },
+    {
+        "name": "Family Feud [1991]",
+        "rating": 5.5,
+        "reviews": 2,
+        "final_score": 5.980769230769231
+    },
+    {
+        "name": "Indiana Jones and the Last Crusade [Taito Version]",
+        "rating": 5.5,
+        "reviews": 2,
+        "final_score": 5.980769230769231
+    },
+    {
+        "name": "Ultima III: Exodus",
+        "rating": 5.0,
+        "reviews": 1,
+        "final_score": 5.980392156862745
+    },
+    {
+        "name": "The Mystery of Atlantis",
+        "rating": 5.0,
+        "reviews": 1,
+        "final_score": 5.980392156862745
+    },
+    {
+        "name": "Empire City 1931",
+        "rating": 5.0,
+        "reviews": 1,
+        "final_score": 5.980392156862745
+    },
+    {
+        "name": "Chubby Cherub",
+        "rating": 5.0,
+        "reviews": 1,
+        "final_score": 5.980392156862745
+    },
+    {
+        "name": "Dance Aerobics",
+        "rating": 5.0,
+        "reviews": 1,
+        "final_score": 5.980392156862745
+    },
+    {
+        "name": "Saint Seiya",
+        "rating": 5.0,
+        "reviews": 1,
+        "final_score": 5.980392156862745
+    },
+    {
+        "name": "Karnov",
+        "rating": 5.0,
+        "reviews": 1,
+        "final_score": 5.980392156862745
+    },
+    {
+        "name": "Predator",
+        "rating": 5.0,
+        "reviews": 1,
+        "final_score": 5.980392156862745
+    },
+    {
+        "name": "Phantom Fighter",
+        "rating": 5.0,
+        "reviews": 1,
+        "final_score": 5.980392156862745
+    },
+    {
+        "name": "Donald Duck",
+        "rating": 5.0,
+        "reviews": 1,
+        "final_score": 5.980392156862745
+    },
+    {
+        "name": "Adventures of Tom Sawyer",
+        "rating": 5.0,
+        "reviews": 1,
+        "final_score": 5.980392156862745
+    },
+    {
+        "name": "Casino Kid",
+        "rating": 5.0,
+        "reviews": 1,
+        "final_score": 5.980392156862745
+    },
+    {
+        "name": "The Last Starfighter [NES]",
+        "rating": 5.0,
+        "reviews": 1,
+        "final_score": 5.980392156862745
+    },
+    {
+        "name": "The Mafat Conspiracy: Golgo 13",
+        "rating": 5.0,
+        "reviews": 1,
+        "final_score": 5.980392156862745
+    },
+    {
+        "name": "Swamp Thing",
+        "rating": 5.0,
+        "reviews": 1,
+        "final_score": 5.980392156862745
+    },
+    {
+        "name": "Sword Master",
+        "rating": 5.0,
+        "reviews": 1,
+        "final_score": 5.980392156862745
+    },
+    {
+        "name": "Defenders of Dynatron City",
+        "rating": 5.0,
+        "reviews": 1,
+        "final_score": 5.980392156862745
+    },
+    {
+        "name": "Fisher-Price: Firehouse Rescue",
+        "rating": 5.0,
+        "reviews": 1,
+        "final_score": 5.980392156862745
+    },
+    {
+        "name": "Caesars Palace [1991]",
+        "rating": 5.0,
+        "reviews": 1,
+        "final_score": 5.980392156862745
+    },
+    {
+        "name": "Sesame Street 1-2-3 & A-B-C",
+        "rating": 5.0,
+        "reviews": 1,
+        "final_score": 5.980392156862745
+    },
+    {
+        "name": "Captain Planet and the Planeteers",
+        "rating": 5.0,
+        "reviews": 1,
+        "final_score": 5.980392156862745
+    },
+    {
+        "name": "High Speed",
+        "rating": 5.0,
+        "reviews": 1,
+        "final_score": 5.980392156862745
+    },
+    {
+        "name": "World Champ",
+        "rating": 5.0,
+        "reviews": 1,
+        "final_score": 5.980392156862745
+    },
+    {
+        "name": "Conan",
+        "rating": 5.0,
+        "reviews": 1,
+        "final_score": 5.980392156862745
+    },
+    {
+        "name": "Ghostbusters [1984]",
+        "rating": 5.9,
+        "reviews": 14,
+        "final_score": 5.978125
+    },
+    {
+        "name": "Star Soldier",
+        "rating": 5.8,
+        "reviews": 8,
+        "final_score": 5.972413793103448
+    },
+    {
+        "name": "T&C Surf Designs: Wood & Water Rage",
+        "rating": 5.8,
+        "reviews": 9,
+        "final_score": 5.969491525423728
+    },
+    {
+        "name": "James Bond Jr.",
+        "rating": 5.7,
+        "reviews": 6,
+        "final_score": 5.9678571428571425
+    },
+    {
+        "name": "3-D WorldRunner",
+        "rating": 5.6,
+        "reviews": 5,
+        "final_score": 5.963636363636364
+    },
+    {
+        "name": "Wheel of Fortune [NES]",
+        "rating": 5.6,
+        "reviews": 5,
+        "final_score": 5.963636363636364
+    },
+    {
+        "name": "A Nightmare on Elm Street",
+        "rating": 5.6,
+        "reviews": 5,
+        "final_score": 5.963636363636364
+    },
+    {
+        "name": "The Addams Family 2: Pugsley's Scavenger Hunt",
+        "rating": 5.6,
+        "reviews": 5,
+        "final_score": 5.963636363636364
+    },
+    {
+        "name": "Akumajou Special: Boku Dracula-kun",
+        "rating": 5.7,
+        "reviews": 7,
+        "final_score": 5.963157894736842
+    },
+    {
+        "name": "Days of Thunder",
+        "rating": 5.0,
+        "reviews": 2,
+        "final_score": 5.961538461538462
+    },
+    {
+        "name": "Code Name: Viper",
+        "rating": 5.0,
+        "reviews": 2,
+        "final_score": 5.961538461538462
+    },
+    {
+        "name": "Darkman",
+        "rating": 5.0,
+        "reviews": 2,
+        "final_score": 5.961538461538462
+    },
+    {
+        "name": "M.C. Kids",
+        "rating": 5.0,
+        "reviews": 2,
+        "final_score": 5.961538461538462
+    },
+    {
+        "name": "Hatris",
+        "rating": 5.0,
+        "reviews": 2,
+        "final_score": 5.961538461538462
+    },
+    {
+        "name": "Formation Z",
+        "rating": 4.0,
+        "reviews": 1,
+        "final_score": 5.96078431372549
+    },
+    {
+        "name": "Defender II",
+        "rating": 4.0,
+        "reviews": 1,
+        "final_score": 5.96078431372549
+    },
+    {
+        "name": "Family Fun Fitness: Athletic World",
+        "rating": 4.0,
+        "reviews": 1,
+        "final_score": 5.96078431372549
+    },
+    {
+        "name": "Hollywood Squares",
+        "rating": 4.0,
+        "reviews": 1,
+        "final_score": 5.96078431372549
+    },
+    {
+        "name": "Flight of the Intruder",
+        "rating": 4.0,
+        "reviews": 1,
+        "final_score": 5.96078431372549
+    },
+    {
+        "name": "Casino Kid 2",
+        "rating": 4.0,
+        "reviews": 1,
+        "final_score": 5.96078431372549
+    },
+    {
+        "name": "Lethal Weapon",
+        "rating": 4.0,
+        "reviews": 1,
+        "final_score": 5.96078431372549
+    },
+    {
+        "name": "F-117A Stealth Fighter",
+        "rating": 4.0,
+        "reviews": 1,
+        "final_score": 5.96078431372549
+    },
+    {
+        "name": "Goal! 2",
+        "rating": 4.0,
+        "reviews": 1,
+        "final_score": 5.96078431372549
+    },
+    {
+        "name": "The Mutant Virus",
+        "rating": 4.0,
+        "reviews": 1,
+        "final_score": 5.96078431372549
+    },
+    {
+        "name": "Legendary Wings",
+        "rating": 5.3,
+        "reviews": 3,
+        "final_score": 5.9603773584905655
+    },
+    {
+        "name": "Pipe Dream",
+        "rating": 5.3,
+        "reviews": 3,
+        "final_score": 5.9603773584905655
+    },
+    {
+        "name": "Total Recall",
+        "rating": 5.3,
+        "reviews": 3,
+        "final_score": 5.9603773584905655
+    },
+    {
+        "name": "Beauty and the Beast",
+        "rating": 5.3,
+        "reviews": 3,
+        "final_score": 5.9603773584905655
+    },
+    {
+        "name": "Tom and Jerry",
+        "rating": 5.8,
+        "reviews": 14,
+        "final_score": 5.95625
+    },
+    {
+        "name": "The Adventures of Bayou Billy",
+        "rating": 5.6,
+        "reviews": 7,
+        "final_score": 5.950877192982456
+    },
+    {
+        "name": "The Smurfs",
+        "rating": 5.3,
+        "reviews": 4,
+        "final_score": 5.948148148148148
+    },
+    {
+        "name": "Operation Wolf",
+        "rating": 5.5,
+        "reviews": 6,
+        "final_score": 5.946428571428571
+    },
+    {
+        "name": "Spider-Man: Return of the Sinister Six",
+        "rating": 5.7,
+        "reviews": 11,
+        "final_score": 5.945901639344262
+    },
+    {
+        "name": "The Addams Family",
+        "rating": 5.4,
+        "reviews": 5,
+        "final_score": 5.945454545454545
+    },
+    {
+        "name": "Alien Syndrome",
+        "rating": 5.0,
+        "reviews": 3,
+        "final_score": 5.943396226415095
+    },
+    {
+        "name": "Fist of the North Star [NES]",
+        "rating": 5.0,
+        "reviews": 3,
+        "final_score": 5.943396226415095
+    },
+    {
+        "name": "Alien 3 [NES]",
+        "rating": 5.0,
+        "reviews": 3,
+        "final_score": 5.943396226415095
+    },
+    {
+        "name": "Toxic Crusaders",
+        "rating": 5.0,
+        "reviews": 3,
+        "final_score": 5.943396226415095
+    },
+    {
+        "name": "M.U.S.C.L.E.: Tag Team Match",
+        "rating": 4.5,
+        "reviews": 2,
+        "final_score": 5.9423076923076925
+    },
+    {
+        "name": "Win, Lose, or Draw",
+        "rating": 4.5,
+        "reviews": 2,
+        "final_score": 5.9423076923076925
+    },
+    {
+        "name": "Airwolf",
+        "rating": 4.5,
+        "reviews": 2,
+        "final_score": 5.9423076923076925
+    },
+    {
+        "name": "Karate Champ",
+        "rating": 3.0,
+        "reviews": 1,
+        "final_score": 5.9411764705882355
+    },
+    {
+        "name": "Transformers: Convoy no Nazo - Mystery of Comvoy",
+        "rating": 3.0,
+        "reviews": 1,
+        "final_score": 5.9411764705882355
+    },
+    {
+        "name": "The Bard's Tale II: The Destiny Knight",
+        "rating": 3.0,
+        "reviews": 1,
+        "final_score": 5.9411764705882355
+    },
+    {
+        "name": "Times of Lore",
+        "rating": 3.0,
+        "reviews": 1,
+        "final_score": 5.9411764705882355
+    },
+    {
+        "name": "John Elway's Quarterback [NES]",
+        "rating": 3.0,
+        "reviews": 1,
+        "final_score": 5.9411764705882355
+    },
+    {
+        "name": "Super Glove Ball",
+        "rating": 3.0,
+        "reviews": 1,
+        "final_score": 5.9411764705882355
+    },
+    {
+        "name": "Tennis [NES]",
+        "rating": 5.8,
+        "reviews": 26,
+        "final_score": 5.93157894736842
+    },
+    {
+        "name": "1942",
+        "rating": 5.8,
+        "reviews": 26,
+        "final_score": 5.93157894736842
+    },
+    {
+        "name": "Urban Champion",
+        "rating": 5.5,
+        "reviews": 8,
+        "final_score": 5.931034482758621
+    },
+    {
+        "name": "The Great Waldo Search",
+        "rating": 4.7,
+        "reviews": 3,
+        "final_score": 5.926415094339623
+    },
+    {
+        "name": "10-Yard Fight",
+        "rating": 5.4,
+        "reviews": 7,
+        "final_score": 5.926315789473684
+    },
+    {
+        "name": "Mach Rider",
+        "rating": 5.3,
+        "reviews": 6,
+        "final_score": 5.925
+    },
+    {
+        "name": "Starship Hector",
+        "rating": 4.0,
+        "reviews": 2,
+        "final_score": 5.923076923076923
+    },
+    {
+        "name": "R.C. Pro-AM II",
+        "rating": 4.0,
+        "reviews": 2,
+        "final_score": 5.923076923076923
+    },
+    {
+        "name": "Bill & Ted's Excellent Video Game Adventure",
+        "rating": 4.0,
+        "reviews": 2,
+        "final_score": 5.923076923076923
+    },
+    {
+        "name": "Milon's Secret Castle",
+        "rating": 2.0,
+        "reviews": 1,
+        "final_score": 5.921568627450981
+    },
+    {
+        "name": "The Adventures of Rocky and Bullwinkle and Friends",
+        "rating": 2.0,
+        "reviews": 1,
+        "final_score": 5.921568627450981
+    },
+    {
+        "name": "Aussie Rules Footy",
+        "rating": 2.0,
+        "reviews": 1,
+        "final_score": 5.921568627450981
+    },
+    {
+        "name": "Trojan",
+        "rating": 5.4,
+        "reviews": 8,
+        "final_score": 5.917241379310345
+    },
+    {
+        "name": "Yoshi",
+        "rating": 5.8,
+        "reviews": 36,
+        "final_score": 5.916279069767441
+    },
+    {
+        "name": "WWF WrestleMania",
+        "rating": 5.3,
+        "reviews": 7,
+        "final_score": 5.914035087719299
+    },
+    {
+        "name": "Slalom",
+        "rating": 5.0,
+        "reviews": 5,
+        "final_score": 5.909090909090909
+    },
+    {
+        "name": "Who Framed Roger Rabbit?",
+        "rating": 5.0,
+        "reviews": 5,
+        "final_score": 5.909090909090909
+    },
+    {
+        "name": "Back to the Future Part II & III",
+        "rating": 5.0,
+        "reviews": 5,
+        "final_score": 5.909090909090909
+    },
+    {
+        "name": "Clu Clu Land",
+        "rating": 5.6,
+        "reviews": 15,
+        "final_score": 5.907692307692308
+    },
+    {
+        "name": "Kid Niki: Radical Ninja",
+        "rating": 3.5,
+        "reviews": 2,
+        "final_score": 5.903846153846154
+    },
+    {
+        "name": "Goal!",
+        "rating": 3.5,
+        "reviews": 2,
+        "final_score": 5.903846153846154
+    },
+    {
+        "name": "Star Wars [Namco Version]",
+        "rating": 1.0,
+        "reviews": 1,
+        "final_score": 5.901960784313726
+    },
+    {
+        "name": "Garfield: A Week of Garfield: Garfield no Isshuukan",
+        "rating": 1.0,
+        "reviews": 1,
+        "final_score": 5.901960784313726
+    },
+    {
+        "name": "Home Alone",
+        "rating": 5.5,
+        "reviews": 13,
+        "final_score": 5.896825396825397
+    },
+    {
+        "name": "Mappy-Land",
+        "rating": 4.8,
+        "reviews": 5,
+        "final_score": 5.890909090909091
+    },
+    {
+        "name": "Baseball [1985]",
+        "rating": 5.7,
+        "reviews": 29,
+        "final_score": 5.889873417721519
+    },
+    {
+        "name": "Ghostbusters II [NES]",
+        "rating": 5.1,
+        "reviews": 7,
+        "final_score": 5.889473684210526
+    },
+    {
+        "name": "Wrecking Crew",
+        "rating": 5.7,
+        "reviews": 30,
+        "final_score": 5.8875
+    },
+    {
+        "name": "King's Knight",
+        "rating": 3.0,
+        "reviews": 2,
+        "final_score": 5.884615384615385
+    },
+    {
+        "name": "Yoshi's Cookie",
+        "rating": 5.5,
+        "reviews": 15,
+        "final_score": 5.884615384615385
+    },
+    {
+        "name": "Pac-Land",
+        "rating": 5.0,
+        "reviews": 7,
+        "final_score": 5.87719298245614
+    },
+    {
+        "name": "Captain America and the Avengers [NES]",
+        "rating": 5.1,
+        "reviews": 8,
+        "final_score": 5.875862068965517
+    },
+    {
+        "name": "Ikari Warriors III: The Rescue",
+        "rating": 3.7,
+        "reviews": 3,
+        "final_score": 5.869811320754717
+    },
+    {
+        "name": "Friday the 13th [1988]",
+        "rating": 5.4,
+        "reviews": 14,
+        "final_score": 5.86875
+    },
+    {
+        "name": "Super Pitfall",
+        "rating": 2.5,
+        "reviews": 2,
+        "final_score": 5.865384615384615
+    },
+    {
+        "name": "Advanced Dungeons & Dragons: Pool of Radiance",
+        "rating": 4.9,
+        "reviews": 7,
+        "final_score": 5.864912280701755
+    },
+    {
+        "name": "A Boy and His Blob: Trouble on Blobolonia",
+        "rating": 5.1,
+        "reviews": 9,
+        "final_score": 5.862711864406779
+    },
+    {
+        "name": "The Karate Kid",
+        "rating": 5.0,
+        "reviews": 8,
+        "final_score": 5.862068965517241
+    },
+    {
+        "name": "Top Gun [1987]",
+        "rating": 5.4,
+        "reviews": 15,
+        "final_score": 5.861538461538461
+    },
+    {
+        "name": "Contra Force",
+        "rating": 5.4,
+        "reviews": 16,
+        "final_score": 5.8545454545454545
+    },
+    {
+        "name": "Dragon's Lair [NES]",
+        "rating": 3.3,
+        "reviews": 3,
+        "final_score": 5.847169811320755
+    },
+    {
+        "name": "The Blues Brothers",
+        "rating": 3.3,
+        "reviews": 3,
+        "final_score": 5.847169811320755
+    },
+    {
+        "name": "American Gladiators",
+        "rating": 3.8,
+        "reviews": 4,
+        "final_score": 5.837037037037037
+    },
+    {
+        "name": "The Simpsons: Bart vs. The World",
+        "rating": 5.2,
+        "reviews": 13,
+        "final_score": 5.8349206349206355
+    },
+    {
+        "name": "Jaws [NES]",
+        "rating": 5.0,
+        "reviews": 10,
+        "final_score": 5.833333333333333
+    },
+    {
+        "name": "Hydlide",
+        "rating": 3.0,
+        "reviews": 3,
+        "final_score": 5.830188679245283
+    },
+    {
+        "name": "Home Alone 2: Lost In New York",
+        "rating": 3.0,
+        "reviews": 3,
+        "final_score": 5.830188679245283
+    },
+    {
+        "name": "City Connection",
+        "rating": 4.8,
+        "reviews": 9,
+        "final_score": 5.816949152542373
+    },
+    {
+        "name": "Wayne's World",
+        "rating": 2.7,
+        "reviews": 3,
+        "final_score": 5.813207547169812
+    },
+    {
+        "name": "Cheetahmen II",
+        "rating": 1.0,
+        "reviews": 2,
+        "final_score": 5.8076923076923075
+    },
+    {
+        "name": "Mario is Missing!",
+        "rating": 5.4,
+        "reviews": 25,
+        "final_score": 5.8
+    },
+    {
+        "name": "Rambo",
+        "rating": 4.3,
+        "reviews": 7,
+        "final_score": 5.791228070175439
+    },
+    {
+        "name": "Action 52",
+        "rating": 2.3,
+        "reviews": 3,
+        "final_score": 5.790566037735848
+    },
+    {
+        "name": "Wolverine",
+        "rating": 4.9,
+        "reviews": 12,
+        "final_score": 5.787096774193548
+    },
+    {
+        "name": "Soccer [1985]",
+        "rating": 5.3,
+        "reviews": 23,
+        "final_score": 5.77945205479452
+    },
+    {
+        "name": "The Terminator [NES]",
+        "rating": 3.0,
+        "reviews": 4,
+        "final_score": 5.777777777777778
+    },
+    {
+        "name": "Superman",
+        "rating": 3.2,
+        "reviews": 6,
+        "final_score": 5.7
+    },
+    {
+        "name": "Advanced Dungeons & Dragons: Heroes of the Lance",
+        "rating": 3.0,
+        "reviews": 6,
+        "final_score": 5.678571428571429
+    },
+    {
+        "name": "Donkey Kong Jr. Math",
+        "rating": 4.3,
+        "reviews": 12,
+        "final_score": 5.670967741935484
+    },
+    {
+        "name": "Dr. Jeckyl & Mr. Hyde",
+        "rating": 2.2,
+        "reviews": 5,
+        "final_score": 5.654545454545454
+    },
+    {
+        "name": "The Uncanny X-Men",
+        "rating": 3.1,
+        "reviews": 7,
+        "final_score": 5.643859649122807
+    },
+    {
+        "name": "Back to the Future [NES]",
+        "rating": 3.4,
+        "reviews": 8,
+        "final_score": 5.641379310344828
+    },
+    {
+        "name": "Mario's Time Machine",
+        "rating": 3.7,
+        "reviews": 10,
+        "final_score": 5.616666666666666
+    }
+]

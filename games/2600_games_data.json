@@ -1,0 +1,1022 @@
+[
+    {
+        "name": "Pac-Man",
+        "rating": 7.6,
+        "reviews": 225,
+        "final_score": 7.3090909090909095
+    },
+    {
+        "name": "Ms. Pac-Man",
+        "rating": 7.8,
+        "reviews": 73,
+        "final_score": 7.068292682926829
+    },
+    {
+        "name": "Donkey Kong",
+        "rating": 7.2,
+        "reviews": 232,
+        "final_score": 6.987234042553192
+    },
+    {
+        "name": "Space Invaders",
+        "rating": 7.5,
+        "reviews": 84,
+        "final_score": 6.940298507462686
+    },
+    {
+        "name": "Galaga",
+        "rating": 7.7,
+        "reviews": 53,
+        "final_score": 6.874757281553398
+    },
+    {
+        "name": "Pitfall",
+        "rating": 7.6,
+        "reviews": 35,
+        "final_score": 6.658823529411765
+    },
+    {
+        "name": "Dig Dug",
+        "rating": 7.3,
+        "reviews": 46,
+        "final_score": 6.622916666666666
+    },
+    {
+        "name": "Asteroids",
+        "rating": 7.3,
+        "reviews": 32,
+        "final_score": 6.507317073170732
+    },
+    {
+        "name": "Double Dragon",
+        "rating": 6.9,
+        "reviews": 64,
+        "final_score": 6.505263157894737
+    },
+    {
+        "name": "Frogger",
+        "rating": 7.1,
+        "reviews": 32,
+        "final_score": 6.429268292682927
+    },
+    {
+        "name": "Rampage",
+        "rating": 7.1,
+        "reviews": 22,
+        "final_score": 6.336111111111111
+    },
+    {
+        "name": "Adventure",
+        "rating": 7.3,
+        "reviews": 16,
+        "final_score": 6.315151515151515
+    },
+    {
+        "name": "Yars' Revenge [1981]",
+        "rating": 7.9,
+        "reviews": 9,
+        "final_score": 6.2898305084745765
+    },
+    {
+        "name": "Star Wars: The Arcade Game",
+        "rating": 7.4,
+        "reviews": 13,
+        "final_score": 6.288888888888889
+    },
+    {
+        "name": "Missile Command",
+        "rating": 7.1,
+        "reviews": 16,
+        "final_score": 6.266666666666667
+    },
+    {
+        "name": "Mario Bros.",
+        "rating": 6.3,
+        "reviews": 159,
+        "final_score": 6.22822966507177
+    },
+    {
+        "name": "Defender",
+        "rating": 7.3,
+        "reviews": 10,
+        "final_score": 6.216666666666667
+    },
+    {
+        "name": "California Games",
+        "rating": 6.8,
+        "reviews": 18,
+        "final_score": 6.211764705882352
+    },
+    {
+        "name": "Spy Hunter [2007]",
+        "rating": 6.9,
+        "reviews": 15,
+        "final_score": 6.207692307692308
+    },
+    {
+        "name": "Winter Games",
+        "rating": 8.8,
+        "reviews": 4,
+        "final_score": 6.207407407407407
+    },
+    {
+        "name": "Pitfall II: Lost Caverns",
+        "rating": 7.7,
+        "reviews": 6,
+        "final_score": 6.182142857142857
+    },
+    {
+        "name": "Centipede",
+        "rating": 6.6,
+        "reviews": 19,
+        "final_score": 6.165217391304347
+    },
+    {
+        "name": "Elevator Action",
+        "rating": 6.9,
+        "reviews": 11,
+        "final_score": 6.162295081967213
+    },
+    {
+        "name": "River Raid",
+        "rating": 7.3,
+        "reviews": 7,
+        "final_score": 6.159649122807018
+    },
+    {
+        "name": "Robot Tank",
+        "rating": 8.7,
+        "reviews": 3,
+        "final_score": 6.152830188679245
+    },
+    {
+        "name": "Keystone Kapers",
+        "rating": 7.6,
+        "reviews": 5,
+        "final_score": 6.1454545454545455
+    },
+    {
+        "name": "Decathlon",
+        "rating": 8.3,
+        "reviews": 3,
+        "final_score": 6.130188679245283
+    },
+    {
+        "name": "Gyruss",
+        "rating": 7.2,
+        "reviews": 6,
+        "final_score": 6.128571428571428
+    },
+    {
+        "name": "Moon Patrol",
+        "rating": 7.4,
+        "reviews": 5,
+        "final_score": 6.127272727272727
+    },
+    {
+        "name": "Donkey Kong Jr.",
+        "rating": 6.2,
+        "reviews": 84,
+        "final_score": 6.125373134328359
+    },
+    {
+        "name": "Frostbite",
+        "rating": 8.0,
+        "reviews": 3,
+        "final_score": 6.113207547169812
+    },
+    {
+        "name": "Qix",
+        "rating": 6.7,
+        "reviews": 9,
+        "final_score": 6.106779661016949
+    },
+    {
+        "name": "Freeway",
+        "rating": 7.3,
+        "reviews": 4,
+        "final_score": 6.096296296296296
+    },
+    {
+        "name": "Circus",
+        "rating": 7.7,
+        "reviews": 3,
+        "final_score": 6.09622641509434
+    },
+    {
+        "name": "Summer Games",
+        "rating": 7.7,
+        "reviews": 3,
+        "final_score": 6.09622641509434
+    },
+    {
+        "name": "Joust",
+        "rating": 6.3,
+        "reviews": 20,
+        "final_score": 6.085714285714285
+    },
+    {
+        "name": "Custer's Revenge",
+        "rating": 10.0,
+        "reviews": 1,
+        "final_score": 6.078431372549019
+    },
+    {
+        "name": "Flash Gordon",
+        "rating": 10.0,
+        "reviews": 1,
+        "final_score": 6.078431372549019
+    },
+    {
+        "name": "Kung-Fu Master",
+        "rating": 8.0,
+        "reviews": 2,
+        "final_score": 6.076923076923077
+    },
+    {
+        "name": "Robotron: 2084",
+        "rating": 6.7,
+        "reviews": 6,
+        "final_score": 6.075
+    },
+    {
+        "name": "Seaquest",
+        "rating": 7.3,
+        "reviews": 3,
+        "final_score": 6.073584905660377
+    },
+    {
+        "name": "Chopper Command",
+        "rating": 6.8,
+        "reviews": 5,
+        "final_score": 6.072727272727272
+    },
+    {
+        "name": "Combat [Atari]",
+        "rating": 6.4,
+        "reviews": 10,
+        "final_score": 6.066666666666666
+    },
+    {
+        "name": "Tempest",
+        "rating": 6.4,
+        "reviews": 10,
+        "final_score": 6.066666666666666
+    },
+    {
+        "name": "G.I. Joe: Cobra Strike",
+        "rating": 9.0,
+        "reviews": 1,
+        "final_score": 6.0588235294117645
+    },
+    {
+        "name": "Solaris",
+        "rating": 7.5,
+        "reviews": 2,
+        "final_score": 6.0576923076923075
+    },
+    {
+        "name": "Maze Craze: A Game of Cops and Robbers",
+        "rating": 7.0,
+        "reviews": 3,
+        "final_score": 6.056603773584905
+    },
+    {
+        "name": "Bump 'n' Jump",
+        "rating": 6.5,
+        "reviews": 6,
+        "final_score": 6.053571428571429
+    },
+    {
+        "name": "Basketball [Atari]",
+        "rating": 6.7,
+        "reviews": 3,
+        "final_score": 6.0396226415094345
+    },
+    {
+        "name": "Skiing",
+        "rating": 6.7,
+        "reviews": 3,
+        "final_score": 6.0396226415094345
+    },
+    {
+        "name": "Jungle Hunt",
+        "rating": 6.7,
+        "reviews": 3,
+        "final_score": 6.0396226415094345
+    },
+    {
+        "name": "Front Line",
+        "rating": 6.7,
+        "reviews": 3,
+        "final_score": 6.0396226415094345
+    },
+    {
+        "name": "Food Fight",
+        "rating": 8.0,
+        "reviews": 1,
+        "final_score": 6.03921568627451
+    },
+    {
+        "name": "Krull",
+        "rating": 8.0,
+        "reviews": 1,
+        "final_score": 6.03921568627451
+    },
+    {
+        "name": "Sorcerer's Apprentice",
+        "rating": 8.0,
+        "reviews": 1,
+        "final_score": 6.03921568627451
+    },
+    {
+        "name": "Montezuma's Revenge Featuring Panama Joe",
+        "rating": 8.0,
+        "reviews": 1,
+        "final_score": 6.03921568627451
+    },
+    {
+        "name": "Skateboardin'",
+        "rating": 8.0,
+        "reviews": 1,
+        "final_score": 6.03921568627451
+    },
+    {
+        "name": "Cosmic Commuter",
+        "rating": 8.0,
+        "reviews": 1,
+        "final_score": 6.03921568627451
+    },
+    {
+        "name": "Carnival",
+        "rating": 7.0,
+        "reviews": 2,
+        "final_score": 6.038461538461538
+    },
+    {
+        "name": "B.C.'s Quest for Tires",
+        "rating": 7.0,
+        "reviews": 2,
+        "final_score": 6.038461538461538
+    },
+    {
+        "name": "Tapper",
+        "rating": 7.0,
+        "reviews": 2,
+        "final_score": 6.038461538461538
+    },
+    {
+        "name": "Berzerk",
+        "rating": 6.5,
+        "reviews": 4,
+        "final_score": 6.037037037037037
+    },
+    {
+        "name": "Kaboom!",
+        "rating": 6.3,
+        "reviews": 6,
+        "final_score": 6.0321428571428575
+    },
+    {
+        "name": "Galaxian",
+        "rating": 6.2,
+        "reviews": 9,
+        "final_score": 6.030508474576272
+    },
+    {
+        "name": "Popeye [1982]",
+        "rating": 6.1,
+        "reviews": 16,
+        "final_score": 6.024242424242424
+    },
+    {
+        "name": "Q*bert",
+        "rating": 6.1,
+        "reviews": 15,
+        "final_score": 6.023076923076923
+    },
+    {
+        "name": "Warlords [1980]",
+        "rating": 6.3,
+        "reviews": 4,
+        "final_score": 6.022222222222222
+    },
+    {
+        "name": "Tennis [Atari 2600]",
+        "rating": 6.3,
+        "reviews": 4,
+        "final_score": 6.022222222222222
+    },
+    {
+        "name": "Sky Diver",
+        "rating": 7.0,
+        "reviews": 1,
+        "final_score": 6.019607843137255
+    },
+    {
+        "name": "Laser Blast",
+        "rating": 7.0,
+        "reviews": 1,
+        "final_score": 6.019607843137255
+    },
+    {
+        "name": "Tron: Deadly Discs",
+        "rating": 7.0,
+        "reviews": 1,
+        "final_score": 6.019607843137255
+    },
+    {
+        "name": "Starmaster",
+        "rating": 7.0,
+        "reviews": 1,
+        "final_score": 6.019607843137255
+    },
+    {
+        "name": "Atari Video Cube",
+        "rating": 7.0,
+        "reviews": 1,
+        "final_score": 6.019607843137255
+    },
+    {
+        "name": "Dungeon Master",
+        "rating": 7.0,
+        "reviews": 1,
+        "final_score": 6.019607843137255
+    },
+    {
+        "name": "Flag Capture",
+        "rating": 6.5,
+        "reviews": 2,
+        "final_score": 6.019230769230769
+    },
+    {
+        "name": "Video Pinball",
+        "rating": 6.5,
+        "reviews": 2,
+        "final_score": 6.019230769230769
+    },
+    {
+        "name": "Vanguard",
+        "rating": 6.5,
+        "reviews": 2,
+        "final_score": 6.019230769230769
+    },
+    {
+        "name": "Venture",
+        "rating": 6.5,
+        "reviews": 2,
+        "final_score": 6.019230769230769
+    },
+    {
+        "name": "Spider Fighter",
+        "rating": 6.5,
+        "reviews": 2,
+        "final_score": 6.019230769230769
+    },
+    {
+        "name": "Megamania",
+        "rating": 6.3,
+        "reviews": 3,
+        "final_score": 6.016981132075471
+    },
+    {
+        "name": "Sky Jinks",
+        "rating": 6.3,
+        "reviews": 3,
+        "final_score": 6.016981132075471
+    },
+    {
+        "name": "Pooyan",
+        "rating": 6.3,
+        "reviews": 3,
+        "final_score": 6.016981132075471
+    },
+    {
+        "name": "Time Pilot",
+        "rating": 6.3,
+        "reviews": 3,
+        "final_score": 6.016981132075471
+    },
+    {
+        "name": "Crystal Castles",
+        "rating": 6.3,
+        "reviews": 3,
+        "final_score": 6.016981132075471
+    },
+    {
+        "name": "Miner 2049er",
+        "rating": 6.3,
+        "reviews": 3,
+        "final_score": 6.016981132075471
+    },
+    {
+        "name": "Surround",
+        "rating": 6.0,
+        "reviews": 3,
+        "final_score": 6.0
+    },
+    {
+        "name": "Star Ship",
+        "rating": 6.0,
+        "reviews": 1,
+        "final_score": 6.0
+    },
+    {
+        "name": "Bowling [Atari 2600]",
+        "rating": 6.0,
+        "reviews": 5,
+        "final_score": 6.0
+    },
+    {
+        "name": "Checkers",
+        "rating": 6.0,
+        "reviews": 1,
+        "final_score": 6.0
+    },
+    {
+        "name": "Wizard of Wor",
+        "rating": 6.0,
+        "reviews": 1,
+        "final_score": 6.0
+    },
+    {
+        "name": "Solar Fox",
+        "rating": 6.0,
+        "reviews": 1,
+        "final_score": 6.0
+    },
+    {
+        "name": "Armor Ambush",
+        "rating": 6.0,
+        "reviews": 1,
+        "final_score": 6.0
+    },
+    {
+        "name": "Alien [Atari 2600]",
+        "rating": 6.0,
+        "reviews": 2,
+        "final_score": 6.0
+    },
+    {
+        "name": "Buck Rogers: Planet of Zoom",
+        "rating": 6.0,
+        "reviews": 2,
+        "final_score": 6.0
+    },
+    {
+        "name": "Demons to Diamonds",
+        "rating": 6.0,
+        "reviews": 2,
+        "final_score": 6.0
+    },
+    {
+        "name": "Pengo",
+        "rating": 6.0,
+        "reviews": 1,
+        "final_score": 6.0
+    },
+    {
+        "name": "Smurf: Rescue in Gargamel's Castle",
+        "rating": 6.0,
+        "reviews": 1,
+        "final_score": 6.0
+    },
+    {
+        "name": "Submarine Commander",
+        "rating": 6.0,
+        "reviews": 1,
+        "final_score": 6.0
+    },
+    {
+        "name": "Tape Worm",
+        "rating": 6.0,
+        "reviews": 1,
+        "final_score": 6.0
+    },
+    {
+        "name": "Pole Position",
+        "rating": 6.0,
+        "reviews": 3,
+        "final_score": 6.0
+    },
+    {
+        "name": "Dolphin",
+        "rating": 6.0,
+        "reviews": 1,
+        "final_score": 6.0
+    },
+    {
+        "name": "Jr. Pac-Man",
+        "rating": 6.0,
+        "reviews": 3,
+        "final_score": 6.0
+    },
+    {
+        "name": "Space Adventure",
+        "rating": 6.0,
+        "reviews": 1,
+        "final_score": 6.0
+    },
+    {
+        "name": "Commando",
+        "rating": 5.9,
+        "reviews": 7,
+        "final_score": 5.987719298245614
+    },
+    {
+        "name": "Air-Sea Battle",
+        "rating": 5.8,
+        "reviews": 4,
+        "final_score": 5.985185185185185
+    },
+    {
+        "name": "Kangaroo",
+        "rating": 5.8,
+        "reviews": 4,
+        "final_score": 5.985185185185185
+    },
+    {
+        "name": "Raiders of the Lost Ark",
+        "rating": 5.9,
+        "reviews": 9,
+        "final_score": 5.9847457627118645
+    },
+    {
+        "name": "RealSports Boxing",
+        "rating": 5.7,
+        "reviews": 3,
+        "final_score": 5.983018867924529
+    },
+    {
+        "name": "Xenophobe",
+        "rating": 5.7,
+        "reviews": 3,
+        "final_score": 5.983018867924529
+    },
+    {
+        "name": "Ikari Warriors",
+        "rating": 5.9,
+        "reviews": 11,
+        "final_score": 5.981967213114753
+    },
+    {
+        "name": "Atlantis",
+        "rating": 5.8,
+        "reviews": 5,
+        "final_score": 5.9818181818181815
+    },
+    {
+        "name": "Mr. Do!",
+        "rating": 5.8,
+        "reviews": 5,
+        "final_score": 5.9818181818181815
+    },
+    {
+        "name": "Gravitar",
+        "rating": 5.5,
+        "reviews": 2,
+        "final_score": 5.980769230769231
+    },
+    {
+        "name": "Desert Falcon",
+        "rating": 5.5,
+        "reviews": 2,
+        "final_score": 5.980769230769231
+    },
+    {
+        "name": "Indy 500 [2600]",
+        "rating": 5.0,
+        "reviews": 1,
+        "final_score": 5.980392156862745
+    },
+    {
+        "name": "Crazy Climber",
+        "rating": 5.0,
+        "reviews": 1,
+        "final_score": 5.980392156862745
+    },
+    {
+        "name": "Mines of Minos",
+        "rating": 5.0,
+        "reviews": 1,
+        "final_score": 5.980392156862745
+    },
+    {
+        "name": "Riddle of the Sphinx",
+        "rating": 5.0,
+        "reviews": 1,
+        "final_score": 5.980392156862745
+    },
+    {
+        "name": "Deadly Duck",
+        "rating": 5.0,
+        "reviews": 1,
+        "final_score": 5.980392156862745
+    },
+    {
+        "name": "Space Attack",
+        "rating": 5.0,
+        "reviews": 1,
+        "final_score": 5.980392156862745
+    },
+    {
+        "name": "Star Wars: Jedi Arena",
+        "rating": 5.0,
+        "reviews": 1,
+        "final_score": 5.980392156862745
+    },
+    {
+        "name": "Star Trek: Strategic Operations Simulator",
+        "rating": 5.0,
+        "reviews": 1,
+        "final_score": 5.980392156862745
+    },
+    {
+        "name": "Star Wars: Return of the Jedi -- Death Star Battle",
+        "rating": 5.0,
+        "reviews": 1,
+        "final_score": 5.980392156862745
+    },
+    {
+        "name": "Moonsweeper",
+        "rating": 5.0,
+        "reviews": 1,
+        "final_score": 5.980392156862745
+    },
+    {
+        "name": "RealSports Soccer",
+        "rating": 5.0,
+        "reviews": 1,
+        "final_score": 5.980392156862745
+    },
+    {
+        "name": "Ghostbusters [1984]",
+        "rating": 5.9,
+        "reviews": 14,
+        "final_score": 5.978125
+    },
+    {
+        "name": "Stampede",
+        "rating": 5.6,
+        "reviews": 5,
+        "final_score": 5.963636363636364
+    },
+    {
+        "name": "Barnstorming",
+        "rating": 5.5,
+        "reviews": 4,
+        "final_score": 5.962962962962963
+    },
+    {
+        "name": "Slot Racers",
+        "rating": 5.0,
+        "reviews": 2,
+        "final_score": 5.961538461538462
+    },
+    {
+        "name": "Circus Atari",
+        "rating": 5.0,
+        "reviews": 2,
+        "final_score": 5.961538461538462
+    },
+    {
+        "name": "Amidar",
+        "rating": 5.0,
+        "reviews": 2,
+        "final_score": 5.961538461538462
+    },
+    {
+        "name": "Adventures of Tron",
+        "rating": 5.0,
+        "reviews": 2,
+        "final_score": 5.961538461538462
+    },
+    {
+        "name": "Gorf",
+        "rating": 5.0,
+        "reviews": 2,
+        "final_score": 5.961538461538462
+    },
+    {
+        "name": "Backgammon",
+        "rating": 4.0,
+        "reviews": 1,
+        "final_score": 5.96078431372549
+    },
+    {
+        "name": "Steeplechase",
+        "rating": 4.0,
+        "reviews": 1,
+        "final_score": 5.96078431372549
+    },
+    {
+        "name": "Math Gran Prix",
+        "rating": 4.0,
+        "reviews": 1,
+        "final_score": 5.96078431372549
+    },
+    {
+        "name": "Swordquest Fireworld",
+        "rating": 4.0,
+        "reviews": 1,
+        "final_score": 5.96078431372549
+    },
+    {
+        "name": "Swordquest Waterworld",
+        "rating": 4.0,
+        "reviews": 1,
+        "final_score": 5.96078431372549
+    },
+    {
+        "name": "Defender II",
+        "rating": 4.0,
+        "reviews": 1,
+        "final_score": 5.96078431372549
+    },
+    {
+        "name": "Dragster",
+        "rating": 5.3,
+        "reviews": 3,
+        "final_score": 5.9603773584905655
+    },
+    {
+        "name": "Star Wars: The Empire Strikes Back [1982]",
+        "rating": 5.3,
+        "reviews": 3,
+        "final_score": 5.9603773584905655
+    },
+    {
+        "name": "Millipede",
+        "rating": 5.6,
+        "reviews": 7,
+        "final_score": 5.950877192982456
+    },
+    {
+        "name": "Scramble",
+        "rating": 5.3,
+        "reviews": 4,
+        "final_score": 5.948148148148148
+    },
+    {
+        "name": "RealSports Volleyball",
+        "rating": 5.3,
+        "reviews": 4,
+        "final_score": 5.948148148148148
+    },
+    {
+        "name": "Super Cobra",
+        "rating": 4.5,
+        "reviews": 2,
+        "final_score": 5.9423076923076925
+    },
+    {
+        "name": "Title Match Pro Wrestling",
+        "rating": 3.0,
+        "reviews": 1,
+        "final_score": 5.9411764705882355
+    },
+    {
+        "name": "Blackjack",
+        "rating": 4.7,
+        "reviews": 3,
+        "final_score": 5.926415094339623
+    },
+    {
+        "name": "Casino",
+        "rating": 4.0,
+        "reviews": 2,
+        "final_score": 5.923076923076923
+    },
+    {
+        "name": "Star Raiders",
+        "rating": 4.0,
+        "reviews": 2,
+        "final_score": 5.923076923076923
+    },
+    {
+        "name": "The Texas Chainsaw Massacre [1983]",
+        "rating": 4.0,
+        "reviews": 2,
+        "final_score": 5.923076923076923
+    },
+    {
+        "name": "Football [Atari Version]",
+        "rating": 2.0,
+        "reviews": 1,
+        "final_score": 5.921568627450981
+    },
+    {
+        "name": "Slot Machine",
+        "rating": 2.0,
+        "reviews": 1,
+        "final_score": 5.921568627450981
+    },
+    {
+        "name": "Bridge",
+        "rating": 2.0,
+        "reviews": 1,
+        "final_score": 5.921568627450981
+    },
+    {
+        "name": "Beat 'em and Eat 'em",
+        "rating": 2.0,
+        "reviews": 1,
+        "final_score": 5.921568627450981
+    },
+    {
+        "name": "Porky's",
+        "rating": 2.0,
+        "reviews": 1,
+        "final_score": 5.921568627450981
+    },
+    {
+        "name": "Boxing [1980]",
+        "rating": 5.2,
+        "reviews": 6,
+        "final_score": 5.914285714285714
+    },
+    {
+        "name": "Canyon Bomber",
+        "rating": 4.8,
+        "reviews": 4,
+        "final_score": 5.9111111111111105
+    },
+    {
+        "name": "Super Breakout",
+        "rating": 5.0,
+        "reviews": 5,
+        "final_score": 5.909090909090909
+    },
+    {
+        "name": "RealSports Football",
+        "rating": 3.5,
+        "reviews": 2,
+        "final_score": 5.903846153846154
+    },
+    {
+        "name": "RealSports Baseball",
+        "rating": 3.5,
+        "reviews": 2,
+        "final_score": 5.903846153846154
+    },
+    {
+        "name": "Basic Math",
+        "rating": 4.3,
+        "reviews": 3,
+        "final_score": 5.90377358490566
+    },
+    {
+        "name": "Video Chess",
+        "rating": 1.0,
+        "reviews": 1,
+        "final_score": 5.901960784313726
+    },
+    {
+        "name": "Frankenstein's Monster",
+        "rating": 1.0,
+        "reviews": 1,
+        "final_score": 5.901960784313726
+    },
+    {
+        "name": "Spider-Man [1982]",
+        "rating": 4.0,
+        "reviews": 3,
+        "final_score": 5.886792452830188
+    },
+    {
+        "name": "Homerun",
+        "rating": 3.0,
+        "reviews": 2,
+        "final_score": 5.884615384615385
+    },
+    {
+        "name": "Swordquest Earthworld",
+        "rating": 3.0,
+        "reviews": 2,
+        "final_score": 5.884615384615385
+    },
+    {
+        "name": "Stellar Track",
+        "rating": 2.5,
+        "reviews": 2,
+        "final_score": 5.865384615384615
+    },
+    {
+        "name": "Superman (1978)",
+        "rating": 3.8,
+        "reviews": 4,
+        "final_score": 5.837037037037037
+    },
+    {
+        "name": "Haunted House [1981]",
+        "rating": 4.3,
+        "reviews": 6,
+        "final_score": 5.817857142857143
+    },
+    {
+        "name": "E.T. The Extra-Terrestrial",
+        "rating": 3.8,
+        "reviews": 13,
+        "final_score": 5.546031746031746
+    }
+]
