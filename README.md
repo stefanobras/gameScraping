@@ -9,34 +9,34 @@ python games.py console:CONSOLE-ID year:DESIRED-YEAR-RANGE
 ```
 
 Console IDs:  
--**Atari 2600:** 2600  
--**Nintendo Entertainment System:** nes  
--**Sega Master System:** sms  
--**Super Nintendo Entertainment System:** snes  
--**Sega Genesis:** gen  
--**Game Boy:** gb  
--**PlayStation:** ps  
--**Nintendo 64:** n64  
--**Sega Saturn:** saturn  
--**Game Boy Color:** gbc  
--**PlayStation 2:** ps2  
--**Nintendo GameCube:** gcn  
--**Xbox:** xbox  
--**Dreamcast:** dc  
--**Game Boy Advance:** gba  
--**Nintendo Wii:** wii  
--**PlayStation 3:** ps3  
--**Xbox 360:** xbox-360  
--**Nintendo DS:** nds  
--**PlayStation Portable:** psp  
--**PlayStation 4:** ps4  
--**Xbox One:** xbox-one  
--**Nintendo Wii U:** wii-u  
--**Nintendo 3DS:** 3ds  
--**Nintendo Switch:** nintendo-switch  
--**PlayStation 5:** ps5  
--**Xbox Series X/S:** xbox-4  
--**PC:** pc  
+- **Atari 2600:** 2600  
+- **Nintendo Entertainment System:** nes  
+- **Sega Master System:** sms  
+- **Super Nintendo Entertainment System:** snes  
+- **Sega Genesis:** gen  
+- **Game Boy:** gb  
+- **PlayStation:** ps  
+- **Nintendo 64:** n64  
+- **Sega Saturn:** saturn  
+- **Game Boy Color:** gbc  
+- **PlayStation 2:** ps2  
+- **Nintendo GameCube:** gcn  
+- **Xbox:** xbox  
+- **Dreamcast:** dc  
+- **Game Boy Advance:** gba  
+- **Nintendo Wii:** wii  
+- **PlayStation 3:** ps3  
+- **Xbox 360:** xbox-360  
+- **Nintendo DS:** nds  
+- **PlayStation Portable:** psp  
+- **PlayStation 4:** ps4  
+- **Xbox One:** xbox-one  
+- **Nintendo Wii U:** wii-u  
+- **Nintendo 3DS:** 3ds  
+- **Nintendo Switch:** nintendo-switch  
+- **PlayStation 5:** ps5  
+- **Xbox Series X/S:** xbox-4  
+- **PC:** pc  
 
 Example Usage:  
 ```bash
