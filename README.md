@@ -43,7 +43,7 @@ Example Usage:
 python games.py console:n64 year:1996-2001
 ```
 
-Running the above command will open IGN’s website on Chrome (requiring ChromeDriver). The script will automatically navigate through the games, clicking on each one to compile their information.
+Running the above command will open IGN’s website on Chrome (ChromeDriver and Selenium are required). The script will automatically navigate through the games, clicking on each one to compile their information.
 
 ⚠ Note: This process might take some time, depending on the number of games being scraped. Additionally, the script may occasionally crash unexpectedly. To avoid losing progress, it is recommended to scrape games in smaller batches.
 
